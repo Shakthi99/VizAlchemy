@@ -1,0 +1,1107 @@
+﻿customer_id,product_id,rating(bin),review_date,review_id,review_text,rating
+1516,16,3.5,03-03-2024,1,"Customer service was excellent, product too.",4
+1516,1516,3.5,08-01-2024,2,"Customer service was excellent, product too.",4
+9066,1566,0.9,23-03-2024,3,Basic functionality but reliable.,1
+9066,66,0.9,25-03-2024,4,Basic functionality but reliable.,1
+1522,1522,2.6,03-03-2024,5,Better than similar products I have tried.,3
+1522,22,2.6,23-09-2024,6,Better than similar products I have tried.,3
+3008,1508,1.7,03-05-2024,7,"Fantastic, exactly what I needed.",2
+3008,8,1.7,27-02-2024,8,"Fantastic, exactly what I needed.",2
+60,1560,0.9,13-12-2023,9,Definitely recommend to others.,1
+60,60,0.9,04-11-2024,10,Definitely recommend to others.,1
+7512,12,3.5,16-01-2024,11,Could be better for the price point.,4
+7512,1512,3.5,13-11-2024,12,Could be better for the price point.,4
+21,1521,1.7,24-06-2024,13,Exactly what I was looking for.,2
+21,21,1.7,12-07-2024,14,Exactly what I was looking for.,2
+7510,10,1.7,19-01-2024,15,Very impressed with the build quality.,2
+7510,1510,1.7,30-12-2023,16,Very impressed with the build quality.,2
+1531,31,1.7,11-11-2024,17,"Not as described, slightly disappointed.",2
+1531,1531,1.7,28-04-2024,18,"Not as described, slightly disappointed.",2
+4537,37,4.3,08-06-2024,19,"Does the basics well, nothing fancy.",5
+4537,1537,4.3,28-12-2023,20,"Does the basics well, nothing fancy.",5
+7550,1550,2.6,16-10-2024,21,Outstanding quality and design.,3
+7550,50,2.6,18-03-2024,22,Outstanding quality and design.,3
+1575,75,4.3,05-07-2024,23,Could use some improvements.,5
+1575,1575,4.3,20-04-2024,24,Could use some improvements.,5
+9022,1522,2.6,29-02-2024,25,Better than similar products I have tried.,3
+9022,22,2.6,04-01-2024,26,Better than similar products I have tried.,3
+1525,25,0.9,20-12-2023,27,Decent product but overpriced.,1
+1525,1525,0.9,11-12-2023,28,Decent product but overpriced.,1
+7530,1530,2.6,04-12-2023,29,Absolutely love this product!,3
+7530,30,2.6,22-01-2024,30,Absolutely love this product!,3
+9050,1550,2.6,30-08-2024,31,Outstanding quality and design.,3
+9050,50,2.6,06-11-2024,32,Outstanding quality and design.,3
+72,72,4.3,05-10-2024,33,Really impressed with the quality.,5
+72,1572,4.3,09-11-2024,34,Really impressed with the quality.,5
+9056,1556,0.9,11-05-2024,35,Love the design and functionality.,1
+9056,56,0.9,30-05-2024,36,Love the design and functionality.,1
+9025,25,0.9,13-02-2024,37,Decent product but overpriced.,1
+9025,1525,0.9,31-05-2024,38,Decent product but overpriced.,1
+1521,1521,1.7,02-11-2024,39,Exactly what I was looking for.,2
+1521,21,1.7,11-11-2024,40,Exactly what I was looking for.,2
+7520,1520,2.6,27-12-2023,41,"Not worth the money, save your cash.",3
+7520,20,2.6,19-04-2024,42,"Not worth the money, save your cash.",3
+6011,1511,3.5,28-04-2024,43,"Shipping was fast, product works great!",4
+6011,11,3.5,25-04-2024,44,"Shipping was fast, product works great!",4
+6016,16,3.5,04-04-2024,45,"Customer service was excellent, product too.",4
+6016,1516,3.5,19-10-2024,46,"Customer service was excellent, product too.",4
+3060,1560,0.9,08-09-2024,47,Definitely recommend to others.,1
+3060,60,0.9,01-10-2024,48,Definitely recommend to others.,1
+9038,38,3.5,14-10-2024,49,Worth every penny spent.,4
+9038,1538,3.5,14-07-2024,50,Worth every penny spent.,4
+7524,24,4.3,04-11-2024,51,Would give it 6 stars if I could!,5
+7524,1524,4.3,30-05-2024,52,Would give it 6 stars if I could!,5
+3067,1567,3.5,18-12-2023,53,Impressive attention to detail.,4
+3067,67,3.5,11-06-2024,54,Impressive attention to detail.,4
+7507,7,2.6,19-10-2024,55,Amazing! Exceeded my expectations.,3
+7507,1507,2.6,30-05-2024,56,Amazing! Exceeded my expectations.,3
+7544,1544,4.3,23-07-2024,57,Minor issues but works as intended.,5
+7544,44,4.3,27-07-2024,58,Minor issues but works as intended.,5
+9,9,1.7,02-05-2024,59,"It is okay, does the job.",2
+9,1509,1.7,01-03-2024,60,"It is okay, does the job.",2
+1533,1533,3.5,24-08-2024,61,Good product but shipping took forever.,4
+1533,33,3.5,14-02-2024,62,Good product but shipping took forever.,4
+3037,37,4.3,22-10-2024,63,"Does the basics well, nothing fancy.",5
+3037,1537,4.3,02-03-2024,64,"Does the basics well, nothing fancy.",5
+4531,31,1.7,28-03-2024,65,"Not as described, slightly disappointed.",2
+4531,1531,1.7,07-02-2024,66,"Not as described, slightly disappointed.",2
+55,1555,2.6,18-09-2024,67,"Decent build quality, fair price.",3
+55,55,2.6,20-10-2024,68,"Decent build quality, fair price.",3
+7533,1533,3.5,19-12-2023,69,Good product but shipping took forever.,4
+7533,33,3.5,04-04-2024,70,Good product but shipping took forever.,4
+4527,27,4.3,11-07-2024,71,Had some issues but support was helpful.,5
+4527,1527,4.3,12-09-2024,72,Had some issues but support was helpful.,5
+4549,49,0.9,04-07-2024,73,"Not the best, but gets the job done.",1
+4549,1549,0.9,07-03-2024,74,"Not the best, but gets the job done.",1
+1535,1535,3.5,11-04-2024,75,Quality control needs improvement.,4
+1535,35,3.5,21-03-2024,76,Quality control needs improvement.,4
+6032,32,4.3,06-04-2024,77,"Functions perfectly, no issues so far.",5
+6032,1532,4.3,20-10-2024,78,"Functions perfectly, no issues so far.",5
+7579,79,0.9,01-12-2023,79,Would definitely buy again!,1
+7579,1579,0.9,24-05-2024,80,Would definitely buy again!,1
+6060,1560,0.9,09-11-2024,81,Definitely recommend to others.,1
+6060,60,0.9,28-10-2024,82,Definitely recommend to others.,1
+4574,1574,1.7,13-12-2023,83,"Fantastic product, fast shipping.",2
+4574,74,1.7,07-03-2024,84,"Fantastic product, fast shipping.",2
+6020,1520,2.6,17-04-2024,85,"Not worth the money, save your cash.",3
+6020,20,2.6,11-03-2024,86,"Not worth the money, save your cash.",3
+6021,1521,1.7,20-04-2024,87,Exactly what I was looking for.,2
+6021,21,1.7,17-09-2024,88,Exactly what I was looking for.,2
+6051,51,0.9,08-08-2024,89,Mixed feelings about this one.,1
+6051,1551,0.9,13-03-2024,90,Mixed feelings about this one.,1
+7521,1521,1.7,21-03-2024,91,Exactly what I was looking for.,2
+7521,21,1.7,12-06-2024,92,Exactly what I was looking for.,2
+19,1519,4.3,29-04-2024,93,"Works as advertised, no complaints.",5
+19,19,4.3,28-02-2024,94,"Works as advertised, no complaints.",5
+1547,47,0.9,07-09-2024,95,Perfect addition to my setup.,1
+1547,1547,0.9,16-03-2024,96,Perfect addition to my setup.,1
+3049,49,0.9,04-10-2024,97,"Not the best, but gets the job done.",1
+3049,1549,0.9,12-03-2024,98,"Not the best, but gets the job done.",1
+3070,70,2.6,17-07-2024,99,Met my expectations perfectly.,3
+3070,1570,2.6,17-05-2024,100,Met my expectations perfectly.,3
+4562,1562,1.7,20-01-2024,101,"Good product, slow delivery.",2
+4562,62,1.7,10-07-2024,102,"Good product, slow delivery.",2
+6033,1533,3.5,22-01-2024,103,Good product but shipping took forever.,4
+6033,33,3.5,18-04-2024,104,Good product but shipping took forever.,4
+9045,1545,1.7,28-11-2023,105,Exceeded my expectations completely.,2
+9045,45,1.7,23-06-2024,106,Exceeded my expectations completely.,2
+6038,38,3.5,16-02-2024,107,Worth every penny spent.,4
+6038,1538,3.5,04-07-2024,108,Worth every penny spent.,4
+6006,6,0.9,07-11-2024,109,"The item broke after a week, not happy.",1
+6006,1506,0.9,18-01-2024,110,"The item broke after a week, not happy.",1
+7515,1515,2.6,08-09-2024,111,"Lasted longer than expected, good purchase.",3
+7515,15,2.6,03-09-2024,112,"Lasted longer than expected, good purchase.",3
+6075,75,4.3,15-07-2024,113,Could use some improvements.,5
+6075,1575,4.3,06-03-2024,114,Could use some improvements.,5
+6076,1576,2.6,23-05-2024,115,"Great features, worth the wait.",3
+6076,76,2.6,23-01-2024,116,"Great features, worth the wait.",3
+7538,38,3.5,02-08-2024,117,Worth every penny spent.,4
+7538,1538,3.5,23-10-2024,118,Worth every penny spent.,4
+7546,1546,1.7,15-11-2024,119,"Just average, nothing remarkable.",2
+7546,46,1.7,02-05-2024,120,"Just average, nothing remarkable.",2
+3028,28,0.9,24-08-2024,121,"Solid construction, feels durable.",1
+3028,1528,0.9,16-12-2023,122,"Solid construction, feels durable.",1
+7503,3,0.9,21-04-2024,123,"Excellent quality, would buy again.",1
+7503,1503,0.9,14-04-2024,124,"Excellent quality, would buy again.",1
+7569,69,0.9,21-03-2024,125,Amazing value for the features.,1
+7569,1569,0.9,12-04-2024,126,Amazing value for the features.,1
+24,24,4.3,31-03-2024,127,Would give it 6 stars if I could!,5
+24,1524,4.3,28-09-2024,128,Would give it 6 stars if I could!,5
+3079,79,0.9,18-02-2024,129,Would definitely buy again!,1
+3079,1579,0.9,03-07-2024,130,Would definitely buy again!,1
+6041,1541,2.6,15-07-2024,131,Expected better quality materials.,3
+6041,41,2.6,02-05-2024,132,Expected better quality materials.,3
+4526,1526,0.9,14-09-2024,133,"Easy to use, great features.",1
+4526,26,0.9,07-11-2024,134,"Easy to use, great features.",1
+6017,1517,4.3,26-06-2024,135,Disappointed with the overall quality.,5
+6017,17,4.3,29-05-2024,136,Disappointed with the overall quality.,5
+9003,3,0.9,14-05-2024,137,"Excellent quality, would buy again.",1
+9003,1503,0.9,02-11-2024,138,"Excellent quality, would buy again.",1
+4563,1563,3.5,26-04-2024,139,Happy with the performance so far.,4
+4563,63,3.5,14-07-2024,140,Happy with the performance so far.,4
+17,1517,4.3,30-07-2024,141,Disappointed with the overall quality.,5
+17,17,4.3,08-04-2024,142,Disappointed with the overall quality.,5
+4514,1514,1.7,02-01-2024,143,"Average product, nothing special.",2
+4514,14,1.7,28-09-2024,144,"Average product, nothing special.",2
+45,1545,1.7,22-01-2024,145,Exceeded my expectations completely.,2
+45,45,1.7,28-09-2024,146,Exceeded my expectations completely.,2
+7501,1501,3.5,14-06-2024,147,"Great product, very satisfied!",4
+7501,1,3.5,06-07-2024,148,"Great product, very satisfied!",4
+7540,40,1.7,05-11-2024,149,Impressive features for the price.,2
+7540,1540,1.7,09-01-2024,150,Impressive features for the price.,2
+1562,1562,1.7,17-09-2024,151,"Good product, slow delivery.",2
+1562,62,1.7,16-12-2023,152,"Good product, slow delivery.",2
+4564,64,1.7,16-07-2024,153,Not quite what I was hoping for.,2
+4564,1564,1.7,16-08-2024,154,Not quite what I was hoping for.,2
+1528,28,0.9,24-06-2024,155,"Solid construction, feels durable.",1
+1528,1528,0.9,21-05-2024,156,"Solid construction, feels durable.",1
+9034,34,3.5,13-08-2024,157,Really happy with this purchase.,4
+9034,1534,3.5,19-10-2024,158,Really happy with this purchase.,4
+11,1511,3.5,08-11-2024,159,"Shipping was fast, product works great!",4
+11,11,3.5,12-08-2024,160,"Shipping was fast, product works great!",4
+3031,31,1.7,15-05-2024,161,"Not as described, slightly disappointed.",2
+3031,1531,1.7,24-04-2024,162,"Not as described, slightly disappointed.",2
+9078,78,0.9,01-06-2024,163,Good quality but instructions unclear.,1
+9078,1578,0.9,01-07-2024,164,Good quality but instructions unclear.,1
+4548,1548,3.5,21-10-2024,165,Wish I had bought this sooner!,4
+4548,48,3.5,05-08-2024,166,Wish I had bought this sooner!,4
+4571,71,4.3,29-07-2024,167,Solid product despite minor flaws.,5
+4571,1571,4.3,21-08-2024,168,Solid product despite minor flaws.,5
+3001,1501,3.5,04-04-2024,169,"Great product, very satisfied!",4
+3001,1,3.5,08-03-2024,170,"Great product, very satisfied!",4
+9016,16,3.5,17-03-2024,171,"Customer service was excellent, product too.",4
+9016,1516,3.5,15-05-2024,172,"Customer service was excellent, product too.",4
+1573,1573,4.3,30-10-2024,173,Works well but expensive for what it is.,5
+1573,73,4.3,15-11-2024,174,Works well but expensive for what it is.,5
+9075,75,4.3,19-01-2024,175,Could use some improvements.,5
+9075,1575,4.3,16-08-2024,176,Could use some improvements.,5
+1543,43,2.6,04-05-2024,177,"Great value, pleasantly surprised.",3
+1543,1543,2.6,05-05-2024,178,"Great value, pleasantly surprised.",3
+9009,9,1.7,20-11-2023,179,"It is okay, does the job.",2
+9009,1509,1.7,25-11-2023,180,"It is okay, does the job.",2
+70,70,2.6,24-11-2023,181,Met my expectations perfectly.,3
+70,1570,2.6,12-04-2024,182,Met my expectations perfectly.,3
+1546,1546,1.7,01-11-2024,183,"Just average, nothing remarkable.",2
+1546,46,1.7,19-09-2024,184,"Just average, nothing remarkable.",2
+6034,34,3.5,27-08-2024,185,Really happy with this purchase.,4
+6034,1534,3.5,08-02-2024,186,Really happy with this purchase.,4
+6007,7,2.6,08-04-2024,187,Amazing! Exceeded my expectations.,3
+6007,1507,2.6,12-07-2024,188,Amazing! Exceeded my expectations.,3
+6072,72,4.3,31-12-2023,189,Really impressed with the quality.,5
+6072,1572,4.3,01-02-2024,190,Really impressed with the quality.,5
+9001,1501,3.5,08-07-2024,191,"Great product, very satisfied!",4
+9001,1,3.5,03-06-2024,192,"Great product, very satisfied!",4
+3045,1545,1.7,23-09-2024,193,Exceeded my expectations completely.,2
+3045,45,1.7,21-02-2024,194,Exceeded my expectations completely.,2
+43,43,2.6,22-11-2023,195,"Great value, pleasantly surprised.",3
+43,1543,2.6,22-05-2024,196,"Great value, pleasantly surprised.",3
+6014,1514,1.7,18-06-2024,197,"Average product, nothing special.",2
+6014,14,1.7,06-03-2024,198,"Average product, nothing special.",2
+7551,51,0.9,14-04-2024,199,Mixed feelings about this one.,1
+7551,1551,0.9,19-09-2024,200,Mixed feelings about this one.,1
+1,1501,3.5,02-07-2024,201,"Great product, very satisfied!",4
+1,1,3.5,06-03-2024,202,"Great product, very satisfied!",4
+9048,1548,3.5,16-09-2024,203,Wish I had bought this sooner!,4
+9048,48,3.5,18-08-2024,204,Wish I had bought this sooner!,4
+3043,43,2.6,16-06-2024,205,"Great value, pleasantly surprised.",3
+3043,1543,2.6,24-08-2024,206,"Great value, pleasantly surprised.",3
+3036,36,1.7,06-11-2024,207,Outstanding performance and reliability.,2
+3036,1536,1.7,06-07-2024,208,Outstanding performance and reliability.,2
+7534,34,3.5,12-11-2024,209,Really happy with this purchase.,4
+7534,1534,3.5,05-09-2024,210,Really happy with this purchase.,4
+1571,71,4.3,18-08-2024,211,Solid product despite minor flaws.,5
+1571,1571,4.3,17-09-2024,212,Solid product despite minor flaws.,5
+3047,47,0.9,08-03-2024,213,Perfect addition to my setup.,1
+3047,1547,0.9,26-06-2024,214,Perfect addition to my setup.,1
+7502,2,0.9,26-08-2024,215,"Not what I expected, but still decent.",1
+7502,1502,0.9,29-04-2024,216,"Not what I expected, but still decent.",1
+25,25,0.9,12-07-2024,217,Decent product but overpriced.,1
+25,1525,0.9,25-02-2024,218,Decent product but overpriced.,1
+3055,1555,2.6,08-12-2023,219,"Decent build quality, fair price.",3
+3055,55,2.6,27-03-2024,220,"Decent build quality, fair price.",3
+1523,23,0.9,17-01-2024,221,Nice design but functionality is lacking.,1
+1523,1523,0.9,06-12-2023,222,Nice design but functionality is lacking.,1
+4540,40,1.7,19-03-2024,223,Impressive features for the price.,2
+4540,1540,1.7,28-06-2024,224,Impressive features for the price.,2
+1536,36,1.7,13-10-2024,225,Outstanding performance and reliability.,2
+1536,1536,1.7,30-07-2024,226,Outstanding performance and reliability.,2
+1559,1559,1.7,01-04-2024,227,Started strong but deteriorated quickly.,2
+1559,59,1.7,20-04-2024,228,Started strong but deteriorated quickly.,2
+1502,2,0.9,12-03-2024,229,"Not what I expected, but still decent.",1
+1502,1502,0.9,23-04-2024,230,"Not what I expected, but still decent.",1
+6048,1548,3.5,23-10-2024,231,Wish I had bought this sooner!,4
+6048,48,3.5,17-10-2024,232,Wish I had bought this sooner!,4
+7518,18,1.7,27-06-2024,233,Best purchase I have made this year!,2
+7518,1518,1.7,08-04-2024,234,Best purchase I have made this year!,2
+1557,57,2.6,03-12-2023,235,Some improvements needed but good overall.,3
+1557,1557,2.6,11-09-2024,236,Some improvements needed but good overall.,3
+7547,47,0.9,21-04-2024,237,Perfect addition to my setup.,1
+7547,1547,0.9,19-03-2024,238,Perfect addition to my setup.,1
+9077,77,1.7,24-10-2024,239,Satisfied with the purchase overall.,2
+9077,1577,1.7,11-01-2024,240,Satisfied with the purchase overall.,2
+1514,1514,1.7,06-11-2024,241,"Average product, nothing special.",2
+1514,14,1.7,22-10-2024,242,"Average product, nothing special.",2
+3078,78,0.9,12-10-2024,243,Good quality but instructions unclear.,1
+3078,1578,0.9,07-02-2024,244,Good quality but instructions unclear.,1
+4507,7,2.6,09-04-2024,245,Amazing! Exceeded my expectations.,3
+4507,1507,2.6,26-09-2024,246,Amazing! Exceeded my expectations.,3
+3007,7,2.6,21-07-2024,247,Amazing! Exceeded my expectations.,3
+3007,1507,2.6,05-08-2024,248,Amazing! Exceeded my expectations.,3
+3075,75,4.3,28-06-2024,249,Could use some improvements.,5
+3075,1575,4.3,02-06-2024,250,Could use some improvements.,5
+4570,70,2.6,05-01-2024,251,Met my expectations perfectly.,3
+4570,1570,2.6,15-12-2023,252,Met my expectations perfectly.,3
+3040,40,1.7,15-01-2024,253,Impressive features for the price.,2
+3040,1540,1.7,25-09-2024,254,Impressive features for the price.,2
+9028,28,0.9,20-04-2024,255,"Solid construction, feels durable.",1
+9028,1528,0.9,21-04-2024,256,"Solid construction, feels durable.",1
+7574,1574,1.7,08-01-2024,257,"Fantastic product, fast shipping.",2
+7574,74,1.7,06-11-2024,258,"Fantastic product, fast shipping.",2
+1554,1554,1.7,02-10-2024,259,Lives up to the hype completely.,2
+1554,54,1.7,25-08-2024,260,Lives up to the hype completely.,2
+3074,1574,1.7,16-09-2024,261,"Fantastic product, fast shipping.",2
+3074,74,1.7,14-12-2023,262,"Fantastic product, fast shipping.",2
+4569,69,0.9,29-10-2024,263,Amazing value for the features.,1
+4569,1569,0.9,02-01-2024,264,Amazing value for the features.,1
+69,69,0.9,31-12-2023,265,Amazing value for the features.,1
+69,1569,0.9,23-05-2024,266,Amazing value for the features.,1
+1549,49,0.9,23-07-2024,267,"Not the best, but gets the job done.",1
+1549,1549,0.9,02-07-2024,268,"Not the best, but gets the job done.",1
+9059,1559,1.7,12-10-2024,269,Started strong but deteriorated quickly.,2
+9059,59,1.7,30-06-2024,270,Started strong but deteriorated quickly.,2
+1564,64,1.7,10-01-2024,271,Not quite what I was hoping for.,2
+1564,1564,1.7,22-05-2024,272,Not quite what I was hoping for.,2
+9067,1567,3.5,08-08-2024,273,Impressive attention to detail.,4
+9067,67,3.5,21-09-2024,274,Impressive attention to detail.,4
+62,1562,1.7,03-07-2024,275,"Good product, slow delivery.",2
+62,62,1.7,22-06-2024,276,"Good product, slow delivery.",2
+6029,29,0.9,14-10-2024,277,"Pretty good, room for improvement though.",1
+6029,1529,0.9,02-11-2024,278,"Pretty good, room for improvement though.",1
+9043,43,2.6,29-11-2023,279,"Great value, pleasantly surprised.",3
+9043,1543,2.6,26-06-2024,280,"Great value, pleasantly surprised.",3
+4542,42,4.3,01-07-2024,281,Simple to set up and use daily.,5
+4542,1542,4.3,02-07-2024,282,Simple to set up and use daily.,5
+3,3,0.9,31-05-2024,283,"Excellent quality, would buy again.",1
+3,1503,0.9,15-07-2024,284,"Excellent quality, would buy again.",1
+9058,1558,2.6,08-03-2024,285,Excellent product for daily use.,3
+9058,58,2.6,26-02-2024,286,Excellent product for daily use.,3
+4513,13,4.3,30-11-2023,287,"Perfect for my needs, highly recommend.",5
+4513,1513,4.3,28-07-2024,288,"Perfect for my needs, highly recommend.",5
+5,1505,0.9,25-12-2023,289,Good value for the price.,1
+5,5,0.9,21-08-2024,290,Good value for the price.,1
+7506,6,0.9,08-06-2024,291,"The item broke after a week, not happy.",1
+7506,1506,0.9,12-12-2023,292,"The item broke after a week, not happy.",1
+7568,68,2.6,29-10-2024,293,Needs some refinement but promising.,3
+7568,1568,2.6,05-07-2024,294,Needs some refinement but promising.,3
+7560,1560,0.9,29-07-2024,295,Definitely recommend to others.,1
+7560,60,0.9,18-09-2024,296,Definitely recommend to others.,1
+4509,9,1.7,15-12-2023,297,"It is okay, does the job.",2
+4509,1509,1.7,14-11-2024,298,"It is okay, does the job.",2
+6012,12,3.5,21-09-2024,299,Could be better for the price point.,4
+6012,1512,3.5,08-10-2024,300,Could be better for the price point.,4
+6005,1505,0.9,24-06-2024,301,Good value for the price.,1
+6005,5,0.9,09-03-2024,302,Good value for the price.,1
+4566,1566,0.9,08-11-2024,303,Basic functionality but reliable.,1
+4566,66,0.9,25-05-2024,304,Basic functionality but reliable.,1
+7542,42,4.3,13-11-2024,305,Simple to set up and use daily.,5
+7542,1542,4.3,27-04-2024,306,Simple to set up and use daily.,5
+1555,1555,2.6,03-02-2024,307,"Decent build quality, fair price.",3
+1555,55,2.6,24-01-2024,308,"Decent build quality, fair price.",3
+68,68,2.6,29-01-2024,309,Needs some refinement but promising.,3
+68,1568,2.6,22-01-2024,310,Needs some refinement but promising.,3
+22,1522,2.6,29-01-2024,311,Better than similar products I have tried.,3
+22,22,2.6,15-07-2024,312,Better than similar products I have tried.,3
+41,1541,2.6,30-12-2023,313,Expected better quality materials.,3
+41,41,2.6,29-03-2024,314,Expected better quality materials.,3
+7519,1519,4.3,18-03-2024,315,"Works as advertised, no complaints.",5
+7519,19,4.3,13-12-2023,316,"Works as advertised, no complaints.",5
+1501,1501,3.5,21-10-2024,317,"Great product, very satisfied!",4
+1501,1,3.5,29-02-2024,318,"Great product, very satisfied!",4
+6071,71,4.3,06-08-2024,319,Solid product despite minor flaws.,5
+6071,1571,4.3,05-09-2024,320,Solid product despite minor flaws.,5
+20,1520,2.6,17-11-2023,321,"Not worth the money, save your cash.",3
+20,20,2.6,04-09-2024,322,"Not worth the money, save your cash.",3
+1527,27,4.3,27-04-2024,323,Had some issues but support was helpful.,5
+1527,1527,4.3,26-03-2024,324,Had some issues but support was helpful.,5
+34,34,3.5,21-02-2024,325,Really happy with this purchase.,4
+34,1534,3.5,10-07-2024,326,Really happy with this purchase.,4
+3003,3,0.9,14-09-2024,327,"Excellent quality, would buy again.",1
+3003,1503,0.9,15-11-2024,328,"Excellent quality, would buy again.",1
+29,29,0.9,28-08-2024,329,"Pretty good, room for improvement though.",1
+29,1529,0.9,02-11-2024,330,"Pretty good, room for improvement though.",1
+1511,1511,3.5,24-09-2024,331,"Shipping was fast, product works great!",4
+1511,11,3.5,30-04-2024,332,"Shipping was fast, product works great!",4
+4512,12,3.5,07-12-2023,333,Could be better for the price point.,4
+4512,1512,3.5,14-02-2024,334,Could be better for the price point.,4
+6009,9,1.7,10-04-2024,335,"It is okay, does the job.",2
+6009,1509,1.7,30-07-2024,336,"It is okay, does the job.",2
+3022,1522,2.6,05-11-2024,337,Better than similar products I have tried.,3
+3022,22,2.6,14-11-2024,338,Better than similar products I have tried.,3
+9039,39,0.9,29-02-2024,339,Some flaws but overall satisfactory.,1
+9039,1539,0.9,01-02-2024,340,Some flaws but overall satisfactory.,1
+30,1530,2.6,05-12-2023,341,Absolutely love this product!,3
+30,30,2.6,25-04-2024,342,Absolutely love this product!,3
+3004,1504,0.9,05-12-2023,343,The product arrived late but works well.,1
+3004,4,0.9,03-10-2024,344,The product arrived late but works well.,1
+4557,57,2.6,14-04-2024,345,Some improvements needed but good overall.,3
+4557,1557,2.6,04-10-2024,346,Some improvements needed but good overall.,3
+9041,1541,2.6,24-12-2023,347,Expected better quality materials.,3
+9041,41,2.6,21-02-2024,348,Expected better quality materials.,3
+9033,1533,3.5,05-12-2023,349,Good product but shipping took forever.,4
+9033,33,3.5,07-07-2024,350,Good product but shipping took forever.,4
+1552,1552,1.7,05-01-2024,351,"Reliable product, no regrets.",2
+1552,52,1.7,30-05-2024,352,"Reliable product, no regrets.",2
+6028,28,0.9,01-07-2024,353,"Solid construction, feels durable.",1
+6028,1528,0.9,16-09-2024,354,"Solid construction, feels durable.",1
+9051,51,0.9,17-11-2023,355,Mixed feelings about this one.,1
+9051,1551,0.9,08-09-2024,356,Mixed feelings about this one.,1
+1541,1541,2.6,08-02-2024,357,Expected better quality materials.,3
+1541,41,2.6,22-03-2024,358,Expected better quality materials.,3
+3061,61,3.5,06-07-2024,359,Better than I anticipated.,4
+3061,1561,3.5,29-08-2024,360,Better than I anticipated.,4
+51,51,0.9,28-04-2024,361,Mixed feelings about this one.,1
+51,1551,0.9,18-04-2024,362,Mixed feelings about this one.,1
+9070,70,2.6,24-05-2024,363,Met my expectations perfectly.,3
+9070,1570,2.6,08-07-2024,364,Met my expectations perfectly.,3
+1556,1556,0.9,24-12-2023,365,Love the design and functionality.,1
+1556,56,0.9,15-09-2024,366,Love the design and functionality.,1
+6030,1530,2.6,18-11-2023,367,Absolutely love this product!,3
+6030,30,2.6,14-10-2024,368,Absolutely love this product!,3
+6023,23,0.9,26-04-2024,369,Nice design but functionality is lacking.,1
+6023,1523,0.9,29-08-2024,370,Nice design but functionality is lacking.,1
+3054,1554,1.7,14-05-2024,371,Lives up to the hype completely.,2
+3054,54,1.7,28-02-2024,372,Lives up to the hype completely.,2
+1538,38,3.5,25-09-2024,373,Worth every penny spent.,4
+1538,1538,3.5,30-11-2023,374,Worth every penny spent.,4
+1558,1558,2.6,19-02-2024,375,Excellent product for daily use.,3
+1558,58,2.6,12-08-2024,376,Excellent product for daily use.,3
+1504,1504,0.9,13-04-2024,377,The product arrived late but works well.,1
+1504,4,0.9,24-11-2023,378,The product arrived late but works well.,1
+6078,78,0.9,12-08-2024,379,Good quality but instructions unclear.,1
+6078,1578,0.9,30-12-2023,380,Good quality but instructions unclear.,1
+64,64,1.7,03-01-2024,381,Not quite what I was hoping for.,2
+64,1564,1.7,03-08-2024,382,Not quite what I was hoping for.,2
+7553,1553,4.3,17-10-2024,383,Good features but poor execution.,5
+7553,53,4.3,29-01-2024,384,Good features but poor execution.,5
+3066,1566,0.9,03-08-2024,385,Basic functionality but reliable.,1
+3066,66,0.9,29-03-2024,386,Basic functionality but reliable.,1
+7517,1517,4.3,17-08-2024,387,Disappointed with the overall quality.,5
+7517,17,4.3,12-08-2024,388,Disappointed with the overall quality.,5
+6,6,0.9,15-07-2024,389,"The item broke after a week, not happy.",1
+6,1506,0.9,05-04-2024,390,"The item broke after a week, not happy.",1
+9011,1511,3.5,19-03-2024,391,"Shipping was fast, product works great!",4
+9011,11,3.5,08-09-2024,392,"Shipping was fast, product works great!",4
+57,57,2.6,26-03-2024,393,Some improvements needed but good overall.,3
+57,1557,2.6,06-02-2024,394,Some improvements needed but good overall.,3
+1517,1517,4.3,10-02-2024,395,Disappointed with the overall quality.,5
+1517,17,4.3,30-04-2024,396,Disappointed with the overall quality.,5
+53,1553,4.3,14-04-2024,397,Good features but poor execution.,5
+53,53,4.3,11-01-2024,398,Good features but poor execution.,5
+3027,27,4.3,26-04-2024,399,Had some issues but support was helpful.,5
+3027,1527,4.3,05-07-2024,400,Had some issues but support was helpful.,5
+1519,1519,4.3,03-04-2024,401,"Works as advertised, no complaints.",5
+1519,19,4.3,10-01-2024,402,"Works as advertised, no complaints.",5
+4555,1555,2.6,30-09-2024,403,"Decent build quality, fair price.",3
+4555,55,2.6,02-05-2024,404,"Decent build quality, fair price.",3
+4522,1522,2.6,16-12-2023,405,Better than similar products I have tried.,3
+4522,22,2.6,12-12-2023,406,Better than similar products I have tried.,3
+58,1558,2.6,06-02-2024,407,Excellent product for daily use.,3
+58,58,2.6,19-01-2024,408,Excellent product for daily use.,3
+6053,1553,4.3,08-04-2024,409,Good features but poor execution.,5
+6053,53,4.3,02-01-2024,410,Good features but poor execution.,5
+3018,18,1.7,21-05-2024,411,Best purchase I have made this year!,2
+3018,1518,1.7,26-09-2024,412,Best purchase I have made this year!,2
+7576,1576,2.6,31-05-2024,413,"Great features, worth the wait.",3
+7576,76,2.6,14-09-2024,414,"Great features, worth the wait.",3
+16,16,3.5,02-10-2024,415,"Customer service was excellent, product too.",4
+16,1516,3.5,14-04-2024,416,"Customer service was excellent, product too.",4
+9030,1530,2.6,06-07-2024,417,Absolutely love this product!,3
+9030,30,2.6,04-01-2024,418,Absolutely love this product!,3
+9065,65,1.7,25-11-2023,419,Superior quality compared to competitors.,2
+9065,1565,1.7,15-07-2024,420,Superior quality compared to competitors.,2
+1578,78,0.9,04-02-2024,421,Good quality but instructions unclear.,1
+1578,1578,0.9,21-05-2024,422,Good quality but instructions unclear.,1
+7522,1522,2.6,22-03-2024,423,Better than similar products I have tried.,3
+7522,22,2.6,28-01-2024,424,Better than similar products I have tried.,3
+1505,1505,0.9,27-09-2024,425,Good value for the price.,1
+1505,5,0.9,10-01-2024,426,Good value for the price.,1
+7527,27,4.3,03-07-2024,427,Had some issues but support was helpful.,5
+7527,1527,4.3,03-02-2024,428,Had some issues but support was helpful.,5
+7559,1559,1.7,12-04-2024,429,Started strong but deteriorated quickly.,2
+7559,59,1.7,08-09-2024,430,Started strong but deteriorated quickly.,2
+1544,1544,4.3,18-12-2023,431,Minor issues but works as intended.,5
+1544,44,4.3,24-07-2024,432,Minor issues but works as intended.,5
+1534,34,3.5,22-04-2024,433,Really happy with this purchase.,4
+1534,1534,3.5,29-09-2024,434,Really happy with this purchase.,4
+4503,3,0.9,18-08-2024,435,"Excellent quality, would buy again.",1
+4503,1503,0.9,07-08-2024,436,"Excellent quality, would buy again.",1
+4502,2,0.9,22-02-2024,437,"Not what I expected, but still decent.",1
+4502,1502,0.9,01-08-2024,438,"Not what I expected, but still decent.",1
+9006,6,0.9,08-10-2024,439,"The item broke after a week, not happy.",1
+9006,1506,0.9,25-09-2024,440,"The item broke after a week, not happy.",1
+1503,3,0.9,21-10-2024,441,"Excellent quality, would buy again.",1
+1503,1503,0.9,16-11-2024,442,"Excellent quality, would buy again.",1
+4515,1515,2.6,12-07-2024,443,"Lasted longer than expected, good purchase.",3
+4515,15,2.6,10-01-2024,444,"Lasted longer than expected, good purchase.",3
+6013,13,4.3,12-03-2024,445,"Perfect for my needs, highly recommend.",5
+6013,1513,4.3,27-10-2024,446,"Perfect for my needs, highly recommend.",5
+1568,68,2.6,17-02-2024,447,Needs some refinement but promising.,3
+1568,1568,2.6,07-04-2024,448,Needs some refinement but promising.,3
+1563,1563,3.5,14-08-2024,449,Happy with the performance so far.,4
+1563,63,3.5,30-12-2023,450,Happy with the performance so far.,4
+4506,6,0.9,22-06-2024,451,"The item broke after a week, not happy.",1
+4506,1506,0.9,08-04-2024,452,"The item broke after a week, not happy.",1
+1518,18,1.7,16-05-2024,453,Best purchase I have made this year!,2
+1518,1518,1.7,23-12-2023,454,Best purchase I have made this year!,2
+3025,25,0.9,19-08-2024,455,Decent product but overpriced.,1
+3025,1525,0.9,08-05-2024,456,Decent product but overpriced.,1
+4567,1567,3.5,18-12-2023,457,Impressive attention to detail.,4
+4567,67,3.5,06-11-2024,458,Impressive attention to detail.,4
+1512,12,3.5,02-11-2024,459,Could be better for the price point.,4
+1512,1512,3.5,11-01-2024,460,Could be better for the price point.,4
+3011,1511,3.5,07-11-2024,461,"Shipping was fast, product works great!",4
+3011,11,3.5,12-06-2024,462,"Shipping was fast, product works great!",4
+14,1514,1.7,31-08-2024,463,"Average product, nothing special.",2
+14,14,1.7,22-10-2024,464,"Average product, nothing special.",2
+9055,1555,2.6,15-12-2023,465,"Decent build quality, fair price.",3
+9055,55,2.6,16-05-2024,466,"Decent build quality, fair price.",3
+3059,1559,1.7,26-09-2024,467,Started strong but deteriorated quickly.,2
+3059,59,1.7,03-03-2024,468,Started strong but deteriorated quickly.,2
+3035,1535,3.5,12-02-2024,469,Quality control needs improvement.,4
+3035,35,3.5,04-04-2024,470,Quality control needs improvement.,4
+3076,1576,2.6,05-01-2024,471,"Great features, worth the wait.",3
+3076,76,2.6,23-11-2023,472,"Great features, worth the wait.",3
+3057,57,2.6,11-10-2024,473,Some improvements needed but good overall.,3
+3057,1557,2.6,02-06-2024,474,Some improvements needed but good overall.,3
+75,75,4.3,09-01-2024,475,Could use some improvements.,5
+75,1575,4.3,03-01-2024,476,Could use some improvements.,5
+1574,1574,1.7,10-05-2024,477,"Fantastic product, fast shipping.",2
+1574,74,1.7,26-02-2024,478,"Fantastic product, fast shipping.",2
+4538,38,3.5,15-06-2024,479,Worth every penny spent.,4
+4538,1538,3.5,06-09-2024,480,Worth every penny spent.,4
+4523,23,0.9,11-12-2023,481,Nice design but functionality is lacking.,1
+4523,1523,0.9,06-02-2024,482,Nice design but functionality is lacking.,1
+3072,72,4.3,19-02-2024,483,Really impressed with the quality.,5
+3072,1572,4.3,29-07-2024,484,Really impressed with the quality.,5
+3051,51,0.9,05-01-2024,485,Mixed feelings about this one.,1
+3051,1551,0.9,08-01-2024,486,Mixed feelings about this one.,1
+47,47,0.9,03-07-2024,487,Perfect addition to my setup.,1
+47,1547,0.9,23-05-2024,488,Perfect addition to my setup.,1
+1577,77,1.7,13-03-2024,489,Satisfied with the purchase overall.,2
+1577,1577,1.7,09-04-2024,490,Satisfied with the purchase overall.,2
+6008,1508,1.7,15-06-2024,491,"Fantastic, exactly what I needed.",2
+6008,8,1.7,15-03-2024,492,"Fantastic, exactly what I needed.",2
+35,1535,3.5,15-06-2024,493,Quality control needs improvement.,4
+35,35,3.5,19-08-2024,494,Quality control needs improvement.,4
+1530,1530,2.6,26-09-2024,495,Absolutely love this product!,3
+1530,30,2.6,13-04-2024,496,Absolutely love this product!,3
+38,38,3.5,03-09-2024,497,Worth every penny spent.,4
+38,1538,3.5,30-04-2024,498,Worth every penny spent.,4
+32,32,4.3,27-01-2024,499,"Functions perfectly, no issues so far.",5
+32,1532,4.3,25-12-2023,500,"Functions perfectly, no issues so far.",5
+9023,23,0.9,06-11-2024,501,Nice design but functionality is lacking.,1
+9023,1523,0.9,27-10-2024,502,Nice design but functionality is lacking.,1
+3024,24,4.3,05-03-2024,503,Would give it 6 stars if I could!,5
+3024,1524,4.3,12-06-2024,504,Would give it 6 stars if I could!,5
+49,49,0.9,21-03-2024,505,"Not the best, but gets the job done.",1
+49,1549,0.9,18-04-2024,506,"Not the best, but gets the job done.",1
+9068,68,2.6,19-09-2024,507,Needs some refinement but promising.,3
+9068,1568,2.6,21-05-2024,508,Needs some refinement but promising.,3
+9007,7,2.6,11-03-2024,509,Amazing! Exceeded my expectations.,3
+9007,1507,2.6,13-03-2024,510,Amazing! Exceeded my expectations.,3
+6059,1559,1.7,17-12-2023,511,Started strong but deteriorated quickly.,2
+6059,59,1.7,11-10-2024,512,Started strong but deteriorated quickly.,2
+9019,1519,4.3,31-05-2024,513,"Works as advertised, no complaints.",5
+9019,19,4.3,09-04-2024,514,"Works as advertised, no complaints.",5
+3017,1517,4.3,05-11-2024,515,Disappointed with the overall quality.,5
+3017,17,4.3,25-06-2024,516,Disappointed with the overall quality.,5
+1540,40,1.7,22-12-2023,517,Impressive features for the price.,2
+1540,1540,1.7,22-09-2024,518,Impressive features for the price.,2
+6056,1556,0.9,20-06-2024,519,Love the design and functionality.,1
+6056,56,0.9,03-08-2024,520,Love the design and functionality.,1
+6031,31,1.7,31-08-2024,521,"Not as described, slightly disappointed.",2
+6031,1531,1.7,18-01-2024,522,"Not as described, slightly disappointed.",2
+7558,1558,2.6,29-11-2023,523,Excellent product for daily use.,3
+7558,58,2.6,23-02-2024,524,Excellent product for daily use.,3
+6026,1526,0.9,02-05-2024,525,"Easy to use, great features.",1
+6026,26,0.9,31-05-2024,526,"Easy to use, great features.",1
+6019,1519,4.3,16-08-2024,527,"Works as advertised, no complaints.",5
+6019,19,4.3,27-07-2024,528,"Works as advertised, no complaints.",5
+3009,9,1.7,19-06-2024,529,"It is okay, does the job.",2
+3009,1509,1.7,31-10-2024,530,"It is okay, does the job.",2
+6015,1515,2.6,27-10-2024,531,"Lasted longer than expected, good purchase.",3
+6015,15,2.6,08-08-2024,532,"Lasted longer than expected, good purchase.",3
+1529,29,0.9,01-06-2024,533,"Pretty good, room for improvement though.",1
+1529,1529,0.9,01-07-2024,534,"Pretty good, room for improvement though.",1
+7513,13,4.3,22-12-2023,535,"Perfect for my needs, highly recommend.",5
+7513,1513,4.3,01-05-2024,536,"Perfect for my needs, highly recommend.",5
+9035,1535,3.5,02-04-2024,537,Quality control needs improvement.,4
+9035,35,3.5,22-04-2024,538,Quality control needs improvement.,4
+31,31,1.7,24-01-2024,539,"Not as described, slightly disappointed.",2
+31,1531,1.7,06-05-2024,540,"Not as described, slightly disappointed.",2
+6036,36,1.7,03-01-2024,541,Outstanding performance and reliability.,2
+6036,1536,1.7,08-03-2024,542,Outstanding performance and reliability.,2
+9046,1546,1.7,01-12-2023,543,"Just average, nothing remarkable.",2
+9046,46,1.7,16-03-2024,544,"Just average, nothing remarkable.",2
+6073,1573,4.3,10-12-2023,545,Works well but expensive for what it is.,5
+6073,73,4.3,14-09-2024,546,Works well but expensive for what it is.,5
+1539,39,0.9,07-06-2024,547,Some flaws but overall satisfactory.,1
+1539,1539,0.9,09-11-2024,548,Some flaws but overall satisfactory.,1
+56,1556,0.9,07-06-2024,549,Love the design and functionality.,1
+56,56,0.9,14-08-2024,550,Love the design and functionality.,1
+40,40,1.7,22-02-2024,551,Impressive features for the price.,2
+40,1540,1.7,01-03-2024,552,Impressive features for the price.,2
+13,13,4.3,08-08-2024,553,"Perfect for my needs, highly recommend.",5
+13,1513,4.3,23-11-2023,554,"Perfect for my needs, highly recommend.",5
+6010,10,1.7,04-03-2024,555,Very impressed with the build quality.,2
+6010,1510,1.7,15-07-2024,556,Very impressed with the build quality.,2
+9069,69,0.9,22-05-2024,557,Amazing value for the features.,1
+9069,1569,0.9,11-11-2024,558,Amazing value for the features.,1
+7504,1504,0.9,29-04-2024,559,The product arrived late but works well.,1
+7504,4,0.9,01-05-2024,560,The product arrived late but works well.,1
+73,1573,4.3,14-08-2024,561,Works well but expensive for what it is.,5
+73,73,4.3,22-05-2024,562,Works well but expensive for what it is.,5
+3058,1558,2.6,14-02-2024,563,Excellent product for daily use.,3
+3058,58,2.6,02-10-2024,564,Excellent product for daily use.,3
+3006,6,0.9,16-02-2024,565,"The item broke after a week, not happy.",1
+3006,1506,0.9,22-08-2024,566,"The item broke after a week, not happy.",1
+3012,12,3.5,10-02-2024,567,Could be better for the price point.,4
+3012,1512,3.5,04-06-2024,568,Could be better for the price point.,4
+7571,71,4.3,02-01-2024,569,Solid product despite minor flaws.,5
+7571,1571,4.3,08-02-2024,570,Solid product despite minor flaws.,5
+9061,61,3.5,19-11-2023,571,Better than I anticipated.,4
+9061,1561,3.5,26-03-2024,572,Better than I anticipated.,4
+9057,57,2.6,08-01-2024,573,Some improvements needed but good overall.,3
+9057,1557,2.6,27-03-2024,574,Some improvements needed but good overall.,3
+3019,1519,4.3,12-05-2024,575,"Works as advertised, no complaints.",5
+3019,19,4.3,09-02-2024,576,"Works as advertised, no complaints.",5
+4541,1541,2.6,24-11-2023,577,Expected better quality materials.,3
+4541,41,2.6,10-08-2024,578,Expected better quality materials.,3
+59,1559,1.7,05-10-2024,579,Started strong but deteriorated quickly.,2
+59,59,1.7,23-04-2024,580,Started strong but deteriorated quickly.,2
+4530,1530,2.6,12-01-2024,581,Absolutely love this product!,3
+4530,30,2.6,04-02-2024,582,Absolutely love this product!,3
+7539,39,0.9,10-04-2024,583,Some flaws but overall satisfactory.,1
+7539,1539,0.9,24-11-2023,584,Some flaws but overall satisfactory.,1
+7543,43,2.6,02-11-2024,585,"Great value, pleasantly surprised.",3
+7543,1543,2.6,18-04-2024,586,"Great value, pleasantly surprised.",3
+6003,3,0.9,03-12-2023,587,"Excellent quality, would buy again.",1
+6003,1503,0.9,18-05-2024,588,"Excellent quality, would buy again.",1
+4516,16,3.5,30-04-2024,589,"Customer service was excellent, product too.",4
+4516,1516,3.5,24-09-2024,590,"Customer service was excellent, product too.",4
+4568,68,2.6,31-03-2024,591,Needs some refinement but promising.,3
+4568,1568,2.6,26-05-2024,592,Needs some refinement but promising.,3
+6064,64,1.7,17-03-2024,593,Not quite what I was hoping for.,2
+6064,1564,1.7,13-11-2024,594,Not quite what I was hoping for.,2
+6049,49,0.9,24-04-2024,595,"Not the best, but gets the job done.",1
+6049,1549,0.9,31-07-2024,596,"Not the best, but gets the job done.",1
+3016,16,3.5,10-02-2024,597,"Customer service was excellent, product too.",4
+3016,1516,3.5,22-05-2024,598,"Customer service was excellent, product too.",4
+61,61,3.5,15-03-2024,599,Better than I anticipated.,4
+61,1561,3.5,18-12-2023,600,Better than I anticipated.,4
+1532,32,4.3,12-07-2024,601,"Functions perfectly, no issues so far.",5
+1532,1532,4.3,28-02-2024,602,"Functions perfectly, no issues so far.",5
+1526,1526,0.9,17-02-2024,603,"Easy to use, great features.",1
+1526,26,0.9,18-06-2024,604,"Easy to use, great features.",1
+7545,1545,1.7,09-06-2024,605,Exceeded my expectations completely.,2
+7545,45,1.7,23-10-2024,606,Exceeded my expectations completely.,2
+3021,1521,1.7,15-11-2024,607,Exactly what I was looking for.,2
+3021,21,1.7,20-05-2024,608,Exactly what I was looking for.,2
+3038,38,3.5,21-04-2024,609,Worth every penny spent.,4
+3038,1538,3.5,10-03-2024,610,Worth every penny spent.,4
+3068,68,2.6,12-03-2024,611,Needs some refinement but promising.,3
+3068,1568,2.6,04-01-2024,612,Needs some refinement but promising.,3
+7535,1535,3.5,04-10-2024,613,Quality control needs improvement.,4
+7535,35,3.5,04-02-2024,614,Quality control needs improvement.,4
+6022,1522,2.6,09-08-2024,615,Better than similar products I have tried.,3
+6022,22,2.6,07-05-2024,616,Better than similar products I have tried.,3
+9053,1553,4.3,01-07-2024,617,Good features but poor execution.,5
+9053,53,4.3,29-01-2024,618,Good features but poor execution.,5
+26,1526,0.9,28-06-2024,619,"Easy to use, great features.",1
+26,26,0.9,06-04-2024,620,"Easy to use, great features.",1
+1537,37,4.3,06-09-2024,621,"Does the basics well, nothing fancy.",5
+1537,1537,4.3,05-12-2023,622,"Does the basics well, nothing fancy.",5
+1513,13,4.3,23-11-2023,623,"Perfect for my needs, highly recommend.",5
+1513,1513,4.3,11-10-2024,624,"Perfect for my needs, highly recommend.",5
+1545,1545,1.7,25-12-2023,625,Exceeded my expectations completely.,2
+1545,45,1.7,07-12-2023,626,Exceeded my expectations completely.,2
+12,12,3.5,07-05-2024,627,Could be better for the price point.,4
+12,1512,3.5,15-08-2024,628,Could be better for the price point.,4
+9074,1574,1.7,08-07-2024,629,"Fantastic product, fast shipping.",2
+9074,74,1.7,12-02-2024,630,"Fantastic product, fast shipping.",2
+7525,25,0.9,03-03-2024,631,Decent product but overpriced.,1
+7525,1525,0.9,24-11-2023,632,Decent product but overpriced.,1
+7523,23,0.9,29-03-2024,633,Nice design but functionality is lacking.,1
+7523,1523,0.9,21-11-2023,634,Nice design but functionality is lacking.,1
+7577,77,1.7,20-10-2024,635,Satisfied with the purchase overall.,2
+7577,1577,1.7,29-11-2023,636,Satisfied with the purchase overall.,2
+48,1548,3.5,19-12-2023,637,Wish I had bought this sooner!,4
+48,48,3.5,18-07-2024,638,Wish I had bought this sooner!,4
+4535,1535,3.5,03-07-2024,639,Quality control needs improvement.,4
+4535,35,3.5,25-01-2024,640,Quality control needs improvement.,4
+7526,1526,0.9,22-03-2024,641,"Easy to use, great features.",1
+7526,26,0.9,24-12-2023,642,"Easy to use, great features.",1
+9036,36,1.7,24-03-2024,643,Outstanding performance and reliability.,2
+9036,1536,1.7,17-05-2024,644,Outstanding performance and reliability.,2
+76,1576,2.6,12-09-2024,645,"Great features, worth the wait.",3
+76,76,2.6,01-06-2024,646,"Great features, worth the wait.",3
+74,1574,1.7,09-08-2024,647,"Fantastic product, fast shipping.",2
+74,74,1.7,02-06-2024,648,"Fantastic product, fast shipping.",2
+3020,1520,2.6,30-04-2024,649,"Not worth the money, save your cash.",3
+3020,20,2.6,17-07-2024,650,"Not worth the money, save your cash.",3
+3069,69,0.9,29-08-2024,651,Amazing value for the features.,1
+3069,1569,0.9,11-11-2024,652,Amazing value for the features.,1
+9052,1552,1.7,11-09-2024,653,"Reliable product, no regrets.",2
+9052,52,1.7,22-11-2023,654,"Reliable product, no regrets.",2
+4552,1552,1.7,18-12-2023,655,"Reliable product, no regrets.",2
+4552,52,1.7,24-05-2024,656,"Reliable product, no regrets.",2
+9004,1504,0.9,30-08-2024,657,The product arrived late but works well.,1
+9004,4,0.9,06-04-2024,658,The product arrived late but works well.,1
+1542,42,4.3,30-05-2024,659,Simple to set up and use daily.,5
+1542,1542,4.3,05-06-2024,660,Simple to set up and use daily.,5
+3056,1556,0.9,10-03-2024,661,Love the design and functionality.,1
+3056,56,0.9,23-02-2024,662,Love the design and functionality.,1
+7573,1573,4.3,25-04-2024,663,Works well but expensive for what it is.,5
+7573,73,4.3,25-11-2023,664,Works well but expensive for what it is.,5
+67,1567,3.5,13-05-2024,665,Impressive attention to detail.,4
+67,67,3.5,02-07-2024,666,Impressive attention to detail.,4
+3014,1514,1.7,24-09-2024,667,"Average product, nothing special.",2
+3014,14,1.7,27-07-2024,668,"Average product, nothing special.",2
+9044,1544,4.3,03-07-2024,669,Minor issues but works as intended.,5
+9044,44,4.3,07-02-2024,670,Minor issues but works as intended.,5
+4550,1550,2.6,12-07-2024,671,Outstanding quality and design.,3
+4550,50,2.6,28-10-2024,672,Outstanding quality and design.,3
+1570,70,2.6,09-11-2024,673,Met my expectations perfectly.,3
+1570,1570,2.6,01-03-2024,674,Met my expectations perfectly.,3
+3010,10,1.7,09-09-2024,675,Very impressed with the build quality.,2
+3010,1510,1.7,26-09-2024,676,Very impressed with the build quality.,2
+1566,1566,0.9,11-08-2024,677,Basic functionality but reliable.,1
+1566,66,0.9,12-11-2024,678,Basic functionality but reliable.,1
+4536,36,1.7,20-02-2024,679,Outstanding performance and reliability.,2
+4536,1536,1.7,12-12-2023,680,Outstanding performance and reliability.,2
+9073,1573,4.3,26-12-2023,681,Works well but expensive for what it is.,5
+9073,73,4.3,21-11-2023,682,Works well but expensive for what it is.,5
+3052,1552,1.7,05-08-2024,683,"Reliable product, no regrets.",2
+3052,52,1.7,05-05-2024,684,"Reliable product, no regrets.",2
+4579,79,0.9,14-01-2024,685,Would definitely buy again!,1
+4579,1579,0.9,25-09-2024,686,Would definitely buy again!,1
+4533,1533,3.5,29-07-2024,687,Good product but shipping took forever.,4
+4533,33,3.5,25-07-2024,688,Good product but shipping took forever.,4
+9020,1520,2.6,04-11-2024,689,"Not worth the money, save your cash.",3
+9020,20,2.6,18-04-2024,690,"Not worth the money, save your cash.",3
+7556,1556,0.9,18-06-2024,691,Love the design and functionality.,1
+7556,56,0.9,18-01-2024,692,Love the design and functionality.,1
+1551,51,0.9,11-09-2024,693,Mixed feelings about this one.,1
+1551,1551,0.9,17-01-2024,694,Mixed feelings about this one.,1
+4565,65,1.7,30-08-2024,695,Superior quality compared to competitors.,2
+4565,1565,1.7,07-04-2024,696,Superior quality compared to competitors.,2
+3048,1548,3.5,12-05-2024,697,Wish I had bought this sooner!,4
+3048,48,3.5,06-11-2024,698,Wish I had bought this sooner!,4
+9032,32,4.3,20-03-2024,699,"Functions perfectly, no issues so far.",5
+9032,1532,4.3,22-12-2023,700,"Functions perfectly, no issues so far.",5
+9029,29,0.9,26-09-2024,701,"Pretty good, room for improvement though.",1
+9029,1529,0.9,28-10-2024,702,"Pretty good, room for improvement though.",1
+63,1563,3.5,29-03-2024,703,Happy with the performance so far.,4
+63,63,3.5,22-04-2024,704,Happy with the performance so far.,4
+7565,65,1.7,17-12-2023,705,Superior quality compared to competitors.,2
+7565,1565,1.7,31-07-2024,706,Superior quality compared to competitors.,2
+9071,71,4.3,05-12-2023,707,Solid product despite minor flaws.,5
+9071,1571,4.3,24-04-2024,708,Solid product despite minor flaws.,5
+6061,61,3.5,09-09-2024,709,Better than I anticipated.,4
+6061,1561,3.5,01-07-2024,710,Better than I anticipated.,4
+9042,42,4.3,07-06-2024,711,Simple to set up and use daily.,5
+9042,1542,4.3,29-06-2024,712,Simple to set up and use daily.,5
+71,71,4.3,18-06-2024,713,Solid product despite minor flaws.,5
+71,1571,4.3,07-12-2023,714,Solid product despite minor flaws.,5
+6065,65,1.7,27-12-2023,715,Superior quality compared to competitors.,2
+6065,1565,1.7,03-12-2023,716,Superior quality compared to competitors.,2
+7552,1552,1.7,22-12-2023,717,"Reliable product, no regrets.",2
+7552,52,1.7,28-06-2024,718,"Reliable product, no regrets.",2
+6001,1501,3.5,17-03-2024,719,"Great product, very satisfied!",4
+6001,1,3.5,24-04-2024,720,"Great product, very satisfied!",4
+77,77,1.7,25-05-2024,721,Satisfied with the purchase overall.,2
+77,1577,1.7,12-07-2024,722,Satisfied with the purchase overall.,2
+4556,1556,0.9,16-10-2024,723,Love the design and functionality.,1
+4556,56,0.9,28-01-2024,724,Love the design and functionality.,1
+1548,1548,3.5,26-08-2024,725,Wish I had bought this sooner!,4
+1548,48,3.5,08-05-2024,726,Wish I had bought this sooner!,4
+3046,1546,1.7,06-03-2024,727,"Just average, nothing remarkable.",2
+3046,46,1.7,29-03-2024,728,"Just average, nothing remarkable.",2
+1553,1553,4.3,15-06-2024,729,Good features but poor execution.,5
+1553,53,4.3,09-02-2024,730,Good features but poor execution.,5
+7557,57,2.6,22-11-2023,731,Some improvements needed but good overall.,3
+7557,1557,2.6,27-02-2024,732,Some improvements needed but good overall.,3
+6004,1504,0.9,30-05-2024,733,The product arrived late but works well.,1
+6004,4,0.9,06-01-2024,734,The product arrived late but works well.,1
+6068,68,2.6,15-07-2024,735,Needs some refinement but promising.,3
+6068,1568,2.6,19-03-2024,736,Needs some refinement but promising.,3
+7572,72,4.3,04-07-2024,737,Really impressed with the quality.,5
+7572,1572,4.3,26-02-2024,738,Really impressed with the quality.,5
+6079,79,0.9,20-02-2024,739,Would definitely buy again!,1
+6079,1579,0.9,09-04-2024,740,Would definitely buy again!,1
+9049,49,0.9,09-07-2024,741,"Not the best, but gets the job done.",1
+9049,1549,0.9,20-05-2024,742,"Not the best, but gets the job done.",1
+9040,40,1.7,18-11-2023,743,Impressive features for the price.,2
+9040,1540,1.7,21-04-2024,744,Impressive features for the price.,2
+6044,1544,4.3,17-09-2024,745,Minor issues but works as intended.,5
+6044,44,4.3,29-06-2024,746,Minor issues but works as intended.,5
+7528,28,0.9,31-03-2024,747,"Solid construction, feels durable.",1
+7528,1528,0.9,27-05-2024,748,"Solid construction, feels durable.",1
+1572,72,4.3,19-07-2024,749,Really impressed with the quality.,5
+1572,1572,4.3,15-08-2024,750,Really impressed with the quality.,5
+9002,2,0.9,28-01-2024,751,"Not what I expected, but still decent.",1
+9002,1502,0.9,21-11-2023,752,"Not what I expected, but still decent.",1
+3039,39,0.9,11-10-2024,753,Some flaws but overall satisfactory.,1
+3039,1539,0.9,12-07-2024,754,Some flaws but overall satisfactory.,1
+6027,27,4.3,21-07-2024,755,Had some issues but support was helpful.,5
+6027,1527,4.3,22-12-2023,756,Had some issues but support was helpful.,5
+3005,1505,0.9,10-12-2023,757,Good value for the price.,1
+3005,5,0.9,19-07-2024,758,Good value for the price.,1
+7537,37,4.3,29-07-2024,759,"Does the basics well, nothing fancy.",5
+7537,1537,4.3,01-07-2024,760,"Does the basics well, nothing fancy.",5
+36,36,1.7,17-12-2023,761,Outstanding performance and reliability.,2
+36,1536,1.7,27-07-2024,762,Outstanding performance and reliability.,2
+3063,1563,3.5,25-03-2024,763,Happy with the performance so far.,4
+3063,63,3.5,17-12-2023,764,Happy with the performance so far.,4
+4551,51,0.9,12-10-2024,765,Mixed feelings about this one.,1
+4551,1551,0.9,30-06-2024,766,Mixed feelings about this one.,1
+4578,78,0.9,24-10-2024,767,Good quality but instructions unclear.,1
+4578,1578,0.9,06-07-2024,768,Good quality but instructions unclear.,1
+9027,27,4.3,19-08-2024,769,Had some issues but support was helpful.,5
+9027,1527,4.3,09-09-2024,770,Had some issues but support was helpful.,5
+4525,25,0.9,30-07-2024,771,Decent product but overpriced.,1
+4525,1525,0.9,06-04-2024,772,Decent product but overpriced.,1
+6074,1574,1.7,17-05-2024,773,"Fantastic product, fast shipping.",2
+6074,74,1.7,23-03-2024,774,"Fantastic product, fast shipping.",2
+4519,1519,4.3,29-02-2024,775,"Works as advertised, no complaints.",5
+4519,19,4.3,17-05-2024,776,"Works as advertised, no complaints.",5
+9063,1563,3.5,24-06-2024,777,Happy with the performance so far.,4
+9063,63,3.5,10-09-2024,778,Happy with the performance so far.,4
+9062,1562,1.7,14-08-2024,779,"Good product, slow delivery.",2
+9062,62,1.7,08-04-2024,780,"Good product, slow delivery.",2
+6055,1555,2.6,10-02-2024,781,"Decent build quality, fair price.",3
+6055,55,2.6,03-11-2024,782,"Decent build quality, fair price.",3
+7548,1548,3.5,24-06-2024,783,Wish I had bought this sooner!,4
+7548,48,3.5,03-03-2024,784,Wish I had bought this sooner!,4
+1565,65,1.7,29-06-2024,785,Superior quality compared to competitors.,2
+1565,1565,1.7,09-08-2024,786,Superior quality compared to competitors.,2
+7511,1511,3.5,03-01-2024,787,"Shipping was fast, product works great!",4
+7511,11,3.5,10-08-2024,788,"Shipping was fast, product works great!",4
+4554,1554,1.7,22-04-2024,789,Lives up to the hype completely.,2
+4554,54,1.7,02-11-2024,790,Lives up to the hype completely.,2
+4544,1544,4.3,03-07-2024,791,Minor issues but works as intended.,5
+4544,44,4.3,02-08-2024,792,Minor issues but works as intended.,5
+4511,1511,3.5,16-10-2024,793,"Shipping was fast, product works great!",4
+4511,11,3.5,27-03-2024,794,"Shipping was fast, product works great!",4
+1510,10,1.7,01-04-2024,795,Very impressed with the build quality.,2
+1510,1510,1.7,15-11-2024,796,Very impressed with the build quality.,2
+9060,1560,0.9,05-10-2024,797,Definitely recommend to others.,1
+9060,60,0.9,13-03-2024,798,Definitely recommend to others.,1
+1561,61,3.5,06-04-2024,799,Better than I anticipated.,4
+1561,1561,3.5,21-07-2024,800,Better than I anticipated.,4
+9037,37,4.3,05-03-2024,801,"Does the basics well, nothing fancy.",5
+9037,1537,4.3,10-06-2024,802,"Does the basics well, nothing fancy.",5
+6043,43,2.6,19-06-2024,803,"Great value, pleasantly surprised.",3
+6043,1543,2.6,27-02-2024,804,"Great value, pleasantly surprised.",3
+7536,36,1.7,17-11-2023,805,Outstanding performance and reliability.,2
+7536,1536,1.7,09-06-2024,806,Outstanding performance and reliability.,2
+9013,13,4.3,25-10-2024,807,"Perfect for my needs, highly recommend.",5
+9013,1513,4.3,11-07-2024,808,"Perfect for my needs, highly recommend.",5
+7555,1555,2.6,18-03-2024,809,"Decent build quality, fair price.",3
+7555,55,2.6,03-05-2024,810,"Decent build quality, fair price.",3
+3032,32,4.3,17-04-2024,811,"Functions perfectly, no issues so far.",5
+3032,1532,4.3,06-09-2024,812,"Functions perfectly, no issues so far.",5
+3015,1515,2.6,02-02-2024,813,"Lasted longer than expected, good purchase.",3
+3015,15,2.6,17-12-2023,814,"Lasted longer than expected, good purchase.",3
+9076,1576,2.6,23-07-2024,815,"Great features, worth the wait.",3
+9076,76,2.6,22-05-2024,816,"Great features, worth the wait.",3
+79,79,0.9,11-04-2024,817,Would definitely buy again!,1
+79,1579,0.9,21-01-2024,818,Would definitely buy again!,1
+9017,1517,4.3,28-02-2024,819,Disappointed with the overall quality.,5
+9017,17,4.3,28-01-2024,820,Disappointed with the overall quality.,5
+3042,42,4.3,22-08-2024,821,Simple to set up and use daily.,5
+3042,1542,4.3,10-12-2023,822,Simple to set up and use daily.,5
+4534,34,3.5,26-11-2023,823,Really happy with this purchase.,4
+4534,1534,3.5,28-07-2024,824,Really happy with this purchase.,4
+4559,1559,1.7,19-03-2024,825,Started strong but deteriorated quickly.,2
+4559,59,1.7,01-01-2024,826,Started strong but deteriorated quickly.,2
+9072,72,4.3,13-11-2024,827,Really impressed with the quality.,5
+9072,1572,4.3,18-03-2024,828,Really impressed with the quality.,5
+4532,32,4.3,12-12-2023,829,"Functions perfectly, no issues so far.",5
+4532,1532,4.3,22-05-2024,830,"Functions perfectly, no issues so far.",5
+6037,37,4.3,28-09-2024,831,"Does the basics well, nothing fancy.",5
+6037,1537,4.3,24-08-2024,832,"Does the basics well, nothing fancy.",5
+3033,1533,3.5,11-04-2024,833,Good product but shipping took forever.,4
+3033,33,3.5,05-11-2024,834,Good product but shipping took forever.,4
+4520,1520,2.6,02-06-2024,835,"Not worth the money, save your cash.",3
+4520,20,2.6,09-06-2024,836,"Not worth the money, save your cash.",3
+4529,29,0.9,10-04-2024,837,"Pretty good, room for improvement though.",1
+4529,1529,0.9,15-07-2024,838,"Pretty good, room for improvement though.",1
+1550,1550,2.6,11-10-2024,839,Outstanding quality and design.,3
+1550,50,2.6,05-03-2024,840,Outstanding quality and design.,3
+28,28,0.9,21-01-2024,841,"Solid construction, feels durable.",1
+28,1528,0.9,24-11-2023,842,"Solid construction, feels durable.",1
+7564,64,1.7,09-07-2024,843,Not quite what I was hoping for.,2
+7564,1564,1.7,30-12-2023,844,Not quite what I was hoping for.,2
+46,1546,1.7,20-12-2023,845,"Just average, nothing remarkable.",2
+46,46,1.7,10-01-2024,846,"Just average, nothing remarkable.",2
+1576,1576,2.6,03-07-2024,847,"Great features, worth the wait.",3
+1576,76,2.6,02-10-2024,848,"Great features, worth the wait.",3
+6067,1567,3.5,15-05-2024,849,Impressive attention to detail.,4
+6067,67,3.5,05-04-2024,850,Impressive attention to detail.,4
+33,1533,3.5,17-06-2024,851,Good product but shipping took forever.,4
+33,33,3.5,13-02-2024,852,Good product but shipping took forever.,4
+6069,69,0.9,02-11-2024,853,Amazing value for the features.,1
+6069,1569,0.9,31-01-2024,854,Amazing value for the features.,1
+37,37,4.3,12-02-2024,855,"Does the basics well, nothing fancy.",5
+37,1537,4.3,14-03-2024,856,"Does the basics well, nothing fancy.",5
+1579,79,0.9,16-10-2024,857,Would definitely buy again!,1
+1579,1579,0.9,27-08-2024,858,Would definitely buy again!,1
+7516,16,3.5,12-08-2024,859,"Customer service was excellent, product too.",4
+7516,1516,3.5,07-11-2024,860,"Customer service was excellent, product too.",4
+7561,61,3.5,07-10-2024,861,Better than I anticipated.,4
+7561,1561,3.5,07-02-2024,862,Better than I anticipated.,4
+3050,1550,2.6,26-10-2024,863,Outstanding quality and design.,3
+3050,50,2.6,29-10-2024,864,Outstanding quality and design.,3
+50,1550,2.6,26-08-2024,865,Outstanding quality and design.,3
+50,50,2.6,01-03-2024,866,Outstanding quality and design.,3
+9008,1508,1.7,18-01-2024,867,"Fantastic, exactly what I needed.",2
+9008,8,1.7,02-05-2024,868,"Fantastic, exactly what I needed.",2
+7,7,2.6,30-12-2023,869,Amazing! Exceeded my expectations.,3
+7,1507,2.6,17-07-2024,870,Amazing! Exceeded my expectations.,3
+6046,1546,1.7,17-11-2023,871,"Just average, nothing remarkable.",2
+6046,46,1.7,17-01-2024,872,"Just average, nothing remarkable.",2
+6039,39,0.9,24-04-2024,873,Some flaws but overall satisfactory.,1
+6039,1539,0.9,26-04-2024,874,Some flaws but overall satisfactory.,1
+3002,2,0.9,22-02-2024,875,"Not what I expected, but still decent.",1
+3002,1502,0.9,23-12-2023,876,"Not what I expected, but still decent.",1
+7567,1567,3.5,03-10-2024,877,Impressive attention to detail.,4
+7567,67,3.5,29-01-2024,878,Impressive attention to detail.,4
+9015,1515,2.6,12-06-2024,879,"Lasted longer than expected, good purchase.",3
+9015,15,2.6,04-03-2024,880,"Lasted longer than expected, good purchase.",3
+15,1515,2.6,22-05-2024,881,"Lasted longer than expected, good purchase.",3
+15,15,2.6,21-06-2024,882,"Lasted longer than expected, good purchase.",3
+4501,1501,3.5,17-09-2024,883,"Great product, very satisfied!",4
+4501,1,3.5,16-08-2024,884,"Great product, very satisfied!",4
+6002,2,0.9,19-06-2024,885,"Not what I expected, but still decent.",1
+6002,1502,0.9,26-08-2024,886,"Not what I expected, but still decent.",1
+7570,70,2.6,08-08-2024,887,Met my expectations perfectly.,3
+7570,1570,2.6,08-05-2024,888,Met my expectations perfectly.,3
+3023,23,0.9,04-08-2024,889,Nice design but functionality is lacking.,1
+3023,1523,0.9,16-02-2024,890,Nice design but functionality is lacking.,1
+4575,75,4.3,19-05-2024,891,Could use some improvements.,5
+4575,1575,4.3,18-06-2024,892,Could use some improvements.,5
+1515,1515,2.6,27-08-2024,893,"Lasted longer than expected, good purchase.",3
+1515,15,2.6,10-04-2024,894,"Lasted longer than expected, good purchase.",3
+1567,1567,3.5,18-08-2024,895,Impressive attention to detail.,4
+1567,67,3.5,09-10-2024,896,Impressive attention to detail.,4
+6024,24,4.3,16-06-2024,897,Would give it 6 stars if I could!,5
+6024,1524,4.3,31-08-2024,898,Would give it 6 stars if I could!,5
+4560,1560,0.9,15-04-2024,899,Definitely recommend to others.,1
+4560,60,0.9,14-06-2024,900,Definitely recommend to others.,1
+9031,31,1.7,21-06-2024,901,"Not as described, slightly disappointed.",2
+9031,1531,1.7,12-05-2024,902,"Not as described, slightly disappointed.",2
+6070,70,2.6,11-09-2024,903,Met my expectations perfectly.,3
+6070,1570,2.6,01-07-2024,904,Met my expectations perfectly.,3
+3034,34,3.5,30-08-2024,905,Really happy with this purchase.,4
+3034,1534,3.5,04-12-2023,906,Really happy with this purchase.,4
+7563,1563,3.5,23-06-2024,907,Happy with the performance so far.,4
+7563,63,3.5,05-10-2024,908,Happy with the performance so far.,4
+4561,61,3.5,01-11-2024,909,Better than I anticipated.,4
+4561,1561,3.5,09-02-2024,910,Better than I anticipated.,4
+7505,1505,0.9,04-09-2024,911,Good value for the price.,1
+7505,5,0.9,23-02-2024,912,Good value for the price.,1
+6063,1563,3.5,20-04-2024,913,Happy with the performance so far.,4
+6063,63,3.5,23-08-2024,914,Happy with the performance so far.,4
+1507,7,2.6,28-10-2024,915,Amazing! Exceeded my expectations.,3
+1507,1507,2.6,21-12-2023,916,Amazing! Exceeded my expectations.,3
+4508,1508,1.7,28-02-2024,917,"Fantastic, exactly what I needed.",2
+4508,8,1.7,04-09-2024,918,"Fantastic, exactly what I needed.",2
+7509,9,1.7,11-03-2024,919,"It is okay, does the job.",2
+7509,1509,1.7,23-12-2023,920,"It is okay, does the job.",2
+42,42,4.3,12-03-2024,921,Simple to set up and use daily.,5
+42,1542,4.3,28-05-2024,922,Simple to set up and use daily.,5
+4521,1521,1.7,19-03-2024,923,Exactly what I was looking for.,2
+4521,21,1.7,28-02-2024,924,Exactly what I was looking for.,2
+4518,18,1.7,02-02-2024,925,Best purchase I have made this year!,2
+4518,1518,1.7,30-11-2023,926,Best purchase I have made this year!,2
+3062,1562,1.7,04-03-2024,927,"Good product, slow delivery.",2
+3062,62,1.7,01-09-2024,928,"Good product, slow delivery.",2
+78,78,0.9,26-02-2024,929,Good quality but instructions unclear.,1
+78,1578,0.9,08-01-2024,930,Good quality but instructions unclear.,1
+23,23,0.9,08-07-2024,931,Nice design but functionality is lacking.,1
+23,1523,0.9,23-12-2023,932,Nice design but functionality is lacking.,1
+1506,6,0.9,25-04-2024,933,"The item broke after a week, not happy.",1
+1506,1506,0.9,16-05-2024,934,"The item broke after a week, not happy.",1
+9010,10,1.7,28-11-2023,935,Very impressed with the build quality.,2
+9010,1510,1.7,26-02-2024,936,Very impressed with the build quality.,2
+18,18,1.7,29-04-2024,937,Best purchase I have made this year!,2
+18,1518,1.7,29-01-2024,938,Best purchase I have made this year!,2
+4505,1505,0.9,06-04-2024,939,Good value for the price.,1
+4505,5,0.9,19-01-2024,940,Good value for the price.,1
+3044,1544,4.3,04-11-2024,941,Minor issues but works as intended.,5
+3044,44,4.3,20-07-2024,942,Minor issues but works as intended.,5
+7529,29,0.9,01-02-2024,943,"Pretty good, room for improvement though.",1
+7529,1529,0.9,08-11-2024,944,"Pretty good, room for improvement though.",1
+7532,32,4.3,14-10-2024,945,"Functions perfectly, no issues so far.",5
+7532,1532,4.3,19-04-2024,946,"Functions perfectly, no issues so far.",5
+9047,47,0.9,28-03-2024,947,Perfect addition to my setup.,1
+9047,1547,0.9,05-04-2024,948,Perfect addition to my setup.,1
+6066,1566,0.9,28-09-2024,949,Basic functionality but reliable.,1
+6066,66,0.9,27-06-2024,950,Basic functionality but reliable.,1
+6062,1562,1.7,24-05-2024,951,"Good product, slow delivery.",2
+6062,62,1.7,17-02-2024,952,"Good product, slow delivery.",2
+39,39,0.9,04-05-2024,953,Some flaws but overall satisfactory.,1
+39,1539,0.9,30-01-2024,954,Some flaws but overall satisfactory.,1
+7566,1566,0.9,22-10-2024,955,Basic functionality but reliable.,1
+7566,66,0.9,29-08-2024,956,Basic functionality but reliable.,1
+66,1566,0.9,23-11-2023,957,Basic functionality but reliable.,1
+66,66,0.9,27-04-2024,958,Basic functionality but reliable.,1
+4545,1545,1.7,27-02-2024,959,Exceeded my expectations completely.,2
+4545,45,1.7,29-02-2024,960,Exceeded my expectations completely.,2
+9018,18,1.7,27-06-2024,961,Best purchase I have made this year!,2
+9018,1518,1.7,13-06-2024,962,Best purchase I have made this year!,2
+9005,1505,0.9,09-08-2024,963,Good value for the price.,1
+9005,5,0.9,28-11-2023,964,Good value for the price.,1
+3053,1553,4.3,18-03-2024,965,Good features but poor execution.,5
+3053,53,4.3,10-09-2024,966,Good features but poor execution.,5
+44,1544,4.3,27-07-2024,967,Minor issues but works as intended.,5
+44,44,4.3,24-07-2024,968,Minor issues but works as intended.,5
+3029,29,0.9,16-10-2024,969,"Pretty good, room for improvement though.",1
+3029,1529,0.9,16-01-2024,970,"Pretty good, room for improvement though.",1
+6052,1552,1.7,25-03-2024,971,"Reliable product, no regrets.",2
+6052,52,1.7,27-08-2024,972,"Reliable product, no regrets.",2
+4558,1558,2.6,01-01-2024,973,Excellent product for daily use.,3
+4558,58,2.6,11-12-2023,974,Excellent product for daily use.,3
+4504,1504,0.9,28-12-2023,975,The product arrived late but works well.,1
+4504,4,0.9,16-06-2024,976,The product arrived late but works well.,1
+27,27,4.3,16-07-2024,977,Had some issues but support was helpful.,5
+27,1527,4.3,06-07-2024,978,Had some issues but support was helpful.,5
+4577,77,1.7,02-06-2024,979,Satisfied with the purchase overall.,2
+4577,1577,1.7,30-12-2023,980,Satisfied with the purchase overall.,2
+6018,18,1.7,10-01-2024,981,Best purchase I have made this year!,2
+6018,1518,1.7,27-07-2024,982,Best purchase I have made this year!,2
+9012,12,3.5,25-03-2024,983,Could be better for the price point.,4
+9012,1512,3.5,30-03-2024,984,Could be better for the price point.,4
+6040,40,1.7,04-03-2024,985,Impressive features for the price.,2
+6040,1540,1.7,20-02-2024,986,Impressive features for the price.,2
+4517,1517,4.3,04-04-2024,987,Disappointed with the overall quality.,5
+4517,17,4.3,15-08-2024,988,Disappointed with the overall quality.,5
+1520,1520,2.6,09-04-2024,989,"Not worth the money, save your cash.",3
+1520,20,2.6,05-10-2024,990,"Not worth the money, save your cash.",3
+6057,57,2.6,06-03-2024,991,Some improvements needed but good overall.,3
+6057,1557,2.6,20-08-2024,992,Some improvements needed but good overall.,3
+9064,64,1.7,23-08-2024,993,Not quite what I was hoping for.,2
+9064,1564,1.7,06-04-2024,994,Not quite what I was hoping for.,2
+6035,1535,3.5,11-06-2024,995,Quality control needs improvement.,4
+6035,35,3.5,02-11-2024,996,Quality control needs improvement.,4
+6047,47,0.9,17-06-2024,997,Perfect addition to my setup.,1
+6047,1547,0.9,13-10-2024,998,Perfect addition to my setup.,1
+9026,1526,0.9,30-09-2024,999,"Easy to use, great features.",1
+9026,26,0.9,11-10-2024,1000,"Easy to use, great features.",1
+1569,69,0.9,02-09-2024,1037,Amazing value for the features.,1
+1569,1569,0.9,02-06-2024,1038,Amazing value for the features.,1
+6025,25,0.9,16-11-2024,1069,Decent product but overpriced.,1
+6025,1525,0.9,26-06-2024,1070,Decent product but overpriced.,1
+1560,60,0.9,06-07-2024,1064,Definitely recommend to others.,1
+1560,1560,0.9,24-05-2024,1063,Definitely recommend to others.,1
+3026,26,0.9,03-05-2024,1094,"Easy to use, great features.",1
+3026,1526,0.9,17-01-2024,1093,"Easy to use, great features.",1
+7578,78,0.9,20-05-2024,1039,Good quality but instructions unclear.,1
+7578,1578,0.9,04-02-2024,1040,Good quality but instructions unclear.,1
+7549,49,0.9,29-07-2024,1043,"Not the best, but gets the job done.",1
+7549,1549,0.9,07-10-2024,1044,"Not the best, but gets the job done.",1
+2,2,0.9,31-07-2024,1017,"Not what I expected, but still decent.",1
+2,1502,0.9,03-05-2024,1018,"Not what I expected, but still decent.",1
+4547,47,0.9,14-04-2024,1061,Perfect addition to my setup.,1
+4547,1547,0.9,05-03-2024,1062,Perfect addition to my setup.,1
+4528,28,0.9,25-07-2024,1081,"Solid construction, feels durable.",1
+4528,1528,0.9,29-03-2024,1082,"Solid construction, feels durable.",1
+4539,39,0.9,15-05-2024,1023,Some flaws but overall satisfactory.,1
+4539,1539,0.9,04-06-2024,1024,Some flaws but overall satisfactory.,1
+4,4,0.9,15-05-2024,1016,The product arrived late but works well.,1
+4,1504,0.9,22-04-2024,1015,The product arrived late but works well.,1
+9079,79,0.9,20-02-2024,1041,Would definitely buy again!,1
+9079,1579,0.9,09-04-2024,1042,Would definitely buy again!,1
+7514,14,1.7,20-09-2024,1030,"Average product, nothing special.",2
+9014,14,1.7,08-10-2024,1056,"Average product, nothing special.",2
+9014,1514,1.7,08-07-2024,1055,"Average product, nothing special.",2
+7514,1514,1.7,09-11-2024,1029,"Average product, nothing special.",2
+9021,21,1.7,17-07-2024,1068,Exactly what I was looking for.,2
+9021,1521,1.7,18-09-2024,1067,Exactly what I was looking for.,2
+6045,45,1.7,01-01-2024,1012,Exceeded my expectations completely.,2
+6045,1545,1.7,23-09-2024,1011,Exceeded my expectations completely.,2
+1508,8,1.7,08-03-2024,1010,"Fantastic, exactly what I needed.",2
+7508,8,1.7,23-04-2024,1080,"Fantastic, exactly what I needed.",2
+8,8,1.7,17-06-2024,1052,"Fantastic, exactly what I needed.",2
+7508,1508,1.7,28-05-2024,1079,"Fantastic, exactly what I needed.",2
+8,1508,1.7,06-06-2024,1051,"Fantastic, exactly what I needed.",2
+1508,1508,1.7,25-08-2024,1009,"Fantastic, exactly what I needed.",2
+7562,62,1.7,30-04-2024,1022,"Good product, slow delivery.",2
+7562,1562,1.7,15-12-2023,1021,"Good product, slow delivery.",2
+1509,9,1.7,06-04-2024,1059,"It is okay, does the job.",2
+1509,1509,1.7,12-02-2024,1060,"It is okay, does the job.",2
+4546,46,1.7,13-03-2024,1088,"Just average, nothing remarkable.",2
+4546,1546,1.7,29-04-2024,1087,"Just average, nothing remarkable.",2
+6054,54,1.7,18-02-2024,1092,Lives up to the hype completely.,2
+7554,54,1.7,13-06-2024,1036,Lives up to the hype completely.,2
+54,54,1.7,06-08-2024,1014,Lives up to the hype completely.,2
+9054,54,1.7,31-10-2024,1066,Lives up to the hype completely.,2
+9054,1554,1.7,20-11-2023,1065,Lives up to the hype completely.,2
+6054,1554,1.7,24-12-2023,1091,Lives up to the hype completely.,2
+7554,1554,1.7,09-07-2024,1035,Lives up to the hype completely.,2
+54,1554,1.7,20-09-2024,1013,Lives up to the hype completely.,2
+7531,31,1.7,19-06-2024,1019,"Not as described, slightly disappointed.",2
+7531,1531,1.7,07-03-2024,1020,"Not as described, slightly disappointed.",2
+3064,64,1.7,05-12-2023,1089,Not quite what I was hoping for.,2
+3064,1564,1.7,23-03-2024,1090,Not quite what I was hoping for.,2
+52,52,1.7,09-10-2024,1100,"Reliable product, no regrets.",2
+52,1552,1.7,18-03-2024,1099,"Reliable product, no regrets.",2
+6077,77,1.7,16-04-2024,1083,Satisfied with the purchase overall.,2
+3077,77,1.7,15-07-2024,1007,Satisfied with the purchase overall.,2
+3077,1577,1.7,26-11-2023,1008,Satisfied with the purchase overall.,2
+6077,1577,1.7,24-07-2024,1084,Satisfied with the purchase overall.,2
+65,65,1.7,22-12-2023,1057,Superior quality compared to competitors.,2
+3065,65,1.7,31-03-2024,1097,Superior quality compared to competitors.,2
+65,1565,1.7,05-03-2024,1058,Superior quality compared to competitors.,2
+3065,1565,1.7,01-10-2024,1098,Superior quality compared to competitors.,2
+10,10,1.7,19-01-2024,1047,Very impressed with the build quality.,2
+4510,10,1.7,05-09-2024,1005,Very impressed with the build quality.,2
+4510,1510,1.7,29-06-2024,1006,Very impressed with the build quality.,2
+10,1510,1.7,08-07-2024,1048,Very impressed with the build quality.,2
+3030,30,2.6,18-12-2023,1104,Absolutely love this product!,3
+3030,1530,2.6,25-10-2024,1103,Absolutely love this product!,3
+6058,58,2.6,15-06-2024,1078,Excellent product for daily use.,3
+6058,1558,2.6,08-05-2024,1077,Excellent product for daily use.,3
+3041,41,2.6,15-05-2024,1026,Expected better quality materials.,3
+7541,41,2.6,08-11-2024,1050,Expected better quality materials.,3
+3041,1541,2.6,19-11-2023,1025,Expected better quality materials.,3
+7541,1541,2.6,16-06-2024,1049,Expected better quality materials.,3
+4576,76,2.6,09-04-2024,1096,"Great features, worth the wait.",3
+4576,1576,2.6,24-07-2024,1095,"Great features, worth the wait.",3
+4543,43,2.6,31-01-2024,1045,"Great value, pleasantly surprised.",3
+4543,1543,2.6,08-08-2024,1046,"Great value, pleasantly surprised.",3
+6050,50,2.6,04-02-2024,1002,Outstanding quality and design.,3
+6050,1550,2.6,20-02-2024,1001,Outstanding quality and design.,3
+7575,75,4.3,05-07-2024,1003,Could use some improvements.,5
+7575,1575,4.3,15-02-2024,1004,Could use some improvements.,5
+4553,53,4.3,12-12-2023,1106,Good features but poor execution.,5
+4553,1553,4.3,26-01-2024,1105,Good features but poor execution.,5
+3013,13,4.3,22-02-2024,1075,"Perfect for my needs, highly recommend.",5
+3013,1513,4.3,13-04-2024,1076,"Perfect for my needs, highly recommend.",5
+4572,72,4.3,04-12-2023,1071,Really impressed with the quality.,5
+4572,1572,4.3,19-01-2024,1072,Really impressed with the quality.,5
+6042,42,4.3,08-06-2024,1031,Simple to set up and use daily.,5
+6042,1542,4.3,07-05-2024,1032,Simple to set up and use daily.,5
+3071,71,4.3,12-02-2024,1027,Solid product despite minor flaws.,5
+3071,1571,4.3,24-08-2024,1028,Solid product despite minor flaws.,5
+3073,73,4.3,15-01-2024,1086,Works well but expensive for what it is.,5
+4573,73,4.3,02-03-2024,1054,Works well but expensive for what it is.,5
+4573,1573,4.3,22-07-2024,1053,Works well but expensive for what it is.,5
+3073,1573,4.3,16-08-2024,1085,Works well but expensive for what it is.,5
+1524,24,4.3,17-03-2024,1073,Would give it 6 stars if I could!,5
+9024,24,4.3,04-06-2024,1033,Would give it 6 stars if I could!,5
+4524,24,4.3,25-07-2024,1101,Would give it 6 stars if I could!,5
+4524,1524,4.3,25-02-2024,1102,Would give it 6 stars if I could!,5
+1524,1524,4.3,01-06-2024,1074,Would give it 6 stars if I could!,5
+9024,1524,4.3,04-09-2024,1034,Would give it 6 stars if I could!,5

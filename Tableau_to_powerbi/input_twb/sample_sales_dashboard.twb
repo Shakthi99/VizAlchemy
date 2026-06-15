@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook source-build='2023.3.0' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <preferences>
+    <color-palette name='Default' type='regular'/>
+  </preferences>
+
+  <datasources>
+    <datasource caption='Orders' name='orders_ds' inline='true'>
+      <connection class='sqlserver' dbname='SalesDB' server='sql-prod.company.com' schema='dbo' authentication='sspi'>
+        <relation name='Orders' table='[dbo].[Orders]' type='table'/>
+      </connection>
+      <column caption='Order ID' datatype='string' name='[Order ID]' role='dimension' type='nominal'/>
+      <column caption='Order Date' datatype='date' name='[Order Date]' role='dimension' type='temporal'/>
+      <column caption='Ship Date' datatype='date' name='[Ship Date]' role='dimension' type='temporal'/>
+      <column caption='Customer ID' datatype='string' name='[Customer ID]' role='dimension' type='nominal'/>
+      <column caption='Customer Name' datatype='string' name='[Customer Name]' role='dimension' type='nominal'/>
+      <column caption='Segment' datatype='string' name='[Segment]' role='dimension' type='nominal'/>
+      <column caption='Region' datatype='string' name='[Region]' role='dimension' type='nominal'/>
+      <column caption='Category' datatype='string' name='[Category]' role='dimension' type='nominal'/>
+      <column caption='Sub-Category' datatype='string' name='[Sub-Category]' role='dimension' type='nominal'/>
+      <column caption='Product Name' datatype='string' name='[Product Name]' role='dimension' type='nominal'/>
+      <column caption='Sales' datatype='real' name='[Sales]' role='measure' type='quantitative'/>
+      <column caption='Quantity' datatype='integer' name='[Quantity]' role='measure' type='quantitative'/>
+      <column caption='Discount' datatype='real' name='[Discount]' role='measure' type='quantitative'/>
+      <column caption='Profit' datatype='real' name='[Profit]' role='measure' type='quantitative'/>
+
+      <!-- Calculated fields -->
+      <column caption='Profit Ratio' datatype='real' name='[Profit Ratio]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM([Profit])/SUM([Sales])'/>
+      </column>
+      <column caption='Sales per Customer' datatype='real' name='[Sales per Customer]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM([Sales])/COUNTD([Customer ID])'/>
+      </column>
+      <column caption='Days to Ship' datatype='integer' name='[Days to Ship]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='DATEDIFF(&#39;day&#39;,[Order Date],[Ship Date])'/>
+      </column>
+      <column caption='Above Average Sales' datatype='boolean' name='[Above Average Sales]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='SUM([Sales]) &gt; {FIXED [Region] : AVG(SUM([Sales]))}'/>
+      </column>
+      <column caption='Profit Band' datatype='string' name='[Profit Band]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [Profit] &gt; 500 THEN &quot;High&quot; ELSEIF [Profit] &gt; 0 THEN &quot;Medium&quot; ELSE &quot;Loss&quot; END'/>
+      </column>
+      <column caption='YTD Sales' datatype='real' name='[YTD Sales]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='RUNNING_SUM(SUM([Sales]))'/>
+      </column>
+      <column caption='Customer Upper' datatype='string' name='[Customer Upper]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='UPPER([Customer Name])'/>
+      </column>
+    </datasource>
+  </datasources>
+
+  <worksheets>
+    <worksheet name='Sales by Region'>
+      <table>
+        <datasource-dependencies datasource='orders_ds'>
+          <column name='[Region]'/>
+          <column name='[Sales]'/>
+        </datasource-dependencies>
+        <rows>SUM([Sales])</rows>
+        <cols>[Region]</cols>
+        <mark class='bar'/>
+        <filter class='categorical' column='[Segment]'>
+          <groupfilter function='member' member='Consumer'/>
+          <groupfilter function='member' member='Corporate'/>
+        </filter>
+      </table>
+    </worksheet>
+
+    <worksheet name='Profit by Category'>
+      <table>
+        <datasource-dependencies datasource='orders_ds'>
+          <column name='[Category]'/>
+          <column name='[Sub-Category]'/>
+          <column name='[Profit]'/>
+        </datasource-dependencies>
+        <rows>SUM([Profit])</rows>
+        <cols>[Category],[Sub-Category]</cols>
+        <mark class='bar'/>
+      </table>
+    </worksheet>
+
+    <worksheet name='Sales Trend'>
+      <table>
+        <datasource-dependencies datasource='orders_ds'>
+          <column name='[Order Date]'/>
+          <column name='[Sales]'/>
+          <column name='[Profit]'/>
+        </datasource-dependencies>
+        <rows>SUM([Sales]),SUM([Profit])</rows>
+        <cols>YEAR([Order Date]),MONTH([Order Date])</cols>
+        <mark class='line'/>
+      </table>
+    </worksheet>
+
+    <worksheet name='Customer Scatter'>
+      <table>
+        <datasource-dependencies datasource='orders_ds'>
+          <column name='[Sales]'/>
+          <column name='[Profit]'/>
+          <column name='[Customer Name]'/>
+          <column name='[Segment]'/>
+        </datasource-dependencies>
+        <rows>SUM([Profit])</rows>
+        <cols>SUM([Sales])</cols>
+        <mark class='circle'/>
+      </table>
+    </worksheet>
+
+    <worksheet name='Sales Map'>
+      <table>
+        <datasource-dependencies datasource='orders_ds'>
+          <column name='[Region]'/>
+          <column name='[Sales]'/>
+        </datasource-dependencies>
+        <rows/>
+        <cols/>
+        <mark class='filled_map'/>
+      </table>
+    </worksheet>
+
+    <worksheet name='KPI Summary'>
+      <table>
+        <datasource-dependencies datasource='orders_ds'>
+          <column name='[Sales]'/>
+          <column name='[Profit]'/>
+          <column name='[Quantity]'/>
+        </datasource-dependencies>
+        <rows>SUM([Sales]),SUM([Profit]),SUM([Quantity])</rows>
+        <cols/>
+        <mark class='text'/>
+      </table>
+    </worksheet>
+  </worksheets>
+
+  <dashboards>
+    <dashboard name='Executive Dashboard'>
+      <size maxwidth='1366' maxheight='768'/>
+      <zones>
+        <zone id='1' name='Sales by Region' type='sheet' x='0' y='0' w='683' h='384'/>
+        <zone id='2' name='Profit by Category' type='sheet' x='683' y='0' w='683' h='384'/>
+        <zone id='3' name='Sales Trend' type='sheet' x='0' y='384' w='683' h='384'/>
+        <zone id='4' name='KPI Summary' type='sheet' x='683' y='384' w='683' h='384'/>
+      </zones>
+      <actions>
+        <action name='Filter Region' type='filter' source-sheet='Sales by Region' target-sheet='Profit by Category'/>
+      </actions>
+    </dashboard>
+
+    <dashboard name='Customer Analysis'>
+      <size maxwidth='1366' maxheight='768'/>
+      <zones>
+        <zone id='5' name='Customer Scatter' type='sheet' x='0' y='0' w='910' h='768'/>
+        <zone id='6' name='Sales Map' type='sheet' x='910' y='0' w='456' h='768'/>
+      </zones>
+    </dashboard>
+  </dashboards>
+</workbook>

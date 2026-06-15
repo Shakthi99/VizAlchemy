@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Executive Dashboard",
+    "visuals": [
+      {
+        "visual_type": "barChart",
+        "title": "Sales by Region",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 50.0,
+        "h_pct": 50.0,
+        "fields": {
+          "values": [
+            "SUM(Sales)"
+          ],
+          "axis": [
+            "Region"
+          ]
+        },
+        "filters": [
+          {
+            "field": "Segment",
+            "type": "categorical",
+            "values": []
+          }
+        ],
+        "source_worksheet": "Sales by Region",
+        "confidence": 0.95,
+        "needs_review": false,
+        "review_reason": ""
+      },
+      {
+        "visual_type": "barChart",
+        "title": "Profit by Category",
+        "x_pct": 50.0,
+        "y_pct": 0.0,
+        "w_pct": 50.0,
+        "h_pct": 50.0,
+        "fields": {
+          "values": [
+            "SUM(Profit)"
+          ],
+          "axis": [
+            "Category",
+            "Sub-Category"
+          ]
+        },
+        "filters": [],
+        "source_worksheet": "Profit by Category",
+        "confidence": 0.95,
+        "needs_review": false,
+        "review_reason": ""
+      },
+      {
+        "visual_type": "lineChart",
+        "title": "Sales Trend",
+        "x_pct": 0.0,
+        "y_pct": 50.0,
+        "w_pct": 50.0,
+        "h_pct": 50.0,
+        "fields": {
+          "values": [
+            "SUM(Sales)",
+            "SUM(Profit)"
+          ],
+          "axis": [
+            "YEAR(Order Date)",
+            "MONTH(Order Date)"
+          ]
+        },
+        "filters": [],
+        "source_worksheet": "Sales Trend",
+        "confidence": 0.95,
+        "needs_review": false,
+        "review_reason": ""
+      },
+      {
+        "visual_type": "tableEx",
+        "title": "KPI Summary",
+        "x_pct": 50.0,
+        "y_pct": 50.0,
+        "w_pct": 50.0,
+        "h_pct": 50.0,
+        "fields": {
+          "values": [
+            "SUM(Sales)",
+            "SUM(Profit)",
+            "SUM(Quantity)"
+          ]
+        },
+        "filters": [],
+        "source_worksheet": "KPI Summary",
+        "confidence": 0.85,
+        "needs_review": false,
+        "review_reason": ""
+      }
+    ],
+    "source_dashboard": "Executive Dashboard"
+  },
+  {
+    "name": "Customer Analysis",
+    "visuals": [
+      {
+        "visual_type": "scatterChart",
+        "title": "Customer Scatter",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 66.62,
+        "h_pct": 100.0,
+        "fields": {
+          "values": [
+            "SUM(Profit)"
+          ],
+          "axis": [
+            "SUM(Sales)"
+          ]
+        },
+        "filters": [],
+        "source_worksheet": "Customer Scatter",
+        "confidence": 0.85,
+        "needs_review": false,
+        "review_reason": ""
+      },
+      {
+        "visual_type": "filledMap",
+        "title": "Sales Map",
+        "x_pct": 66.62,
+        "y_pct": 0.0,
+        "w_pct": 33.38,
+        "h_pct": 100.0,
+        "fields": {},
+        "filters": [],
+        "source_worksheet": "Sales Map",
+        "confidence": 0.8,
+        "needs_review": false,
+        "review_reason": ""
+      }
+    ],
+    "source_dashboard": "Customer Analysis"
+  }
+]

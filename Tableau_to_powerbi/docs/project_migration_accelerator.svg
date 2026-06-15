@@ -1,0 +1,107 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1240" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B132B"/>
+      <stop offset="0.5" stop-color="#12355B"/>
+      <stop offset="1" stop-color="#0A9396"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="338" y1="450" x2="1062" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="0.5" stop-color="#FFD166"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <filter id="blurGlow" x="-80" y="-80" width="1560" height="1060" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <filter id="softShadow" x="0" y="0" width="1400" height="900" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="28" flood-color="#001219" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="900" rx="36" fill="url(#bg)"/>
+
+  <g filter="url(#blurGlow)" opacity="0.45">
+    <circle cx="253" cy="206" r="140" fill="#F97316"/>
+    <circle cx="1160" cy="193" r="170" fill="#22C55E"/>
+    <circle cx="996" cy="710" r="150" fill="#38BDF8"/>
+  </g>
+
+  <circle cx="190" cy="130" r="4" fill="#E2E8F0" opacity="0.7"/>
+  <circle cx="250" cy="180" r="3" fill="#E2E8F0" opacity="0.45"/>
+  <circle cx="1148" cy="144" r="4" fill="#E2E8F0" opacity="0.65"/>
+  <circle cx="1215" cy="198" r="2.5" fill="#E2E8F0" opacity="0.4"/>
+  <circle cx="1090" cy="744" r="3.5" fill="#E2E8F0" opacity="0.55"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="84" y="90" width="1232" height="720" rx="34" fill="url(#card)" stroke="rgba(255,255,255,0.16)"/>
+  </g>
+
+  <text x="700" y="176" text-anchor="middle" fill="#F8FAFC" font-size="52" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Automatic Tableau to Power BI Migration Accelerator</text>
+  <text x="700" y="224" text-anchor="middle" fill="#CFE7F3" font-size="22" font-family="Segoe UI, Arial, sans-serif">Parse. Translate. Generate. Accelerate BI modernization.</text>
+
+  <g>
+    <rect x="148" y="300" width="300" height="340" rx="28" fill="#FFF7ED" fill-opacity="0.96"/>
+    <text x="298" y="352" text-anchor="middle" fill="#9A3412" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Tableau</text>
+    <text x="298" y="387" text-anchor="middle" fill="#C2410C" font-size="18" font-family="Segoe UI, Arial, sans-serif">Workbook Input</text>
+
+    <path d="M298 432L326 480H270L298 432Z" fill="#F97316"/>
+    <path d="M298 506L332 564H264L298 506Z" fill="#FB923C"/>
+    <path d="M236 506L270 564H202L236 506Z" fill="#FDBA74"/>
+    <path d="M360 506L394 564H326L360 506Z" fill="#FDBA74"/>
+
+    <rect x="186" y="594" width="224" height="26" rx="13" fill="#FED7AA"/>
+    <text x="298" y="612" text-anchor="middle" fill="#9A3412" font-size="15" font-family="Segoe UI, Arial, sans-serif">Dashboards .twb Metadata</text>
+  </g>
+
+  <g>
+    <rect x="504" y="262" width="392" height="416" rx="32" fill="#E0F2FE" fill-opacity="0.96"/>
+    <text x="700" y="326" text-anchor="middle" fill="#0F172A" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">AI Migration Engine</text>
+    <text x="700" y="363" text-anchor="middle" fill="#0F766E" font-size="19" font-family="Segoe UI, Arial, sans-serif">Intelligent translation pipeline</text>
+
+    <rect x="560" y="402" width="280" height="48" rx="16" fill="#FFFFFF"/>
+    <text x="700" y="433" text-anchor="middle" fill="#0F172A" font-size="19" font-family="Segoe UI, Arial, sans-serif">XML Parsing + Metadata Extraction</text>
+
+    <rect x="560" y="468" width="280" height="48" rx="16" fill="#FFFFFF"/>
+    <text x="700" y="499" text-anchor="middle" fill="#0F172A" font-size="19" font-family="Segoe UI, Arial, sans-serif">IR Modeling + Rule Mapping</text>
+
+    <rect x="560" y="534" width="280" height="48" rx="16" fill="#FFFFFF"/>
+    <text x="700" y="565" text-anchor="middle" fill="#0F172A" font-size="19" font-family="Segoe UI, Arial, sans-serif">DAX + Power Query Generation</text>
+
+    <g transform="translate(700 620)">
+      <circle r="34" fill="#0EA5E9"/>
+      <path d="M0-18L8-4L24 0L8 4L0 18L-8 4L-24 0L-8-4L0-18Z" fill="#ECFEFF"/>
+    </g>
+  </g>
+
+  <g>
+    <rect x="952" y="300" width="300" height="340" rx="28" fill="#F0FDF4" fill-opacity="0.96"/>
+    <text x="1102" y="352" text-anchor="middle" fill="#166534" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Power BI</text>
+    <text x="1102" y="387" text-anchor="middle" fill="#15803D" font-size="18" font-family="Segoe UI, Arial, sans-serif">Generated Output</text>
+
+    <rect x="1000" y="438" width="204" height="38" rx="14" fill="#DCFCE7"/>
+    <text x="1102" y="463" text-anchor="middle" fill="#166534" font-size="17" font-family="Segoe UI, Arial, sans-serif">Semantic Model</text>
+
+    <rect x="1000" y="490" width="204" height="38" rx="14" fill="#DCFCE7"/>
+    <text x="1102" y="515" text-anchor="middle" fill="#166534" font-size="17" font-family="Segoe UI, Arial, sans-serif">DAX Measures</text>
+
+    <rect x="1000" y="542" width="204" height="38" rx="14" fill="#DCFCE7"/>
+    <text x="1102" y="567" text-anchor="middle" fill="#166534" font-size="17" font-family="Segoe UI, Arial, sans-serif">Power Query</text>
+
+    <rect x="1000" y="594" width="204" height="38" rx="14" fill="#DCFCE7"/>
+    <text x="1102" y="619" text-anchor="middle" fill="#166534" font-size="17" font-family="Segoe UI, Arial, sans-serif">Report Layout + Review</text>
+  </g>
+
+  <path d="M448 470C498 470 484 470 534 470" stroke="url(#flow)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M866 470C916 470 902 470 952 470" stroke="url(#flow)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M513 470L535 458V482L513 470Z" fill="#FFD166"/>
+  <path d="M931 470L953 458V482L931 470Z" fill="#84CC16"/>
+
+  <g opacity="0.92">
+    <rect x="194" y="694" width="1012" height="72" rx="22" fill="#0F172A" fill-opacity="0.46" stroke="#E2E8F0" stroke-opacity="0.16"/>
+    <text x="700" y="739" text-anchor="middle" fill="#F8FAFC" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="600">From legacy dashboard logic to deployment-ready Power BI artifacts in one accelerated workflow</text>
+  </g>
+</svg>
