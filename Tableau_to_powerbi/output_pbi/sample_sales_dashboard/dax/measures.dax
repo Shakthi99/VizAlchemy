@@ -1,0 +1,45 @@
+-- Auto-generated DAX measures
+-- Review items marked with [REVIEW]
+
+-- Source: SUM([Profit])/SUM([Sales])
+MEASURE Orders[Profit Ratio] =
+    SUM(Orders[Profit])
+
+-- Source: SUM([Sales])/COUNTD([Customer ID])
+MEASURE Orders[Sales per Customer] =
+    SUM(Orders[Sales])
+
+-- Source: DATEDIFF('day',[Order Date],[Ship Date])
+MEASURE Orders[Days to Ship] =
+    DATEDIFF(Orders[Order Date], Orders[Ship Date], DAY)
+
+-- Source: SUM([Sales]) > {FIXED [Region] : AVG(SUM([Sales]))}
+MEASURE Orders[Above Average Sales] =
+    SUM(Orders[Sales])
+
+-- Source: IF [Profit] > 500 THEN "High" ELSEIF [Profit] > 0 THEN "Medium" ELSE "Loss" END
+MEASURE Orders[Profit Band] =
+    IF([Profit] > 500, "High" ELSEIF [Profit] > 0 THEN "Medium", "Loss")
+
+-- Source: RUNNING_SUM(SUM([Sales]))
+MEASURE Orders[YTD Sales] =
+    SUM(Orders[Sales])
+
+-- Source: UPPER([Customer Name])
+MEASURE Orders[Customer Upper] =
+    UPPER(Orders[Customer Name])
+
+MEASURE orders_ds[SUM of Sales] =
+    SUM(orders_ds[Sales])
+
+MEASURE orders_ds[SUM of Profit] =
+    SUM(orders_ds[Profit])
+
+MEASURE orders_ds[YEAR of Order Date] =
+    YEAR(orders_ds[Order Date])
+
+MEASURE orders_ds[MONTH of Order Date] =
+    MONTH(orders_ds[Order Date])
+
+MEASURE orders_ds[SUM of Quantity] =
+    SUM(orders_ds[Quantity])

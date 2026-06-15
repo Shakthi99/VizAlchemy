@@ -1,0 +1,2001 @@
+﻿category,product_id,product_name,supplier_id,price
+Furniture,1,Office Chair,501,445.01
+Home & Kitchen,2,Coffee Maker,502,937.29
+Electronics,3,Document Scanner,503,940.02
+Accessories,4,Desk Mat,504,76.11
+Accessories,5,Tablet Stand,505,388.17
+Furniture,6,Drawer Unit,506,457.31
+Home & Kitchen,7,Bath Towels,507,710.31
+Electronics,8,External SSD,508,522.82
+Electronics,9,Computer Speakers,509,20.36
+Electronics,10,Gaming Keyboard,510,776.2
+Accessories,11,Gaming Mouse Pad,511,313.63
+Home & Kitchen,12,Rice Cooker,512,161.04
+Accessories,13,Phone Grip,513,134.78
+Home & Kitchen,14,Toaster Oven,514,844.45
+Accessories,15,Laptop Stand,515,44.45
+Electronics,16,Mechanical Keyboard,516,931.97
+Home & Kitchen,17,Food Processor,517,139.62
+Furniture,18,Monitor Stand,518,413.14
+Accessories,19,Laptop Sleeve,519,394.45
+Electronics,20,Wireless Mouse,520,358.27
+Electronics,21,Power Strip,521,277.62
+Electronics,22,Microphone,522,648.71
+Furniture,23,Bookshelf,523,491.45
+Accessories,24,Portable Charger,524,635.81
+Electronics,25,Bluetooth Headphones,525,640.9
+Electronics,26,Noise Cancelling Headset,526,345.18
+Electronics,27,Smart Watch,527,824.9
+Accessories,28,Cable Organizer,528,942.15
+Home & Kitchen,29,Storage Containers,529,916.26
+Home & Kitchen,30,Kitchen Blender,530,163.28
+Home & Kitchen,31,Wall Clock,531,980.09
+Furniture,32,Storage Shelf,532,79.41
+Electronics,33,WiFi Router,533,148.6
+Home & Kitchen,34,Air Purifier,534,638.17
+Accessories,35,Smartphone Case,535,513.39
+Furniture,36,Standing Desk,536,788.9
+Home & Kitchen,37,Throw Pillows,537,832.24
+Electronics,38,Wireless Charger,538,545.44
+Electronics,39,Wireless Presenter,539,845.76
+Electronics,40,USB-C Hub,540,786.96
+Electronics,41,Wireless Earbuds,541,510.93
+Home & Kitchen,42,Electric Kettle,542,260.72
+Accessories,43,Desk Organizer,543,379.79
+Accessories,44,Screen Protector,544,423.14
+Home & Kitchen,45,Desk Lamp,545,582.2
+Electronics,46,4K Monitor,546,715.55
+Home & Kitchen,47,Water Bottle,547,431.25
+Furniture,48,File Cabinet,548,648.43
+Electronics,49,Webcam HD,549,6.19
+Accessories,50,Keyboard Wrist Rest,550,476.46
+Furniture,51,Office Chair,551,704.55
+Home & Kitchen,52,Coffee Maker,552,159.46
+Electronics,53,Document Scanner,553,241.3
+Accessories,54,Desk Mat,554,767.2
+Accessories,55,Tablet Stand,555,674.61
+Furniture,56,Drawer Unit,556,794.85
+Home & Kitchen,57,Bath Towels,557,995.21
+Electronics,58,External SSD,558,234.44
+Electronics,59,Computer Speakers,559,974.96
+Electronics,60,Gaming Keyboard,560,716.78
+Accessories,61,Gaming Mouse Pad,561,499.53
+Home & Kitchen,62,Rice Cooker,562,621.24
+Accessories,63,Phone Grip,563,519.33
+Home & Kitchen,64,Toaster Oven,564,377.45
+Accessories,65,Laptop Stand,565,599.96
+Electronics,66,Mechanical Keyboard,566,620.87
+Home & Kitchen,67,Food Processor,567,556.97
+Furniture,68,Monitor Stand,568,245.35
+Accessories,69,Laptop Sleeve,569,207.65
+Electronics,70,Wireless Mouse,570,405.55
+Electronics,71,Power Strip,571,278.21
+Electronics,72,Microphone,572,40.52
+Furniture,73,Bookshelf,573,524.58
+Accessories,74,Portable Charger,574,787.42
+Electronics,75,Bluetooth Headphones,575,476.96
+Electronics,76,Noise Cancelling Headset,576,622.66
+Electronics,77,Smart Watch,577,343.71
+Accessories,78,Cable Organizer,578,651.06
+Home & Kitchen,79,Storage Containers,579,530.41
+Home & Kitchen,80,Kitchen Blender,580,934.82
+Home & Kitchen,81,Wall Clock,581,7.22
+Furniture,82,Storage Shelf,582,179.59
+Electronics,83,WiFi Router,583,42.22
+Home & Kitchen,84,Air Purifier,584,653.46
+Accessories,85,Smartphone Case,585,847.65
+Furniture,86,Standing Desk,586,716.51
+Home & Kitchen,87,Throw Pillows,587,163.6
+Electronics,88,Wireless Charger,588,666.66
+Electronics,89,Wireless Presenter,589,244.38
+Electronics,90,USB-C Hub,590,402.24
+Electronics,91,Wireless Earbuds,591,20.87
+Home & Kitchen,92,Electric Kettle,592,599.17
+Accessories,93,Desk Organizer,593,600.11
+Accessories,94,Screen Protector,594,837.35
+Home & Kitchen,95,Desk Lamp,595,890.98
+Electronics,96,4K Monitor,596,619.95
+Home & Kitchen,97,Water Bottle,597,385.26
+Furniture,98,File Cabinet,598,126.58
+Electronics,99,Webcam HD,599,768.22
+Accessories,100,Keyboard Wrist Rest,600,438.39
+Furniture,101,Office Chair,501,713.74
+Home & Kitchen,102,Coffee Maker,502,995.68
+Electronics,103,Document Scanner,503,861.71
+Accessories,104,Desk Mat,504,605.58
+Accessories,105,Tablet Stand,505,367.19
+Furniture,106,Drawer Unit,506,955.29
+Home & Kitchen,107,Bath Towels,507,71.33
+Electronics,108,External SSD,508,37.16
+Electronics,109,Computer Speakers,509,55.02
+Electronics,110,Gaming Keyboard,510,9.53
+Accessories,111,Gaming Mouse Pad,511,169.2
+Home & Kitchen,112,Rice Cooker,512,78.53
+Accessories,113,Phone Grip,513,187.26
+Home & Kitchen,114,Toaster Oven,514,720.98
+Accessories,115,Laptop Stand,515,756.85
+Electronics,116,Mechanical Keyboard,516,212.51
+Home & Kitchen,117,Food Processor,517,717.92
+Furniture,118,Monitor Stand,518,92.46
+Accessories,119,Laptop Sleeve,519,482.86
+Electronics,120,Wireless Mouse,520,549.23
+Electronics,121,Power Strip,521,432.32
+Electronics,122,Microphone,522,338.97
+Furniture,123,Bookshelf,523,634.27
+Accessories,124,Portable Charger,524,705.93
+Electronics,125,Bluetooth Headphones,525,785.1
+Electronics,126,Noise Cancelling Headset,526,917.21
+Electronics,127,Smart Watch,527,125.24
+Accessories,128,Cable Organizer,528,660.55
+Home & Kitchen,129,Storage Containers,529,749.8
+Home & Kitchen,130,Kitchen Blender,530,147.44
+Home & Kitchen,131,Wall Clock,531,710.47
+Furniture,132,Storage Shelf,532,515.57
+Electronics,133,WiFi Router,533,751.9
+Home & Kitchen,134,Air Purifier,534,495.6
+Accessories,135,Smartphone Case,535,680.57
+Furniture,136,Standing Desk,536,313.5
+Home & Kitchen,137,Throw Pillows,537,670.17
+Electronics,138,Wireless Charger,538,889.87
+Electronics,139,Wireless Presenter,539,325.14
+Electronics,140,USB-C Hub,540,70.68
+Electronics,141,Wireless Earbuds,541,956.18
+Home & Kitchen,142,Electric Kettle,542,838.07
+Accessories,143,Desk Organizer,543,463.25
+Accessories,144,Screen Protector,544,693.15
+Home & Kitchen,145,Desk Lamp,545,396.51
+Electronics,146,4K Monitor,546,888.7
+Home & Kitchen,147,Water Bottle,547,114.1
+Furniture,148,File Cabinet,548,777.45
+Electronics,149,Webcam HD,549,652.22
+Accessories,150,Keyboard Wrist Rest,550,217.14
+Furniture,151,Office Chair,551,400.26
+Home & Kitchen,152,Coffee Maker,552,1.25
+Electronics,153,Document Scanner,553,971.63
+Accessories,154,Desk Mat,554,713.39
+Accessories,155,Tablet Stand,555,88.11
+Furniture,156,Drawer Unit,556,292.22
+Home & Kitchen,157,Bath Towels,557,638.45
+Electronics,158,External SSD,558,757.32
+Electronics,159,Computer Speakers,559,633.82
+Electronics,160,Gaming Keyboard,560,536.91
+Accessories,161,Gaming Mouse Pad,561,476.79
+Home & Kitchen,162,Rice Cooker,562,141.76
+Accessories,163,Phone Grip,563,813.86
+Home & Kitchen,164,Toaster Oven,564,770.31
+Accessories,165,Laptop Stand,565,739.58
+Electronics,166,Mechanical Keyboard,566,741.41
+Home & Kitchen,167,Food Processor,567,535.07
+Furniture,168,Monitor Stand,568,891.25
+Accessories,169,Laptop Sleeve,569,343.65
+Electronics,170,Wireless Mouse,570,290.93
+Electronics,171,Power Strip,571,132.95
+Electronics,172,Microphone,572,750.34
+Furniture,173,Bookshelf,573,903.96
+Accessories,174,Portable Charger,574,101.3
+Electronics,175,Bluetooth Headphones,575,254.73
+Electronics,176,Noise Cancelling Headset,576,534.78
+Electronics,177,Smart Watch,577,881.44
+Accessories,178,Cable Organizer,578,921.76
+Home & Kitchen,179,Storage Containers,579,618.01
+Home & Kitchen,180,Kitchen Blender,580,592.8
+Home & Kitchen,181,Wall Clock,581,792.26
+Furniture,182,Storage Shelf,582,770.46
+Electronics,183,WiFi Router,583,503.88
+Home & Kitchen,184,Air Purifier,584,551.88
+Accessories,185,Smartphone Case,585,134.04
+Furniture,186,Standing Desk,586,337.1
+Home & Kitchen,187,Throw Pillows,587,112.02
+Electronics,188,Wireless Charger,588,116.99
+Electronics,189,Wireless Presenter,589,281.92
+Electronics,190,USB-C Hub,590,151.66
+Electronics,191,Wireless Earbuds,591,850.85
+Home & Kitchen,192,Electric Kettle,592,216.51
+Accessories,193,Desk Organizer,593,459.72
+Accessories,194,Screen Protector,594,575.04
+Home & Kitchen,195,Desk Lamp,595,807.09
+Electronics,196,4K Monitor,596,187.11
+Home & Kitchen,197,Water Bottle,597,80.33
+Furniture,198,File Cabinet,598,560.4
+Electronics,199,Webcam HD,599,809.75
+Accessories,200,Keyboard Wrist Rest,600,153.88
+Furniture,201,Office Chair,501,327.92
+Home & Kitchen,202,Coffee Maker,502,211.92
+Electronics,203,Document Scanner,503,877.27
+Accessories,204,Desk Mat,504,923.37
+Accessories,205,Tablet Stand,505,331.01
+Furniture,206,Drawer Unit,506,670.5
+Home & Kitchen,207,Bath Towels,507,241.36
+Electronics,208,External SSD,508,419.98
+Electronics,209,Computer Speakers,509,955.8
+Electronics,210,Gaming Keyboard,510,822.1
+Accessories,211,Gaming Mouse Pad,511,871.02
+Home & Kitchen,212,Rice Cooker,512,667.5
+Accessories,213,Phone Grip,513,128.26
+Home & Kitchen,214,Toaster Oven,514,322.1
+Accessories,215,Laptop Stand,515,393
+Electronics,216,Mechanical Keyboard,516,908.76
+Home & Kitchen,217,Food Processor,517,252.67
+Furniture,218,Monitor Stand,518,438.79
+Accessories,219,Laptop Sleeve,519,477.95
+Electronics,220,Wireless Mouse,520,26.5
+Electronics,221,Power Strip,521,657.51
+Electronics,222,Microphone,522,668.94
+Furniture,223,Bookshelf,523,640.44
+Accessories,224,Portable Charger,524,316.48
+Electronics,225,Bluetooth Headphones,525,137.03
+Electronics,226,Noise Cancelling Headset,526,828.05
+Electronics,227,Smart Watch,527,583.51
+Accessories,228,Cable Organizer,528,225.41
+Home & Kitchen,229,Storage Containers,529,467.45
+Home & Kitchen,230,Kitchen Blender,530,300.28
+Home & Kitchen,231,Wall Clock,531,62.02
+Furniture,232,Storage Shelf,532,875.67
+Electronics,233,WiFi Router,533,767.58
+Home & Kitchen,234,Air Purifier,534,85.84
+Accessories,235,Smartphone Case,535,782.25
+Furniture,236,Standing Desk,536,82.48
+Home & Kitchen,237,Throw Pillows,537,322.78
+Electronics,238,Wireless Charger,538,61.99
+Electronics,239,Wireless Presenter,539,770.36
+Electronics,240,USB-C Hub,540,20.82
+Electronics,241,Wireless Earbuds,541,245
+Home & Kitchen,242,Electric Kettle,542,957.07
+Accessories,243,Desk Organizer,543,634.6
+Accessories,244,Screen Protector,544,722.31
+Home & Kitchen,245,Desk Lamp,545,176.96
+Electronics,246,4K Monitor,546,80.42
+Home & Kitchen,247,Water Bottle,547,165.03
+Furniture,248,File Cabinet,548,725.39
+Electronics,249,Webcam HD,549,927.28
+Accessories,250,Keyboard Wrist Rest,550,491.82
+Furniture,251,Office Chair,551,597.35
+Home & Kitchen,252,Coffee Maker,552,269.53
+Electronics,253,Document Scanner,553,323.45
+Accessories,254,Desk Mat,554,502.9
+Accessories,255,Tablet Stand,555,594.05
+Furniture,256,Drawer Unit,556,934.33
+Home & Kitchen,257,Bath Towels,557,922.32
+Electronics,258,External SSD,558,280.14
+Electronics,259,Computer Speakers,559,346.63
+Electronics,260,Gaming Keyboard,560,242.23
+Accessories,261,Gaming Mouse Pad,561,761.69
+Home & Kitchen,262,Rice Cooker,562,949.91
+Accessories,263,Phone Grip,563,834.83
+Home & Kitchen,264,Toaster Oven,564,910.88
+Accessories,265,Laptop Stand,565,619.75
+Electronics,266,Mechanical Keyboard,566,312.07
+Home & Kitchen,267,Food Processor,567,961.5
+Furniture,268,Monitor Stand,568,845.57
+Accessories,269,Laptop Sleeve,569,542.17
+Electronics,270,Wireless Mouse,570,162.78
+Electronics,271,Power Strip,571,369.14
+Electronics,272,Microphone,572,963.83
+Furniture,273,Bookshelf,573,892.45
+Accessories,274,Portable Charger,574,526.69
+Electronics,275,Bluetooth Headphones,575,925.92
+Electronics,276,Noise Cancelling Headset,576,198.38
+Electronics,277,Smart Watch,577,9.85
+Accessories,278,Cable Organizer,578,956.57
+Home & Kitchen,279,Storage Containers,579,654.23
+Home & Kitchen,280,Kitchen Blender,580,800.98
+Home & Kitchen,281,Wall Clock,581,400.97
+Furniture,282,Storage Shelf,582,341.72
+Electronics,283,WiFi Router,583,476.05
+Home & Kitchen,284,Air Purifier,584,183.87
+Accessories,285,Smartphone Case,585,620.59
+Furniture,286,Standing Desk,586,450.56
+Home & Kitchen,287,Throw Pillows,587,805.66
+Electronics,288,Wireless Charger,588,672.99
+Electronics,289,Wireless Presenter,589,175.2
+Electronics,290,USB-C Hub,590,877.47
+Electronics,291,Wireless Earbuds,591,12.64
+Home & Kitchen,292,Electric Kettle,592,866.11
+Accessories,293,Desk Organizer,593,160.78
+Accessories,294,Screen Protector,594,648.22
+Home & Kitchen,295,Desk Lamp,595,191.5
+Electronics,296,4K Monitor,596,590.9
+Home & Kitchen,297,Water Bottle,597,629.95
+Furniture,298,File Cabinet,598,246.76
+Electronics,299,Webcam HD,599,589.03
+Accessories,300,Keyboard Wrist Rest,600,23.61
+Furniture,301,Office Chair,501,123.12
+Home & Kitchen,302,Coffee Maker,502,160.82
+Electronics,303,Document Scanner,503,378.57
+Accessories,304,Desk Mat,504,938
+Accessories,305,Tablet Stand,505,164.58
+Furniture,306,Drawer Unit,506,90.45
+Home & Kitchen,307,Bath Towels,507,921.56
+Electronics,308,External SSD,508,676.62
+Electronics,309,Computer Speakers,509,864.9
+Electronics,310,Gaming Keyboard,510,434.43
+Accessories,311,Gaming Mouse Pad,511,717.6
+Home & Kitchen,312,Rice Cooker,512,632.17
+Accessories,313,Phone Grip,513,855.71
+Home & Kitchen,314,Toaster Oven,514,844.3
+Accessories,315,Laptop Stand,515,204.56
+Electronics,316,Mechanical Keyboard,516,461.62
+Home & Kitchen,317,Food Processor,517,752.78
+Furniture,318,Monitor Stand,518,271.12
+Accessories,319,Laptop Sleeve,519,611.11
+Electronics,320,Wireless Mouse,520,946.27
+Electronics,321,Power Strip,521,986.87
+Electronics,322,Microphone,522,427.01
+Furniture,323,Bookshelf,523,684.64
+Accessories,324,Portable Charger,524,24.13
+Electronics,325,Bluetooth Headphones,525,90.6
+Electronics,326,Noise Cancelling Headset,526,797.75
+Electronics,327,Smart Watch,527,239.4
+Accessories,328,Cable Organizer,528,808.33
+Home & Kitchen,329,Storage Containers,529,974.91
+Home & Kitchen,330,Kitchen Blender,530,16.9
+Home & Kitchen,331,Wall Clock,531,395.33
+Furniture,332,Storage Shelf,532,903.09
+Electronics,333,WiFi Router,533,4.59
+Home & Kitchen,334,Air Purifier,534,489.2
+Accessories,335,Smartphone Case,535,415.23
+Furniture,336,Standing Desk,536,962.93
+Home & Kitchen,337,Throw Pillows,537,258.4
+Electronics,338,Wireless Charger,538,174.19
+Electronics,339,Wireless Presenter,539,242.33
+Electronics,340,USB-C Hub,540,178.52
+Electronics,341,Wireless Earbuds,541,267.48
+Home & Kitchen,342,Electric Kettle,542,162.87
+Accessories,343,Desk Organizer,543,361.47
+Accessories,344,Screen Protector,544,873.14
+Home & Kitchen,345,Desk Lamp,545,571.79
+Electronics,346,4K Monitor,546,49.16
+Home & Kitchen,347,Water Bottle,547,697.57
+Furniture,348,File Cabinet,548,909.15
+Electronics,349,Webcam HD,549,768.97
+Accessories,350,Keyboard Wrist Rest,550,126.55
+Furniture,351,Office Chair,551,131.99
+Home & Kitchen,352,Coffee Maker,552,610.68
+Electronics,353,Document Scanner,553,652.38
+Accessories,354,Desk Mat,554,928.81
+Accessories,355,Tablet Stand,555,989.41
+Furniture,356,Drawer Unit,556,872.48
+Home & Kitchen,357,Bath Towels,557,83.35
+Electronics,358,External SSD,558,606.53
+Electronics,359,Computer Speakers,559,796.95
+Electronics,360,Gaming Keyboard,560,589.6
+Accessories,361,Gaming Mouse Pad,561,58.43
+Home & Kitchen,362,Rice Cooker,562,817.29
+Accessories,363,Phone Grip,563,62.41
+Home & Kitchen,364,Toaster Oven,564,517.59
+Accessories,365,Laptop Stand,565,606.53
+Electronics,366,Mechanical Keyboard,566,136.29
+Home & Kitchen,367,Food Processor,567,911.2
+Furniture,368,Monitor Stand,568,334.91
+Accessories,369,Laptop Sleeve,569,887.46
+Electronics,370,Wireless Mouse,570,384.95
+Electronics,371,Power Strip,571,162.35
+Electronics,372,Microphone,572,737.62
+Furniture,373,Bookshelf,573,191.37
+Accessories,374,Portable Charger,574,679.83
+Electronics,375,Bluetooth Headphones,575,490.32
+Electronics,376,Noise Cancelling Headset,576,242.49
+Electronics,377,Smart Watch,577,474.2
+Accessories,378,Cable Organizer,578,964.87
+Home & Kitchen,379,Storage Containers,579,7.03
+Home & Kitchen,380,Kitchen Blender,580,932.78
+Home & Kitchen,381,Wall Clock,581,552.57
+Furniture,382,Storage Shelf,582,504.93
+Electronics,383,WiFi Router,583,122.74
+Home & Kitchen,384,Air Purifier,584,631.97
+Accessories,385,Smartphone Case,585,122.5
+Furniture,386,Standing Desk,586,211.98
+Home & Kitchen,387,Throw Pillows,587,535.97
+Electronics,388,Wireless Charger,588,713.28
+Electronics,389,Wireless Presenter,589,834.15
+Electronics,390,USB-C Hub,590,995.61
+Electronics,391,Wireless Earbuds,591,766.73
+Home & Kitchen,392,Electric Kettle,592,968.11
+Accessories,393,Desk Organizer,593,938.52
+Accessories,394,Screen Protector,594,933.36
+Home & Kitchen,395,Desk Lamp,595,274.64
+Electronics,396,4K Monitor,596,505.38
+Home & Kitchen,397,Water Bottle,597,353.42
+Furniture,398,File Cabinet,598,658.44
+Electronics,399,Webcam HD,599,313.83
+Accessories,400,Keyboard Wrist Rest,600,369.05
+Furniture,401,Office Chair,501,136.32
+Home & Kitchen,402,Coffee Maker,502,204.98
+Electronics,403,Document Scanner,503,293.65
+Accessories,404,Desk Mat,504,711.17
+Accessories,405,Tablet Stand,505,450.82
+Furniture,406,Drawer Unit,506,934.43
+Home & Kitchen,407,Bath Towels,507,863.47
+Electronics,408,External SSD,508,453.95
+Electronics,409,Computer Speakers,509,891.41
+Electronics,410,Gaming Keyboard,510,186.58
+Accessories,411,Gaming Mouse Pad,511,607.61
+Home & Kitchen,412,Rice Cooker,512,512.25
+Accessories,413,Phone Grip,513,348.25
+Home & Kitchen,414,Toaster Oven,514,954.56
+Accessories,415,Laptop Stand,515,368.41
+Electronics,416,Mechanical Keyboard,516,545.62
+Home & Kitchen,417,Food Processor,517,284.87
+Furniture,418,Monitor Stand,518,296.74
+Accessories,419,Laptop Sleeve,519,347.51
+Electronics,420,Wireless Mouse,520,560.83
+Electronics,421,Power Strip,521,90.29
+Electronics,422,Microphone,522,910.45
+Furniture,423,Bookshelf,523,10.76
+Accessories,424,Portable Charger,524,697.19
+Electronics,425,Bluetooth Headphones,525,960.56
+Electronics,426,Noise Cancelling Headset,526,853.93
+Electronics,427,Smart Watch,527,283.49
+Accessories,428,Cable Organizer,528,986.51
+Home & Kitchen,429,Storage Containers,529,202.78
+Home & Kitchen,430,Kitchen Blender,530,658.78
+Home & Kitchen,431,Wall Clock,531,387.14
+Furniture,432,Storage Shelf,532,18.81
+Electronics,433,WiFi Router,533,330.84
+Home & Kitchen,434,Air Purifier,534,327.19
+Accessories,435,Smartphone Case,535,596.53
+Furniture,436,Standing Desk,536,659.28
+Home & Kitchen,437,Throw Pillows,537,22.91
+Electronics,438,Wireless Charger,538,643.24
+Electronics,439,Wireless Presenter,539,186.78
+Electronics,440,USB-C Hub,540,5.73
+Electronics,441,Wireless Earbuds,541,279.18
+Home & Kitchen,442,Electric Kettle,542,126.99
+Accessories,443,Desk Organizer,543,359.57
+Accessories,444,Screen Protector,544,991.03
+Home & Kitchen,445,Desk Lamp,545,476.57
+Electronics,446,4K Monitor,546,290.25
+Home & Kitchen,447,Water Bottle,547,633.06
+Furniture,448,File Cabinet,548,862.17
+Electronics,449,Webcam HD,549,9.24
+Accessories,450,Keyboard Wrist Rest,550,723.04
+Furniture,451,Office Chair,551,179.05
+Home & Kitchen,452,Coffee Maker,552,873.67
+Electronics,453,Document Scanner,553,355.12
+Accessories,454,Desk Mat,554,341.04
+Accessories,455,Tablet Stand,555,392.06
+Furniture,456,Drawer Unit,556,970.41
+Home & Kitchen,457,Bath Towels,557,265.08
+Electronics,458,External SSD,558,178.04
+Electronics,459,Computer Speakers,559,969.89
+Electronics,460,Gaming Keyboard,560,345.87
+Accessories,461,Gaming Mouse Pad,561,727.72
+Home & Kitchen,462,Rice Cooker,562,458.77
+Accessories,463,Phone Grip,563,109.49
+Home & Kitchen,464,Toaster Oven,564,576.9
+Accessories,465,Laptop Stand,565,827.35
+Electronics,466,Mechanical Keyboard,566,206.79
+Home & Kitchen,467,Food Processor,567,202.7
+Furniture,468,Monitor Stand,568,968.69
+Accessories,469,Laptop Sleeve,569,554.74
+Electronics,470,Wireless Mouse,570,89.99
+Electronics,471,Power Strip,571,695.03
+Electronics,472,Microphone,572,568.49
+Furniture,473,Bookshelf,573,380.7
+Accessories,474,Portable Charger,574,923.76
+Electronics,475,Bluetooth Headphones,575,345.21
+Electronics,476,Noise Cancelling Headset,576,430.69
+Electronics,477,Smart Watch,577,998.47
+Accessories,478,Cable Organizer,578,277.35
+Home & Kitchen,479,Storage Containers,579,856.93
+Home & Kitchen,480,Kitchen Blender,580,330.42
+Home & Kitchen,481,Wall Clock,581,158.41
+Furniture,482,Storage Shelf,582,88.23
+Electronics,483,WiFi Router,583,910.23
+Home & Kitchen,484,Air Purifier,584,187.42
+Accessories,485,Smartphone Case,585,149.3
+Furniture,486,Standing Desk,586,449.74
+Home & Kitchen,487,Throw Pillows,587,540.88
+Electronics,488,Wireless Charger,588,724.27
+Electronics,489,Wireless Presenter,589,586.15
+Electronics,490,USB-C Hub,590,658.37
+Electronics,491,Wireless Earbuds,591,514.91
+Home & Kitchen,492,Electric Kettle,592,117.74
+Accessories,493,Desk Organizer,593,76.11
+Accessories,494,Screen Protector,594,695.24
+Home & Kitchen,495,Desk Lamp,595,768.87
+Electronics,496,4K Monitor,596,671.47
+Home & Kitchen,497,Water Bottle,597,859.55
+Furniture,498,File Cabinet,598,135.5
+Electronics,499,Webcam HD,599,746.48
+Accessories,500,Keyboard Wrist Rest,600,468.54
+Furniture,501,Office Chair,501,468.53
+Home & Kitchen,502,Coffee Maker,502,333.71
+Electronics,503,Document Scanner,503,602.3
+Accessories,504,Desk Mat,504,916.61
+Accessories,505,Tablet Stand,505,929.66
+Furniture,506,Drawer Unit,506,735.88
+Home & Kitchen,507,Bath Towels,507,352.06
+Electronics,508,External SSD,508,439.15
+Electronics,509,Computer Speakers,509,852.2
+Electronics,510,Gaming Keyboard,510,222.93
+Accessories,511,Gaming Mouse Pad,511,294.11
+Home & Kitchen,512,Rice Cooker,512,426.27
+Accessories,513,Phone Grip,513,634.14
+Home & Kitchen,514,Toaster Oven,514,808.53
+Accessories,515,Laptop Stand,515,137.58
+Electronics,516,Mechanical Keyboard,516,40.03
+Home & Kitchen,517,Food Processor,517,145.21
+Furniture,518,Monitor Stand,518,197.58
+Accessories,519,Laptop Sleeve,519,994.32
+Electronics,520,Wireless Mouse,520,431.12
+Electronics,521,Power Strip,521,135.86
+Electronics,522,Microphone,522,406.07
+Furniture,523,Bookshelf,523,46.45
+Accessories,524,Portable Charger,524,578.01
+Electronics,525,Bluetooth Headphones,525,785.9
+Electronics,526,Noise Cancelling Headset,526,182.82
+Electronics,527,Smart Watch,527,623.54
+Accessories,528,Cable Organizer,528,602.5
+Home & Kitchen,529,Storage Containers,529,289.53
+Home & Kitchen,530,Kitchen Blender,530,822.34
+Home & Kitchen,531,Wall Clock,531,804.74
+Furniture,532,Storage Shelf,532,456.19
+Electronics,533,WiFi Router,533,105.19
+Home & Kitchen,534,Air Purifier,534,840.99
+Accessories,535,Smartphone Case,535,769.23
+Furniture,536,Standing Desk,536,384.21
+Home & Kitchen,537,Throw Pillows,537,891.2
+Electronics,538,Wireless Charger,538,956.06
+Electronics,539,Wireless Presenter,539,24.19
+Electronics,540,USB-C Hub,540,700.37
+Electronics,541,Wireless Earbuds,541,154.05
+Home & Kitchen,542,Electric Kettle,542,45.12
+Accessories,543,Desk Organizer,543,708.65
+Accessories,544,Screen Protector,544,132.83
+Home & Kitchen,545,Desk Lamp,545,171.11
+Electronics,546,4K Monitor,546,532.71
+Home & Kitchen,547,Water Bottle,547,359.61
+Furniture,548,File Cabinet,548,35.28
+Electronics,549,Webcam HD,549,636.16
+Accessories,550,Keyboard Wrist Rest,550,493.65
+Furniture,551,Office Chair,551,972.42
+Home & Kitchen,552,Coffee Maker,552,661.5
+Electronics,553,Document Scanner,553,225.57
+Accessories,554,Desk Mat,554,256.21
+Accessories,555,Tablet Stand,555,652.44
+Furniture,556,Drawer Unit,556,928.96
+Home & Kitchen,557,Bath Towels,557,113.44
+Electronics,558,External SSD,558,189.47
+Electronics,559,Computer Speakers,559,601
+Electronics,560,Gaming Keyboard,560,821.67
+Accessories,561,Gaming Mouse Pad,561,827.26
+Home & Kitchen,562,Rice Cooker,562,972.16
+Accessories,563,Phone Grip,563,845.65
+Home & Kitchen,564,Toaster Oven,564,392.09
+Accessories,565,Laptop Stand,565,56.32
+Electronics,566,Mechanical Keyboard,566,696.52
+Home & Kitchen,567,Food Processor,567,663.72
+Furniture,568,Monitor Stand,568,592.72
+Accessories,569,Laptop Sleeve,569,660.88
+Electronics,570,Wireless Mouse,570,738.6
+Electronics,571,Power Strip,571,734.89
+Electronics,572,Microphone,572,466.02
+Furniture,573,Bookshelf,573,928.48
+Accessories,574,Portable Charger,574,955.43
+Electronics,575,Bluetooth Headphones,575,812.69
+Electronics,576,Noise Cancelling Headset,576,462.87
+Electronics,577,Smart Watch,577,157.29
+Accessories,578,Cable Organizer,578,6.25
+Home & Kitchen,579,Storage Containers,579,928.65
+Home & Kitchen,580,Kitchen Blender,580,761.41
+Home & Kitchen,581,Wall Clock,581,690.64
+Furniture,582,Storage Shelf,582,61.12
+Electronics,583,WiFi Router,583,77.77
+Home & Kitchen,584,Air Purifier,584,391.87
+Accessories,585,Smartphone Case,585,717.16
+Furniture,586,Standing Desk,586,638.98
+Home & Kitchen,587,Throw Pillows,587,68.34
+Electronics,588,Wireless Charger,588,627.95
+Electronics,589,Wireless Presenter,589,108.21
+Electronics,590,USB-C Hub,590,477.37
+Electronics,591,Wireless Earbuds,591,595
+Home & Kitchen,592,Electric Kettle,592,300.03
+Accessories,593,Desk Organizer,593,276.04
+Accessories,594,Screen Protector,594,878.54
+Home & Kitchen,595,Desk Lamp,595,556.46
+Electronics,596,4K Monitor,596,377.25
+Home & Kitchen,597,Water Bottle,597,550.65
+Furniture,598,File Cabinet,598,388.2
+Electronics,599,Webcam HD,599,613.17
+Accessories,600,Keyboard Wrist Rest,600,859.22
+Furniture,601,Office Chair,501,266.88
+Home & Kitchen,602,Coffee Maker,502,187.49
+Electronics,603,Document Scanner,503,213.22
+Accessories,604,Desk Mat,504,769.1
+Accessories,605,Tablet Stand,505,379.32
+Furniture,606,Drawer Unit,506,451.58
+Home & Kitchen,607,Bath Towels,507,461.6
+Electronics,608,External SSD,508,661.12
+Electronics,609,Computer Speakers,509,457.84
+Electronics,610,Gaming Keyboard,510,525.35
+Accessories,611,Gaming Mouse Pad,511,47.42
+Home & Kitchen,612,Rice Cooker,512,113.93
+Accessories,613,Phone Grip,513,189.01
+Home & Kitchen,614,Toaster Oven,514,983.86
+Accessories,615,Laptop Stand,515,179.19
+Electronics,616,Mechanical Keyboard,516,323.94
+Home & Kitchen,617,Food Processor,517,628.23
+Furniture,618,Monitor Stand,518,695.11
+Accessories,619,Laptop Sleeve,519,212.23
+Electronics,620,Wireless Mouse,520,989.63
+Electronics,621,Power Strip,521,780.5
+Electronics,622,Microphone,522,147.05
+Furniture,623,Bookshelf,523,661.53
+Accessories,624,Portable Charger,524,8.57
+Electronics,625,Bluetooth Headphones,525,457.98
+Electronics,626,Noise Cancelling Headset,526,197.13
+Electronics,627,Smart Watch,527,910.75
+Accessories,628,Cable Organizer,528,578.01
+Home & Kitchen,629,Storage Containers,529,731.75
+Home & Kitchen,630,Kitchen Blender,530,828.03
+Home & Kitchen,631,Wall Clock,531,821.44
+Furniture,632,Storage Shelf,532,826.55
+Electronics,633,WiFi Router,533,232.49
+Home & Kitchen,634,Air Purifier,534,738.34
+Accessories,635,Smartphone Case,535,265.05
+Furniture,636,Standing Desk,536,178.87
+Home & Kitchen,637,Throw Pillows,537,997.33
+Electronics,638,Wireless Charger,538,657.05
+Electronics,639,Wireless Presenter,539,432.07
+Electronics,640,USB-C Hub,540,634.32
+Electronics,641,Wireless Earbuds,541,337.94
+Home & Kitchen,642,Electric Kettle,542,824.43
+Accessories,643,Desk Organizer,543,823.99
+Accessories,644,Screen Protector,544,372.06
+Home & Kitchen,645,Desk Lamp,545,893.24
+Electronics,646,4K Monitor,546,128.9
+Home & Kitchen,647,Water Bottle,547,292.15
+Furniture,648,File Cabinet,548,951.43
+Electronics,649,Webcam HD,549,612.05
+Accessories,650,Keyboard Wrist Rest,550,583.16
+Furniture,651,Office Chair,551,593.76
+Home & Kitchen,652,Coffee Maker,552,196.89
+Electronics,653,Document Scanner,553,340.41
+Accessories,654,Desk Mat,554,466.2
+Accessories,655,Tablet Stand,555,987.21
+Furniture,656,Drawer Unit,556,762.16
+Home & Kitchen,657,Bath Towels,557,623.66
+Electronics,658,External SSD,558,524.39
+Electronics,659,Computer Speakers,559,70.66
+Electronics,660,Gaming Keyboard,560,819.44
+Accessories,661,Gaming Mouse Pad,561,884.66
+Home & Kitchen,662,Rice Cooker,562,811.98
+Accessories,663,Phone Grip,563,588.31
+Home & Kitchen,664,Toaster Oven,564,767.97
+Accessories,665,Laptop Stand,565,161.58
+Electronics,666,Mechanical Keyboard,566,230.01
+Home & Kitchen,667,Food Processor,567,29.14
+Furniture,668,Monitor Stand,568,200.2
+Accessories,669,Laptop Sleeve,569,899
+Electronics,670,Wireless Mouse,570,557.61
+Electronics,671,Power Strip,571,915.59
+Electronics,672,Microphone,572,294.05
+Furniture,673,Bookshelf,573,486.12
+Accessories,674,Portable Charger,574,69.87
+Electronics,675,Bluetooth Headphones,575,457.65
+Electronics,676,Noise Cancelling Headset,576,227.45
+Electronics,677,Smart Watch,577,167.7
+Accessories,678,Cable Organizer,578,736.66
+Home & Kitchen,679,Storage Containers,579,869.17
+Home & Kitchen,680,Kitchen Blender,580,75.7
+Home & Kitchen,681,Wall Clock,581,389.16
+Furniture,682,Storage Shelf,582,795.33
+Electronics,683,WiFi Router,583,178.09
+Home & Kitchen,684,Air Purifier,584,602.9
+Accessories,685,Smartphone Case,585,254.38
+Furniture,686,Standing Desk,586,798.1
+Home & Kitchen,687,Throw Pillows,587,254.62
+Electronics,688,Wireless Charger,588,976.37
+Electronics,689,Wireless Presenter,589,132.94
+Electronics,690,USB-C Hub,590,698.13
+Electronics,691,Wireless Earbuds,591,396.62
+Home & Kitchen,692,Electric Kettle,592,670.7
+Accessories,693,Desk Organizer,593,930.02
+Accessories,694,Screen Protector,594,730.37
+Home & Kitchen,695,Desk Lamp,595,46.74
+Electronics,696,4K Monitor,596,469.39
+Home & Kitchen,697,Water Bottle,597,964.02
+Furniture,698,File Cabinet,598,502.33
+Electronics,699,Webcam HD,599,938.94
+Accessories,700,Keyboard Wrist Rest,600,439.17
+Furniture,701,Office Chair,501,503.86
+Home & Kitchen,702,Coffee Maker,502,544.24
+Electronics,703,Document Scanner,503,637.22
+Accessories,704,Desk Mat,504,627.21
+Accessories,705,Tablet Stand,505,522.34
+Furniture,706,Drawer Unit,506,38.32
+Home & Kitchen,707,Bath Towels,507,388.55
+Electronics,708,External SSD,508,49.07
+Electronics,709,Computer Speakers,509,41.44
+Electronics,710,Gaming Keyboard,510,635.91
+Accessories,711,Gaming Mouse Pad,511,178.54
+Home & Kitchen,712,Rice Cooker,512,621.37
+Accessories,713,Phone Grip,513,336.95
+Home & Kitchen,714,Toaster Oven,514,434.47
+Accessories,715,Laptop Stand,515,678.63
+Electronics,716,Mechanical Keyboard,516,980.89
+Home & Kitchen,717,Food Processor,517,458.18
+Furniture,718,Monitor Stand,518,54.43
+Accessories,719,Laptop Sleeve,519,348.21
+Electronics,720,Wireless Mouse,520,538.02
+Electronics,721,Power Strip,521,734.38
+Electronics,722,Microphone,522,777.5
+Furniture,723,Bookshelf,523,529.78
+Accessories,724,Portable Charger,524,646.45
+Electronics,725,Bluetooth Headphones,525,722.25
+Electronics,726,Noise Cancelling Headset,526,657.6
+Electronics,727,Smart Watch,527,166.62
+Accessories,728,Cable Organizer,528,197.66
+Home & Kitchen,729,Storage Containers,529,421.65
+Home & Kitchen,730,Kitchen Blender,530,289.2
+Home & Kitchen,731,Wall Clock,531,920.07
+Furniture,732,Storage Shelf,532,677.91
+Electronics,733,WiFi Router,533,430.83
+Home & Kitchen,734,Air Purifier,534,677.76
+Accessories,735,Smartphone Case,535,361.74
+Furniture,736,Standing Desk,536,581.83
+Home & Kitchen,737,Throw Pillows,537,34.93
+Electronics,738,Wireless Charger,538,738.11
+Electronics,739,Wireless Presenter,539,763.99
+Electronics,740,USB-C Hub,540,150.23
+Electronics,741,Wireless Earbuds,541,921.51
+Home & Kitchen,742,Electric Kettle,542,642.7
+Accessories,743,Desk Organizer,543,959.52
+Accessories,744,Screen Protector,544,621.58
+Home & Kitchen,745,Desk Lamp,545,235.65
+Electronics,746,4K Monitor,546,128.89
+Home & Kitchen,747,Water Bottle,547,911.73
+Furniture,748,File Cabinet,548,375.53
+Electronics,749,Webcam HD,549,584.97
+Accessories,750,Keyboard Wrist Rest,550,207.25
+Furniture,751,Office Chair,551,57.04
+Home & Kitchen,752,Coffee Maker,552,213.16
+Electronics,753,Document Scanner,553,619.32
+Accessories,754,Desk Mat,554,257.22
+Accessories,755,Tablet Stand,555,800.29
+Furniture,756,Drawer Unit,556,170.95
+Home & Kitchen,757,Bath Towels,557,520.39
+Electronics,758,External SSD,558,540.82
+Electronics,759,Computer Speakers,559,444.8
+Electronics,760,Gaming Keyboard,560,943.88
+Accessories,761,Gaming Mouse Pad,561,795.76
+Home & Kitchen,762,Rice Cooker,562,518.3
+Accessories,763,Phone Grip,563,680.24
+Home & Kitchen,764,Toaster Oven,564,196.96
+Accessories,765,Laptop Stand,565,244.39
+Electronics,766,Mechanical Keyboard,566,870.32
+Home & Kitchen,767,Food Processor,567,989.8
+Furniture,768,Monitor Stand,568,72.24
+Accessories,769,Laptop Sleeve,569,974.57
+Electronics,770,Wireless Mouse,570,710.16
+Electronics,771,Power Strip,571,26.09
+Electronics,772,Microphone,572,973.43
+Furniture,773,Bookshelf,573,807.4
+Accessories,774,Portable Charger,574,943.17
+Electronics,775,Bluetooth Headphones,575,726.35
+Electronics,776,Noise Cancelling Headset,576,41.14
+Electronics,777,Smart Watch,577,770.32
+Accessories,778,Cable Organizer,578,57.08
+Home & Kitchen,779,Storage Containers,579,819.8
+Home & Kitchen,780,Kitchen Blender,580,337.21
+Home & Kitchen,781,Wall Clock,581,842.04
+Furniture,782,Storage Shelf,582,819.02
+Electronics,783,WiFi Router,583,513.82
+Home & Kitchen,784,Air Purifier,584,884.57
+Accessories,785,Smartphone Case,585,583.08
+Furniture,786,Standing Desk,586,507.25
+Home & Kitchen,787,Throw Pillows,587,843.88
+Electronics,788,Wireless Charger,588,483.19
+Electronics,789,Wireless Presenter,589,477.53
+Electronics,790,USB-C Hub,590,861.45
+Electronics,791,Wireless Earbuds,591,73.21
+Home & Kitchen,792,Electric Kettle,592,128.08
+Accessories,793,Desk Organizer,593,333.02
+Accessories,794,Screen Protector,594,532.33
+Home & Kitchen,795,Desk Lamp,595,318.84
+Electronics,796,4K Monitor,596,972.63
+Home & Kitchen,797,Water Bottle,597,749.98
+Furniture,798,File Cabinet,598,126.71
+Electronics,799,Webcam HD,599,555.36
+Accessories,800,Keyboard Wrist Rest,600,972.81
+Furniture,801,Office Chair,501,415.25
+Home & Kitchen,802,Coffee Maker,502,851.23
+Electronics,803,Document Scanner,503,783.45
+Accessories,804,Desk Mat,504,257.9
+Accessories,805,Tablet Stand,505,857.44
+Furniture,806,Drawer Unit,506,630.3
+Home & Kitchen,807,Bath Towels,507,109.21
+Electronics,808,External SSD,508,869.13
+Electronics,809,Computer Speakers,509,675.3
+Electronics,810,Gaming Keyboard,510,40.48
+Accessories,811,Gaming Mouse Pad,511,642.56
+Home & Kitchen,812,Rice Cooker,512,7.57
+Accessories,813,Phone Grip,513,790.99
+Home & Kitchen,814,Toaster Oven,514,548.16
+Accessories,815,Laptop Stand,515,944.07
+Electronics,816,Mechanical Keyboard,516,617.94
+Home & Kitchen,817,Food Processor,517,922.37
+Furniture,818,Monitor Stand,518,660.35
+Accessories,819,Laptop Sleeve,519,883.31
+Electronics,820,Wireless Mouse,520,965.16
+Electronics,821,Power Strip,521,212.11
+Electronics,822,Microphone,522,273.53
+Furniture,823,Bookshelf,523,907.19
+Accessories,824,Portable Charger,524,268.95
+Electronics,825,Bluetooth Headphones,525,278.04
+Electronics,826,Noise Cancelling Headset,526,862.96
+Electronics,827,Smart Watch,527,764.34
+Accessories,828,Cable Organizer,528,830.3
+Home & Kitchen,829,Storage Containers,529,877.76
+Home & Kitchen,830,Kitchen Blender,530,446.82
+Home & Kitchen,831,Wall Clock,531,912.94
+Furniture,832,Storage Shelf,532,779.33
+Electronics,833,WiFi Router,533,692.9
+Home & Kitchen,834,Air Purifier,534,916.9
+Accessories,835,Smartphone Case,535,582.85
+Furniture,836,Standing Desk,536,888.47
+Home & Kitchen,837,Throw Pillows,537,281.99
+Electronics,838,Wireless Charger,538,334.13
+Electronics,839,Wireless Presenter,539,73.42
+Electronics,840,USB-C Hub,540,645.79
+Electronics,841,Wireless Earbuds,541,174.45
+Home & Kitchen,842,Electric Kettle,542,461.99
+Accessories,843,Desk Organizer,543,962.82
+Accessories,844,Screen Protector,544,0.16
+Home & Kitchen,845,Desk Lamp,545,870.86
+Electronics,846,4K Monitor,546,834.65
+Home & Kitchen,847,Water Bottle,547,389.9
+Furniture,848,File Cabinet,548,106.73
+Electronics,849,Webcam HD,549,219.06
+Accessories,850,Keyboard Wrist Rest,550,374.12
+Furniture,851,Office Chair,551,115.16
+Home & Kitchen,852,Coffee Maker,552,71.63
+Electronics,853,Document Scanner,553,503.79
+Accessories,854,Desk Mat,554,450.46
+Accessories,855,Tablet Stand,555,349.5
+Furniture,856,Drawer Unit,556,783.16
+Home & Kitchen,857,Bath Towels,557,299.69
+Electronics,858,External SSD,558,337.1
+Electronics,859,Computer Speakers,559,44.33
+Electronics,860,Gaming Keyboard,560,1.11
+Accessories,861,Gaming Mouse Pad,561,943.2
+Home & Kitchen,862,Rice Cooker,562,365.71
+Accessories,863,Phone Grip,563,248.46
+Home & Kitchen,864,Toaster Oven,564,884.83
+Accessories,865,Laptop Stand,565,655.51
+Electronics,866,Mechanical Keyboard,566,275.98
+Home & Kitchen,867,Food Processor,567,905.75
+Furniture,868,Monitor Stand,568,876.14
+Accessories,869,Laptop Sleeve,569,42.95
+Electronics,870,Wireless Mouse,570,403.09
+Electronics,871,Power Strip,571,538.26
+Electronics,872,Microphone,572,376.48
+Furniture,873,Bookshelf,573,975.52
+Accessories,874,Portable Charger,574,278.86
+Electronics,875,Bluetooth Headphones,575,476.77
+Electronics,876,Noise Cancelling Headset,576,202.64
+Electronics,877,Smart Watch,577,676.69
+Accessories,878,Cable Organizer,578,711.97
+Home & Kitchen,879,Storage Containers,579,269.61
+Home & Kitchen,880,Kitchen Blender,580,250.16
+Home & Kitchen,881,Wall Clock,581,353.79
+Furniture,882,Storage Shelf,582,13.11
+Electronics,883,WiFi Router,583,369.04
+Home & Kitchen,884,Air Purifier,584,897.15
+Accessories,885,Smartphone Case,585,34.25
+Furniture,886,Standing Desk,586,268.69
+Home & Kitchen,887,Throw Pillows,587,692.69
+Electronics,888,Wireless Charger,588,568.18
+Electronics,889,Wireless Presenter,589,872.91
+Electronics,890,USB-C Hub,590,735.34
+Electronics,891,Wireless Earbuds,591,426.24
+Home & Kitchen,892,Electric Kettle,592,327.91
+Accessories,893,Desk Organizer,593,369.2
+Accessories,894,Screen Protector,594,141.33
+Home & Kitchen,895,Desk Lamp,595,153.47
+Electronics,896,4K Monitor,596,590.45
+Home & Kitchen,897,Water Bottle,597,459.68
+Furniture,898,File Cabinet,598,461.79
+Electronics,899,Webcam HD,599,395.3
+Accessories,900,Keyboard Wrist Rest,600,709.67
+Furniture,901,Office Chair,501,625.8
+Home & Kitchen,902,Coffee Maker,502,773.69
+Electronics,903,Document Scanner,503,564.9
+Accessories,904,Desk Mat,504,187.29
+Accessories,905,Tablet Stand,505,51.91
+Furniture,906,Drawer Unit,506,5.72
+Home & Kitchen,907,Bath Towels,507,28.58
+Electronics,908,External SSD,508,978.06
+Electronics,909,Computer Speakers,509,309.12
+Electronics,910,Gaming Keyboard,510,413.63
+Accessories,911,Gaming Mouse Pad,511,36.92
+Home & Kitchen,912,Rice Cooker,512,835.69
+Accessories,913,Phone Grip,513,405.35
+Home & Kitchen,914,Toaster Oven,514,963.53
+Accessories,915,Laptop Stand,515,748.3
+Electronics,916,Mechanical Keyboard,516,545.67
+Home & Kitchen,917,Food Processor,517,147.23
+Furniture,918,Monitor Stand,518,432.29
+Accessories,919,Laptop Sleeve,519,270.97
+Electronics,920,Wireless Mouse,520,768.3
+Electronics,921,Power Strip,521,290.41
+Electronics,922,Microphone,522,89.48
+Furniture,923,Bookshelf,523,947.02
+Accessories,924,Portable Charger,524,955.07
+Electronics,925,Bluetooth Headphones,525,546.06
+Electronics,926,Noise Cancelling Headset,526,852.33
+Electronics,927,Smart Watch,527,615.63
+Accessories,928,Cable Organizer,528,873.41
+Home & Kitchen,929,Storage Containers,529,122.93
+Home & Kitchen,930,Kitchen Blender,530,242.55
+Home & Kitchen,931,Wall Clock,531,12.31
+Furniture,932,Storage Shelf,532,537.14
+Electronics,933,WiFi Router,533,274.55
+Home & Kitchen,934,Air Purifier,534,997.18
+Accessories,935,Smartphone Case,535,593.26
+Furniture,936,Standing Desk,536,786.05
+Home & Kitchen,937,Throw Pillows,537,108.59
+Electronics,938,Wireless Charger,538,380.93
+Electronics,939,Wireless Presenter,539,746.75
+Electronics,940,USB-C Hub,540,950.82
+Electronics,941,Wireless Earbuds,541,195.85
+Home & Kitchen,942,Electric Kettle,542,705.39
+Accessories,943,Desk Organizer,543,717.24
+Accessories,944,Screen Protector,544,602.14
+Home & Kitchen,945,Desk Lamp,545,931.22
+Electronics,946,4K Monitor,546,252.94
+Home & Kitchen,947,Water Bottle,547,782.17
+Furniture,948,File Cabinet,548,767.29
+Electronics,949,Webcam HD,549,456.91
+Accessories,950,Keyboard Wrist Rest,550,43.83
+Furniture,951,Office Chair,551,286.38
+Home & Kitchen,952,Coffee Maker,552,868.59
+Electronics,953,Document Scanner,553,168.99
+Accessories,954,Desk Mat,554,969.94
+Accessories,955,Tablet Stand,555,477.61
+Furniture,956,Drawer Unit,556,554.38
+Home & Kitchen,957,Bath Towels,557,236.89
+Electronics,958,External SSD,558,725.55
+Electronics,959,Computer Speakers,559,915.89
+Electronics,960,Gaming Keyboard,560,794.71
+Accessories,961,Gaming Mouse Pad,561,94.73
+Home & Kitchen,962,Rice Cooker,562,954.97
+Accessories,963,Phone Grip,563,290.96
+Home & Kitchen,964,Toaster Oven,564,74.02
+Accessories,965,Laptop Stand,565,5.65
+Electronics,966,Mechanical Keyboard,566,978.09
+Home & Kitchen,967,Food Processor,567,186.21
+Furniture,968,Monitor Stand,568,999.59
+Accessories,969,Laptop Sleeve,569,169.03
+Electronics,970,Wireless Mouse,570,690.62
+Electronics,971,Power Strip,571,695.29
+Electronics,972,Microphone,572,996.76
+Furniture,973,Bookshelf,573,92.73
+Accessories,974,Portable Charger,574,41.68
+Electronics,975,Bluetooth Headphones,575,43.54
+Electronics,976,Noise Cancelling Headset,576,744.79
+Electronics,977,Smart Watch,577,930.8
+Accessories,978,Cable Organizer,578,965.57
+Home & Kitchen,979,Storage Containers,579,801.92
+Home & Kitchen,980,Kitchen Blender,580,100.12
+Home & Kitchen,981,Wall Clock,581,931.48
+Furniture,982,Storage Shelf,582,267.23
+Electronics,983,WiFi Router,583,668.77
+Home & Kitchen,984,Air Purifier,584,257.34
+Accessories,985,Smartphone Case,585,242.47
+Furniture,986,Standing Desk,586,521.17
+Home & Kitchen,987,Throw Pillows,587,430.63
+Electronics,988,Wireless Charger,588,780.76
+Electronics,989,Wireless Presenter,589,120.05
+Electronics,990,USB-C Hub,590,324.25
+Electronics,991,Wireless Earbuds,591,724.95
+Home & Kitchen,992,Electric Kettle,592,428.31
+Accessories,993,Desk Organizer,593,213.96
+Accessories,994,Screen Protector,594,982.95
+Home & Kitchen,995,Desk Lamp,595,202.99
+Electronics,996,4K Monitor,596,205.43
+Home & Kitchen,997,Water Bottle,597,864.32
+Furniture,998,File Cabinet,598,826.71
+Electronics,999,Webcam HD,599,965.15
+Accessories,1000,Keyboard Wrist Rest,600,81.88
+Accessories,1828,Cable Organizer,528,43.45
+Accessories,1328,Cable Organizer,528,94.81
+Accessories,1128,Cable Organizer,528,123.5
+Accessories,1928,Cable Organizer,528,269.42
+Accessories,1528,Cable Organizer,528,346.57
+Accessories,1228,Cable Organizer,528,382.8
+Accessories,1028,Cable Organizer,528,436.54
+Accessories,1728,Cable Organizer,528,454.09
+Accessories,1628,Cable Organizer,528,477.47
+Accessories,1428,Cable Organizer,528,777.82
+Accessories,1278,Cable Organizer,578,60.12
+Accessories,1478,Cable Organizer,578,120.06
+Accessories,1978,Cable Organizer,578,190.12
+Accessories,1778,Cable Organizer,578,419.71
+Accessories,1378,Cable Organizer,578,462.11
+Accessories,1078,Cable Organizer,578,594.9
+Accessories,1878,Cable Organizer,578,621.88
+Accessories,1678,Cable Organizer,578,658.23
+Accessories,1578,Cable Organizer,578,669.51
+Accessories,1178,Cable Organizer,578,708.99
+Accessories,1804,Desk Mat,504,7.46
+Accessories,1104,Desk Mat,504,129.46
+Accessories,1404,Desk Mat,504,132.88
+Accessories,1304,Desk Mat,504,187.08
+Accessories,1004,Desk Mat,504,210.71
+Accessories,1604,Desk Mat,504,372.17
+Accessories,1904,Desk Mat,504,749.31
+Accessories,1704,Desk Mat,504,787.14
+Accessories,1204,Desk Mat,504,829.79
+Accessories,1504,Desk Mat,504,860.57
+Accessories,1454,Desk Mat,554,172.51
+Accessories,1254,Desk Mat,554,260.29
+Accessories,1754,Desk Mat,554,291.07
+Accessories,1954,Desk Mat,554,438.57
+Accessories,1654,Desk Mat,554,467.49
+Accessories,1554,Desk Mat,554,529.03
+Accessories,1154,Desk Mat,554,595.51
+Accessories,1054,Desk Mat,554,622.6
+Accessories,1854,Desk Mat,554,969.8
+Accessories,1354,Desk Mat,554,990.61
+Accessories,1143,Desk Organizer,543,58.2
+Accessories,1343,Desk Organizer,543,252.89
+Accessories,1043,Desk Organizer,543,284.47
+Accessories,1443,Desk Organizer,543,362.74
+Accessories,1243,Desk Organizer,543,426.42
+Accessories,1643,Desk Organizer,543,438.24
+Accessories,1743,Desk Organizer,543,498.63
+Accessories,1843,Desk Organizer,543,519.3
+Accessories,1543,Desk Organizer,543,829.2
+Accessories,1943,Desk Organizer,543,992.24
+Accessories,1593,Desk Organizer,593,110.62
+Accessories,1693,Desk Organizer,593,116.93
+Accessories,1393,Desk Organizer,593,134.07
+Accessories,1293,Desk Organizer,593,140.81
+Accessories,1093,Desk Organizer,593,331.83
+Accessories,1493,Desk Organizer,593,346.19
+Accessories,1793,Desk Organizer,593,389.92
+Accessories,1193,Desk Organizer,593,437.99
+Accessories,1993,Desk Organizer,593,759.82
+Accessories,1893,Desk Organizer,593,846.25
+Accessories,1711,Gaming Mouse Pad,511,15.39
+Accessories,1011,Gaming Mouse Pad,511,44.39
+Accessories,1411,Gaming Mouse Pad,511,153.45
+Accessories,1111,Gaming Mouse Pad,511,295.47
+Accessories,1311,Gaming Mouse Pad,511,381.13
+Accessories,1811,Gaming Mouse Pad,511,523.67
+Accessories,1911,Gaming Mouse Pad,511,524.69
+Accessories,1511,Gaming Mouse Pad,511,632.06
+Accessories,1611,Gaming Mouse Pad,511,786.14
+Accessories,1211,Gaming Mouse Pad,511,853.56
+Accessories,1261,Gaming Mouse Pad,561,134.99
+Accessories,1561,Gaming Mouse Pad,561,143.35
+Accessories,1361,Gaming Mouse Pad,561,258.49
+Accessories,1061,Gaming Mouse Pad,561,310.06
+Accessories,1861,Gaming Mouse Pad,561,371.49
+Accessories,1161,Gaming Mouse Pad,561,411.57
+Accessories,1761,Gaming Mouse Pad,561,536.87
+Accessories,1461,Gaming Mouse Pad,561,587.62
+Accessories,1961,Gaming Mouse Pad,561,819.24
+Accessories,1661,Gaming Mouse Pad,561,921.71
+Accessories,1650,Keyboard Wrist Rest,550,92.26
+Accessories,1550,Keyboard Wrist Rest,550,118.11
+Accessories,1450,Keyboard Wrist Rest,550,239.34
+Accessories,1250,Keyboard Wrist Rest,550,378.38
+Accessories,1150,Keyboard Wrist Rest,550,627.45
+Accessories,1850,Keyboard Wrist Rest,550,663.19
+Accessories,1050,Keyboard Wrist Rest,550,666.27
+Accessories,1750,Keyboard Wrist Rest,550,708.39
+Accessories,1950,Keyboard Wrist Rest,550,854.96
+Accessories,1350,Keyboard Wrist Rest,550,880.89
+Accessories,1200,Keyboard Wrist Rest,600,93.98
+Accessories,1400,Keyboard Wrist Rest,600,172.14
+Accessories,1700,Keyboard Wrist Rest,600,177.82
+Accessories,1100,Keyboard Wrist Rest,600,308.02
+Accessories,1800,Keyboard Wrist Rest,600,464.79
+Accessories,1500,Keyboard Wrist Rest,600,496.36
+Accessories,2000,Keyboard Wrist Rest,600,527.51
+Accessories,1600,Keyboard Wrist Rest,600,674.29
+Accessories,1900,Keyboard Wrist Rest,600,804.09
+Accessories,1300,Keyboard Wrist Rest,600,890.66
+Accessories,1919,Laptop Sleeve,519,73.23
+Accessories,1619,Laptop Sleeve,519,83.37
+Accessories,1119,Laptop Sleeve,519,241.42
+Accessories,1719,Laptop Sleeve,519,293.57
+Accessories,1019,Laptop Sleeve,519,322.62
+Accessories,1319,Laptop Sleeve,519,413.24
+Accessories,1219,Laptop Sleeve,519,446.06
+Accessories,1819,Laptop Sleeve,519,579.62
+Accessories,1519,Laptop Sleeve,519,820.14
+Accessories,1419,Laptop Sleeve,519,908.95
+Accessories,1269,Laptop Sleeve,569,18.26
+Accessories,1769,Laptop Sleeve,569,66.59
+Accessories,1569,Laptop Sleeve,569,156.87
+Accessories,1069,Laptop Sleeve,569,227.11
+Accessories,1869,Laptop Sleeve,569,394.37
+Accessories,1669,Laptop Sleeve,569,451.34
+Accessories,1969,Laptop Sleeve,569,662.3
+Accessories,1169,Laptop Sleeve,569,735.7
+Accessories,1369,Laptop Sleeve,569,786.66
+Accessories,1469,Laptop Sleeve,569,797.81
+Accessories,1815,Laptop Stand,515,181.14
+Accessories,1115,Laptop Stand,515,261.24
+Accessories,1615,Laptop Stand,515,410.34
+Accessories,1415,Laptop Stand,515,661.4
+Accessories,1915,Laptop Stand,515,740.24
+Accessories,1515,Laptop Stand,515,761.55
+Accessories,1715,Laptop Stand,515,876.36
+Accessories,1315,Laptop Stand,515,905.83
+Accessories,1215,Laptop Stand,515,933.38
+Accessories,1015,Laptop Stand,515,938.28
+Accessories,1565,Laptop Stand,565,4.47
+Accessories,1665,Laptop Stand,565,38.88
+Accessories,1065,Laptop Stand,565,208.07
+Accessories,1365,Laptop Stand,565,239.68
+Accessories,1965,Laptop Stand,565,407.23
+Accessories,1265,Laptop Stand,565,650.91
+Accessories,1465,Laptop Stand,565,678
+Accessories,1165,Laptop Stand,565,778.28
+Accessories,1865,Laptop Stand,565,836.31
+Accessories,1765,Laptop Stand,565,865.65
+Accessories,1713,Phone Grip,513,153.78
+Accessories,1213,Phone Grip,513,248.81
+Accessories,1113,Phone Grip,513,261.74
+Accessories,1613,Phone Grip,513,292.18
+Accessories,1913,Phone Grip,513,433.77
+Accessories,1513,Phone Grip,513,607.51
+Accessories,1013,Phone Grip,513,718.16
+Accessories,1813,Phone Grip,513,722.9
+Accessories,1313,Phone Grip,513,774.81
+Accessories,1413,Phone Grip,513,962.29
+Accessories,1163,Phone Grip,563,134.47
+Accessories,1263,Phone Grip,563,187.45
+Accessories,1863,Phone Grip,563,207.06
+Accessories,1963,Phone Grip,563,316.86
+Accessories,1663,Phone Grip,563,342.92
+Accessories,1063,Phone Grip,563,360.14
+Accessories,1563,Phone Grip,563,692.96
+Accessories,1763,Phone Grip,563,748.13
+Accessories,1463,Phone Grip,563,889.07
+Accessories,1363,Phone Grip,563,893.32
+Accessories,1024,Portable Charger,524,146.82
+Accessories,1524,Portable Charger,524,214.56
+Accessories,1724,Portable Charger,524,413.11
+Accessories,1324,Portable Charger,524,507.92
+Accessories,1224,Portable Charger,524,579.24
+Accessories,1624,Portable Charger,524,637.24
+Accessories,1924,Portable Charger,524,812.94
+Accessories,1124,Portable Charger,524,813.11
+Accessories,1824,Portable Charger,524,827.78
+Accessories,1424,Portable Charger,524,985.24
+Accessories,1174,Portable Charger,574,478.44
+Accessories,1474,Portable Charger,574,485.42
+Accessories,1774,Portable Charger,574,561.37
+Accessories,1274,Portable Charger,574,573.83
+Accessories,1374,Portable Charger,574,651.22
+Accessories,1974,Portable Charger,574,674.23
+Accessories,1074,Portable Charger,574,733.12
+Accessories,1574,Portable Charger,574,749.51
+Accessories,1874,Portable Charger,574,855.4
+Accessories,1674,Portable Charger,574,859.98
+Accessories,1644,Screen Protector,544,219.05
+Accessories,1444,Screen Protector,544,247.77
+Accessories,1144,Screen Protector,544,274.68
+Accessories,1244,Screen Protector,544,587.34
+Accessories,1944,Screen Protector,544,612.28
+Accessories,1844,Screen Protector,544,649.92
+Accessories,1344,Screen Protector,544,798.2
+Accessories,1044,Screen Protector,544,822.12
+Accessories,1544,Screen Protector,544,885.73
+Accessories,1744,Screen Protector,544,910.74
+Accessories,1294,Screen Protector,594,83.58
+Accessories,1894,Screen Protector,594,91.81
+Accessories,1094,Screen Protector,594,214.29
+Accessories,1494,Screen Protector,594,452.46
+Accessories,1594,Screen Protector,594,565.39
+Accessories,1994,Screen Protector,594,595.96
+Accessories,1394,Screen Protector,594,635.5
+Accessories,1694,Screen Protector,594,715.23
+Accessories,1194,Screen Protector,594,879.5
+Accessories,1794,Screen Protector,594,992.64
+Accessories,1635,Smartphone Case,535,175.87
+Accessories,1335,Smartphone Case,535,204.11
+Accessories,1435,Smartphone Case,535,265.17
+Accessories,1935,Smartphone Case,535,279.71
+Accessories,1235,Smartphone Case,535,553.74
+Accessories,1735,Smartphone Case,535,591.37
+Accessories,1535,Smartphone Case,535,618.44
+Accessories,1035,Smartphone Case,535,692.84
+Accessories,1835,Smartphone Case,535,704.58
+Accessories,1135,Smartphone Case,535,801.68
+Accessories,1885,Smartphone Case,585,117.2
+Accessories,1385,Smartphone Case,585,249.72
+Accessories,1685,Smartphone Case,585,321.71
+Accessories,1285,Smartphone Case,585,397.01
+Accessories,1585,Smartphone Case,585,475.12
+Accessories,1785,Smartphone Case,585,494.24
+Accessories,1085,Smartphone Case,585,503.29
+Accessories,1185,Smartphone Case,585,713.16
+Accessories,1985,Smartphone Case,585,782.49
+Accessories,1485,Smartphone Case,585,942.39
+Accessories,1105,Tablet Stand,505,28.95
+Accessories,1905,Tablet Stand,505,116.82
+Accessories,1405,Tablet Stand,505,350.75
+Accessories,1505,Tablet Stand,505,409.19
+Accessories,1605,Tablet Stand,505,420.28
+Accessories,1205,Tablet Stand,505,584.17
+Accessories,1305,Tablet Stand,505,731.35
+Accessories,1005,Tablet Stand,505,839.39
+Accessories,1805,Tablet Stand,505,891.68
+Accessories,1705,Tablet Stand,505,896.27
+Accessories,1055,Tablet Stand,555,45.31
+Accessories,1555,Tablet Stand,555,53.57
+Accessories,1755,Tablet Stand,555,307.48
+Accessories,1455,Tablet Stand,555,466.76
+Accessories,1155,Tablet Stand,555,578.36
+Accessories,1255,Tablet Stand,555,789.17
+Accessories,1855,Tablet Stand,555,793.09
+Accessories,1355,Tablet Stand,555,835.36
+Accessories,1655,Tablet Stand,555,875.52
+Accessories,1955,Tablet Stand,555,971.32
+Electronics,1346,4K Monitor,546,46.96
+Electronics,1846,4K Monitor,546,300.04
+Electronics,1746,4K Monitor,546,317.89
+Electronics,1146,4K Monitor,546,471.95
+Electronics,1446,4K Monitor,546,528.51
+Electronics,1246,4K Monitor,546,593.22
+Electronics,1546,4K Monitor,546,618.32
+Electronics,1946,4K Monitor,546,645.67
+Electronics,1046,4K Monitor,546,689.2
+Electronics,1646,4K Monitor,546,716.2
+Electronics,1696,4K Monitor,596,6.49
+Electronics,1996,4K Monitor,596,175.53
+Electronics,1496,4K Monitor,596,181.87
+Electronics,1596,4K Monitor,596,368.76
+Electronics,1896,4K Monitor,596,389.19
+Electronics,1396,4K Monitor,596,577.64
+Electronics,1296,4K Monitor,596,643.91
+Electronics,1096,4K Monitor,596,681.7
+Electronics,1796,4K Monitor,596,696.05
+Electronics,1196,4K Monitor,596,808.07
+Electronics,1125,Bluetooth Headphones,525,113.24
+Electronics,1625,Bluetooth Headphones,525,179.41
+Electronics,1525,Bluetooth Headphones,525,299.39
+Electronics,1725,Bluetooth Headphones,525,317.39
+Electronics,1425,Bluetooth Headphones,525,539.14
+Electronics,1825,Bluetooth Headphones,525,565.57
+Electronics,1025,Bluetooth Headphones,525,661.38
+Electronics,1225,Bluetooth Headphones,525,684.69
+Electronics,1325,Bluetooth Headphones,525,867.3
+Electronics,1925,Bluetooth Headphones,525,906.34
+Electronics,1075,Bluetooth Headphones,575,61.17
+Electronics,1175,Bluetooth Headphones,575,77.86
+Electronics,1775,Bluetooth Headphones,575,362.33
+Electronics,1275,Bluetooth Headphones,575,459.34
+Electronics,1675,Bluetooth Headphones,575,465.78
+Electronics,1375,Bluetooth Headphones,575,473.65
+Electronics,1975,Bluetooth Headphones,575,494.44
+Electronics,1575,Bluetooth Headphones,575,520.4
+Electronics,1875,Bluetooth Headphones,575,589.76
+Electronics,1475,Bluetooth Headphones,575,945.02
+Electronics,1509,Computer Speakers,509,158
+Electronics,1109,Computer Speakers,509,344.94
+Electronics,1709,Computer Speakers,509,384.19
+Electronics,1309,Computer Speakers,509,398.37
+Electronics,1809,Computer Speakers,509,561.73
+Electronics,1209,Computer Speakers,509,592.67
+Electronics,1909,Computer Speakers,509,598.77
+Electronics,1609,Computer Speakers,509,659.14
+Electronics,1409,Computer Speakers,509,885.7
+Electronics,1009,Computer Speakers,509,947.71
+Electronics,1059,Computer Speakers,559,78.75
+Electronics,1459,Computer Speakers,559,218.4
+Electronics,1259,Computer Speakers,559,332
+Electronics,1159,Computer Speakers,559,436.09
+Electronics,1359,Computer Speakers,559,664.32
+Electronics,1859,Computer Speakers,559,677.68
+Electronics,1659,Computer Speakers,559,829.69
+Electronics,1759,Computer Speakers,559,854.2
+Electronics,1959,Computer Speakers,559,920.33
+Electronics,1559,Computer Speakers,559,978.59
+Electronics,1303,Document Scanner,503,33.57
+Electronics,1703,Document Scanner,503,44.36
+Electronics,1903,Document Scanner,503,118.69
+Electronics,1203,Document Scanner,503,262.19
+Electronics,1803,Document Scanner,503,319.52
+Electronics,1403,Document Scanner,503,500.31
+Electronics,1503,Document Scanner,503,502.14
+Electronics,1003,Document Scanner,503,733.48
+Electronics,1603,Document Scanner,503,744.01
+Electronics,1103,Document Scanner,503,856.12
+Electronics,1153,Document Scanner,553,163.03
+Electronics,1553,Document Scanner,553,191.93
+Electronics,1353,Document Scanner,553,201.45
+Electronics,1953,Document Scanner,553,394.86
+Electronics,1753,Document Scanner,553,457.35
+Electronics,1453,Document Scanner,553,506.93
+Electronics,1053,Document Scanner,553,551.36
+Electronics,1653,Document Scanner,553,680.94
+Electronics,1853,Document Scanner,553,753.09
+Electronics,1253,Document Scanner,553,889.2
+Electronics,1708,External SSD,508,104.71
+Electronics,1408,External SSD,508,222.83
+Electronics,1508,External SSD,508,265.45
+Electronics,1208,External SSD,508,332.27
+Electronics,1908,External SSD,508,387.52
+Electronics,1308,External SSD,508,428.21
+Electronics,1608,External SSD,508,758.2
+Electronics,1108,External SSD,508,761.84
+Electronics,1808,External SSD,508,769.62
+Electronics,1008,External SSD,508,891.71
+Electronics,1458,External SSD,558,21.14
+Electronics,1558,External SSD,558,92.31
+Electronics,1958,External SSD,558,180.06
+Electronics,1658,External SSD,558,216.24
+Electronics,1158,External SSD,558,402.37
+Electronics,1058,External SSD,558,699.63
+Electronics,1258,External SSD,558,748.05
+Electronics,1358,External SSD,558,807.77
+Electronics,1858,External SSD,558,979.81
+Electronics,1758,External SSD,558,984.39
+Electronics,1810,Gaming Keyboard,510,296.57
+Electronics,1510,Gaming Keyboard,510,316.32
+Electronics,1310,Gaming Keyboard,510,395.41
+Electronics,1610,Gaming Keyboard,510,402.1
+Electronics,1410,Gaming Keyboard,510,590.79
+Electronics,1910,Gaming Keyboard,510,599.83
+Electronics,1210,Gaming Keyboard,510,613.28
+Electronics,1110,Gaming Keyboard,510,620.02
+Electronics,1710,Gaming Keyboard,510,755.21
+Electronics,1010,Gaming Keyboard,510,828.61
+Electronics,1960,Gaming Keyboard,560,90.95
+Electronics,1260,Gaming Keyboard,560,163.9
+Electronics,1460,Gaming Keyboard,560,278.2
+Electronics,1060,Gaming Keyboard,560,400.13
+Electronics,1760,Gaming Keyboard,560,609.74
+Electronics,1560,Gaming Keyboard,560,664.51
+Electronics,1160,Gaming Keyboard,560,717.37
+Electronics,1360,Gaming Keyboard,560,749.73
+Electronics,1660,Gaming Keyboard,560,892.35
+Electronics,1860,Gaming Keyboard,560,999.42
+Electronics,1616,Mechanical Keyboard,516,38.61
+Electronics,1316,Mechanical Keyboard,516,128.12
+Electronics,1216,Mechanical Keyboard,516,250.56
+Electronics,1116,Mechanical Keyboard,516,290.68
+Electronics,1516,Mechanical Keyboard,516,467.94
+Electronics,1716,Mechanical Keyboard,516,500.04
+Electronics,1916,Mechanical Keyboard,516,517.93
+Electronics,1016,Mechanical Keyboard,516,605.03
+Electronics,1416,Mechanical Keyboard,516,868.78
+Electronics,1816,Mechanical Keyboard,516,889.9
+Electronics,1766,Mechanical Keyboard,566,173.09
+Electronics,1966,Mechanical Keyboard,566,239.71
+Electronics,1666,Mechanical Keyboard,566,419.64
+Electronics,1866,Mechanical Keyboard,566,438.37
+Electronics,1166,Mechanical Keyboard,566,487.48
+Electronics,1066,Mechanical Keyboard,566,523.6
+Electronics,1566,Mechanical Keyboard,566,620.61
+Electronics,1466,Mechanical Keyboard,566,671.34
+Electronics,1366,Mechanical Keyboard,566,696.52
+Electronics,1266,Mechanical Keyboard,566,800.69
+Electronics,1522,Microphone,522,0.2
+Electronics,1622,Microphone,522,54.8
+Electronics,1922,Microphone,522,144.5
+Electronics,1022,Microphone,522,260.18
+Electronics,1822,Microphone,522,275.74
+Electronics,1422,Microphone,522,346.15
+Electronics,1722,Microphone,522,613.03
+Electronics,1122,Microphone,522,807.5
+Electronics,1322,Microphone,522,857.6
+Electronics,1222,Microphone,522,976.27
+Electronics,1472,Microphone,572,81.32
+Electronics,1872,Microphone,572,187.77
+Electronics,1972,Microphone,572,323.37
+Electronics,1072,Microphone,572,337.73
+Electronics,1172,Microphone,572,610.49
+Electronics,1672,Microphone,572,675.58
+Electronics,1272,Microphone,572,717.98
+Electronics,1372,Microphone,572,828.23
+Electronics,1772,Microphone,572,930.91
+Electronics,1572,Microphone,572,988.45
+Electronics,1426,Noise Cancelling Headset,526,213.84
+Electronics,1726,Noise Cancelling Headset,526,365.55
+Electronics,1126,Noise Cancelling Headset,526,375.65
+Electronics,1026,Noise Cancelling Headset,526,510.48
+Electronics,1526,Noise Cancelling Headset,526,593.57
+Electronics,1826,Noise Cancelling Headset,526,608.78
+Electronics,1226,Noise Cancelling Headset,526,741.61
+Electronics,1326,Noise Cancelling Headset,526,829.16
+Electronics,1926,Noise Cancelling Headset,526,830.82
+Electronics,1626,Noise Cancelling Headset,526,832.58
+Electronics,1676,Noise Cancelling Headset,576,122.6
+Electronics,1476,Noise Cancelling Headset,576,162.89
+Electronics,1876,Noise Cancelling Headset,576,220.81
+Electronics,1076,Noise Cancelling Headset,576,222.85
+Electronics,1176,Noise Cancelling Headset,576,348.42
+Electronics,1776,Noise Cancelling Headset,576,429.95
+Electronics,1976,Noise Cancelling Headset,576,454.51
+Electronics,1576,Noise Cancelling Headset,576,532.98
+Electronics,1276,Noise Cancelling Headset,576,711.4
+Electronics,1376,Noise Cancelling Headset,576,734.58
+Electronics,1321,Power Strip,521,55.66
+Electronics,1821,Power Strip,521,172.46
+Electronics,1121,Power Strip,521,177.16
+Electronics,1221,Power Strip,521,283.11
+Electronics,1921,Power Strip,521,528.04
+Electronics,1521,Power Strip,521,611.6
+Electronics,1021,Power Strip,521,657.13
+Electronics,1421,Power Strip,521,687.67
+Electronics,1721,Power Strip,521,855.71
+Electronics,1621,Power Strip,521,936
+Electronics,1071,Power Strip,571,83.85
+Electronics,1871,Power Strip,571,181.38
+Electronics,1971,Power Strip,571,216.31
+Electronics,1371,Power Strip,571,231.34
+Electronics,1171,Power Strip,571,431.09
+Electronics,1571,Power Strip,571,545.11
+Electronics,1471,Power Strip,571,676.14
+Electronics,1671,Power Strip,571,725.19
+Electronics,1771,Power Strip,571,829.68
+Electronics,1271,Power Strip,571,999.92
+Electronics,1627,Smart Watch,527,344.76
+Electronics,1527,Smart Watch,527,406.88
+Electronics,1427,Smart Watch,527,495.83
+Electronics,1727,Smart Watch,527,561.37
+Electronics,1127,Smart Watch,527,653.28
+Electronics,1227,Smart Watch,527,748.32
+Electronics,1827,Smart Watch,527,807.83
+Electronics,1327,Smart Watch,527,844.66
+Electronics,1927,Smart Watch,527,846.79
+Electronics,1027,Smart Watch,527,948.37
+Electronics,1777,Smart Watch,577,61.06
+Electronics,1877,Smart Watch,577,163.61
+Electronics,1577,Smart Watch,577,286.12
+Electronics,1977,Smart Watch,577,324.43
+Electronics,1677,Smart Watch,577,368.86
+Electronics,1277,Smart Watch,577,389
+Electronics,1177,Smart Watch,577,392.3
+Electronics,1377,Smart Watch,577,549.43
+Electronics,1077,Smart Watch,577,756.29
+Electronics,1477,Smart Watch,577,905.55
+Electronics,1240,USB-C Hub,540,88.29
+Electronics,1940,USB-C Hub,540,101.45
+Electronics,1340,USB-C Hub,540,179.21
+Electronics,1440,USB-C Hub,540,195.21
+Electronics,1140,USB-C Hub,540,207.43
+Electronics,1040,USB-C Hub,540,282.19
+Electronics,1840,USB-C Hub,540,342.62
+Electronics,1740,USB-C Hub,540,442.76
+Electronics,1640,USB-C Hub,540,548
+Electronics,1540,USB-C Hub,540,674.55
+Electronics,1390,USB-C Hub,590,112.83
+Electronics,1290,USB-C Hub,590,202.85
+Electronics,1790,USB-C Hub,590,276.39
+Electronics,1090,USB-C Hub,590,378.11
+Electronics,1490,USB-C Hub,590,661.55
+Electronics,1590,USB-C Hub,590,730.99
+Electronics,1990,USB-C Hub,590,806.78
+Electronics,1190,USB-C Hub,590,827.84
+Electronics,1890,USB-C Hub,590,933.48
+Electronics,1690,USB-C Hub,590,963.77
+Electronics,1849,Webcam HD,549,129.37
+Electronics,1249,Webcam HD,549,132.79
+Electronics,1749,Webcam HD,549,383.25
+Electronics,1949,Webcam HD,549,424.57
+Electronics,1349,Webcam HD,549,433.54
+Electronics,1449,Webcam HD,549,440.11
+Electronics,1049,Webcam HD,549,556.43
+Electronics,1649,Webcam HD,549,564.84
+Electronics,1549,Webcam HD,549,731.93
+Electronics,1149,Webcam HD,549,807.63
+Electronics,1999,Webcam HD,599,73.49
+Electronics,1099,Webcam HD,599,136.4
+Electronics,1699,Webcam HD,599,193.5
+Electronics,1499,Webcam HD,599,271.16
+Electronics,1899,Webcam HD,599,482.63
+Electronics,1199,Webcam HD,599,626.81
+Electronics,1299,Webcam HD,599,686.28
+Electronics,1599,Webcam HD,599,731.08
+Electronics,1799,Webcam HD,599,805.53
+Electronics,1399,Webcam HD,599,857.12
+Electronics,1933,WiFi Router,533,77.63
+Electronics,1533,WiFi Router,533,143.49
+Electronics,1833,WiFi Router,533,227.77
+Electronics,1333,WiFi Router,533,334.58
+Electronics,1033,WiFi Router,533,339.34
+Electronics,1733,WiFi Router,533,733.41
+Electronics,1133,WiFi Router,533,854.56
+Electronics,1633,WiFi Router,533,854.6
+Electronics,1233,WiFi Router,533,858.06
+Electronics,1433,WiFi Router,533,969.29
+Electronics,1083,WiFi Router,583,5.44
+Electronics,1583,WiFi Router,583,91.63
+Electronics,1683,WiFi Router,583,200.67
+Electronics,1983,WiFi Router,583,319.3
+Electronics,1383,WiFi Router,583,361.39
+Electronics,1883,WiFi Router,583,557.59
+Electronics,1183,WiFi Router,583,642.47
+Electronics,1483,WiFi Router,583,717.61
+Electronics,1783,WiFi Router,583,748.82
+Electronics,1283,WiFi Router,583,821.52
+Electronics,1738,Wireless Charger,538,18.98
+Electronics,1538,Wireless Charger,538,354.69
+Electronics,1238,Wireless Charger,538,387.74
+Electronics,1138,Wireless Charger,538,601.24
+Electronics,1438,Wireless Charger,538,645.75
+Electronics,1838,Wireless Charger,538,650.45
+Electronics,1938,Wireless Charger,538,722.11
+Electronics,1038,Wireless Charger,538,758.97
+Electronics,1338,Wireless Charger,538,831.29
+Electronics,1638,Wireless Charger,538,955.14
+Electronics,1388,Wireless Charger,588,19.38
+Electronics,1088,Wireless Charger,588,298.27
+Electronics,1488,Wireless Charger,588,477.67
+Electronics,1288,Wireless Charger,588,519.91
+Electronics,1688,Wireless Charger,588,539.58
+Electronics,1588,Wireless Charger,588,568.02
+Electronics,1788,Wireless Charger,588,843.87
+Electronics,1988,Wireless Charger,588,895.58
+Electronics,1888,Wireless Charger,588,960.54
+Electronics,1188,Wireless Charger,588,972.74
+Electronics,1941,Wireless Earbuds,541,32.83
+Electronics,1041,Wireless Earbuds,541,60.63
+Electronics,1141,Wireless Earbuds,541,150.71
+Electronics,1541,Wireless Earbuds,541,160.17
+Electronics,1741,Wireless Earbuds,541,404.61
+Electronics,1841,Wireless Earbuds,541,445.8
+Electronics,1641,Wireless Earbuds,541,521.14
+Electronics,1241,Wireless Earbuds,541,703.04
+Electronics,1441,Wireless Earbuds,541,850.01
+Electronics,1341,Wireless Earbuds,541,926.71
+Electronics,1291,Wireless Earbuds,591,24.92
+Electronics,1491,Wireless Earbuds,591,54.02
+Electronics,1691,Wireless Earbuds,591,121.52
+Electronics,1891,Wireless Earbuds,591,142.3
+Electronics,1191,Wireless Earbuds,591,294.02
+Electronics,1091,Wireless Earbuds,591,330.44
+Electronics,1391,Wireless Earbuds,591,406.68
+Electronics,1791,Wireless Earbuds,591,804.68
+Electronics,1591,Wireless Earbuds,591,906.27
+Electronics,1991,Wireless Earbuds,591,984.12
+Electronics,1420,Wireless Mouse,520,33.29
+Electronics,1220,Wireless Mouse,520,160.69
+Electronics,1820,Wireless Mouse,520,223.51
+Electronics,1020,Wireless Mouse,520,269.25
+Electronics,1620,Wireless Mouse,520,330.67
+Electronics,1920,Wireless Mouse,520,397.75
+Electronics,1720,Wireless Mouse,520,508.03
+Electronics,1320,Wireless Mouse,520,762.64
+Electronics,1120,Wireless Mouse,520,872.01
+Electronics,1520,Wireless Mouse,520,929.63
+Electronics,1770,Wireless Mouse,570,61.09
+Electronics,1970,Wireless Mouse,570,148.47
+Electronics,1570,Wireless Mouse,570,291.35
+Electronics,1270,Wireless Mouse,570,475.59
+Electronics,1670,Wireless Mouse,570,543.31
+Electronics,1070,Wireless Mouse,570,566.42
+Electronics,1470,Wireless Mouse,570,572.32
+Electronics,1870,Wireless Mouse,570,765.71
+Electronics,1370,Wireless Mouse,570,845.94
+Electronics,1170,Wireless Mouse,570,992.09
+Electronics,1339,Wireless Presenter,539,38.96
+Electronics,1239,Wireless Presenter,539,71.93
+Electronics,1039,Wireless Presenter,539,85.61
+Electronics,1939,Wireless Presenter,539,251.24
+Electronics,1139,Wireless Presenter,539,295.84
+Electronics,1839,Wireless Presenter,539,336.09
+Electronics,1739,Wireless Presenter,539,429.19
+Electronics,1539,Wireless Presenter,539,607.11
+Electronics,1439,Wireless Presenter,539,779.38
+Electronics,1639,Wireless Presenter,539,845.59
+Electronics,1789,Wireless Presenter,589,68.63
+Electronics,1589,Wireless Presenter,589,165.99
+Electronics,1189,Wireless Presenter,589,168.92
+Electronics,1889,Wireless Presenter,589,282.9
+Electronics,1389,Wireless Presenter,589,287.91
+Electronics,1089,Wireless Presenter,589,512.52
+Electronics,1289,Wireless Presenter,589,593.32
+Electronics,1489,Wireless Presenter,589,604.09
+Electronics,1689,Wireless Presenter,589,841.74
+Electronics,1989,Wireless Presenter,589,968.34
+Furniture,1923,Bookshelf,523,29.94
+Furniture,1423,Bookshelf,523,72.29
+Furniture,1223,Bookshelf,523,271.63
+Furniture,1723,Bookshelf,523,363.18
+Furniture,1523,Bookshelf,523,373.51
+Furniture,1123,Bookshelf,523,421.51
+Furniture,1323,Bookshelf,523,591.16
+Furniture,1023,Bookshelf,523,816.61
+Furniture,1623,Bookshelf,523,920.23
+Furniture,1823,Bookshelf,523,997.85
+Furniture,1773,Bookshelf,573,332.49
+Furniture,1273,Bookshelf,573,350.59
+Furniture,1873,Bookshelf,573,380.33
+Furniture,1473,Bookshelf,573,491.7
+Furniture,1073,Bookshelf,573,570.81
+Furniture,1673,Bookshelf,573,613.75
+Furniture,1973,Bookshelf,573,622.23
+Furniture,1373,Bookshelf,573,625.66
+Furniture,1573,Bookshelf,573,692.49
+Furniture,1173,Bookshelf,573,824.89
+Furniture,1406,Drawer Unit,506,31.87
+Furniture,1906,Drawer Unit,506,205.2
+Furniture,1006,Drawer Unit,506,208.15
+Furniture,1706,Drawer Unit,506,249.89
+Furniture,1806,Drawer Unit,506,347.67
+Furniture,1306,Drawer Unit,506,530.42
+Furniture,1606,Drawer Unit,506,559.29
+Furniture,1106,Drawer Unit,506,674.61
+Furniture,1206,Drawer Unit,506,800.14
+Furniture,1506,Drawer Unit,506,949.99
+Furniture,1056,Drawer Unit,556,11.94
+Furniture,1556,Drawer Unit,556,159.05
+Furniture,1856,Drawer Unit,556,275.73
+Furniture,1956,Drawer Unit,556,383.66
+Furniture,1156,Drawer Unit,556,391.59
+Furniture,1356,Drawer Unit,556,681.13
+Furniture,1256,Drawer Unit,556,761.68
+Furniture,1756,Drawer Unit,556,842.55
+Furniture,1456,Drawer Unit,556,878.19
+Furniture,1656,Drawer Unit,556,952.12
+Furniture,1548,File Cabinet,548,486.95
+Furniture,1648,File Cabinet,548,532.25
+Furniture,1948,File Cabinet,548,591.23
+Furniture,1248,File Cabinet,548,661.76
+Furniture,1048,File Cabinet,548,684.26
+Furniture,1448,File Cabinet,548,720.71
+Furniture,1848,File Cabinet,548,722.31
+Furniture,1348,File Cabinet,548,743.85
+Furniture,1748,File Cabinet,548,761.46
+Furniture,1148,File Cabinet,548,780.38
+Furniture,1998,File Cabinet,598,53.21
+Furniture,1798,File Cabinet,598,59.58
+Furniture,1598,File Cabinet,598,190.94
+Furniture,1898,File Cabinet,598,210.09
+Furniture,1198,File Cabinet,598,357.57
+Furniture,1398,File Cabinet,598,423.19
+Furniture,1498,File Cabinet,598,536.06
+Furniture,1098,File Cabinet,598,794.54
+Furniture,1698,File Cabinet,598,922.47
+Furniture,1298,File Cabinet,598,933.83
+Furniture,1718,Monitor Stand,518,106.21
+Furniture,1518,Monitor Stand,518,234.46
+Furniture,1618,Monitor Stand,518,252.59
+Furniture,1418,Monitor Stand,518,368.87
+Furniture,1818,Monitor Stand,518,381.81
+Furniture,1218,Monitor Stand,518,522.66
+Furniture,1118,Monitor Stand,518,651.62
+Furniture,1918,Monitor Stand,518,739.43
+Furniture,1018,Monitor Stand,518,909.83
+Furniture,1318,Monitor Stand,518,975.04
+Furniture,1768,Monitor Stand,568,31.79
+Furniture,1268,Monitor Stand,568,43.64
+Furniture,1068,Monitor Stand,568,130.7
+Furniture,1668,Monitor Stand,568,143.3
+Furniture,1368,Monitor Stand,568,670.62
+Furniture,1568,Monitor Stand,568,697.67
+Furniture,1968,Monitor Stand,568,743.39
+Furniture,1868,Monitor Stand,568,771.04
+Furniture,1468,Monitor Stand,568,969.67
+Furniture,1168,Monitor Stand,568,991.36
+Furniture,1601,Office Chair,501,122.19
+Furniture,1801,Office Chair,501,235.61
+Furniture,1501,Office Chair,501,295.17
+Furniture,1401,Office Chair,501,518.42
+Furniture,1301,Office Chair,501,539.05
+Furniture,1901,Office Chair,501,641.74
+Furniture,1001,Office Chair,501,664.47
+Furniture,1201,Office Chair,501,711.96
+Furniture,1701,Office Chair,501,714.52
+Furniture,1101,Office Chair,501,749.89
+Furniture,1151,Office Chair,551,95.87
+Furniture,1751,Office Chair,551,255.39
+Furniture,1251,Office Chair,551,273.64
+Furniture,1851,Office Chair,551,315.93
+Furniture,1551,Office Chair,551,369.74
+Furniture,1051,Office Chair,551,393.8
+Furniture,1451,Office Chair,551,421.1
+Furniture,1951,Office Chair,551,451.84
+Furniture,1351,Office Chair,551,635.32
+Furniture,1651,Office Chair,551,893.05
+Furniture,1836,Standing Desk,536,116.46
+Furniture,1536,Standing Desk,536,167.91
+Furniture,1936,Standing Desk,536,195.32
+Furniture,1136,Standing Desk,536,307.88
+Furniture,1736,Standing Desk,536,619.88
+Furniture,1236,Standing Desk,536,656.43
+Furniture,1036,Standing Desk,536,700.69
+Furniture,1636,Standing Desk,536,707.59
+Furniture,1436,Standing Desk,536,811.35
+Furniture,1336,Standing Desk,536,906.47
+Furniture,1286,Standing Desk,586,44.9
+Furniture,1686,Standing Desk,586,89.98
+Furniture,1886,Standing Desk,586,204.79
+Furniture,1186,Standing Desk,586,416.91
+Furniture,1986,Standing Desk,586,435.94
+Furniture,1486,Standing Desk,586,440.74
+Furniture,1386,Standing Desk,586,464.46
+Furniture,1786,Standing Desk,586,635.35
+Furniture,1086,Standing Desk,586,747
+Furniture,1586,Standing Desk,586,824.26
+Furniture,1832,Storage Shelf,532,249.14
+Furniture,1232,Storage Shelf,532,257.65
+Furniture,1432,Storage Shelf,532,373.57
+Furniture,1932,Storage Shelf,532,401.69
+Furniture,1332,Storage Shelf,532,555.58
+Furniture,1532,Storage Shelf,532,558.9
+Furniture,1732,Storage Shelf,532,563.82
+Furniture,1632,Storage Shelf,532,617.99
+Furniture,1032,Storage Shelf,532,680.43
+Furniture,1132,Storage Shelf,532,791.28
+Furniture,1082,Storage Shelf,582,35.99
+Furniture,1282,Storage Shelf,582,74.41
+Furniture,1682,Storage Shelf,582,358.01
+Furniture,1482,Storage Shelf,582,456.93
+Furniture,1582,Storage Shelf,582,796.99
+Furniture,1982,Storage Shelf,582,851.7
+Furniture,1182,Storage Shelf,582,937.93
+Furniture,1382,Storage Shelf,582,960.83
+Furniture,1882,Storage Shelf,582,977.71
+Furniture,1782,Storage Shelf,582,995.04
+Home & Kitchen,1634,Air Purifier,534,72.33
+Home & Kitchen,1734,Air Purifier,534,112.72
+Home & Kitchen,1934,Air Purifier,534,413.16
+Home & Kitchen,1434,Air Purifier,534,508.69
+Home & Kitchen,1234,Air Purifier,534,538.74
+Home & Kitchen,1334,Air Purifier,534,618.53
+Home & Kitchen,1534,Air Purifier,534,753.96
+Home & Kitchen,1834,Air Purifier,534,804.37
+Home & Kitchen,1134,Air Purifier,534,857.1
+Home & Kitchen,1034,Air Purifier,534,944.73
+Home & Kitchen,1484,Air Purifier,584,14.04
+Home & Kitchen,1784,Air Purifier,584,56.39
+Home & Kitchen,1384,Air Purifier,584,177.18
+Home & Kitchen,1984,Air Purifier,584,266.06
+Home & Kitchen,1284,Air Purifier,584,316.99
+Home & Kitchen,1684,Air Purifier,584,347.87
+Home & Kitchen,1884,Air Purifier,584,388.23
+Home & Kitchen,1584,Air Purifier,584,433.98
+Home & Kitchen,1084,Air Purifier,584,464.12
+Home & Kitchen,1184,Air Purifier,584,508.82
+Home & Kitchen,1207,Bath Towels,507,24.84
+Home & Kitchen,1007,Bath Towels,507,42.02
+Home & Kitchen,1507,Bath Towels,507,182.05
+Home & Kitchen,1907,Bath Towels,507,268.52
+Home & Kitchen,1407,Bath Towels,507,349.46
+Home & Kitchen,1307,Bath Towels,507,491.19
+Home & Kitchen,1107,Bath Towels,507,744.81
+Home & Kitchen,1707,Bath Towels,507,750.85
+Home & Kitchen,1607,Bath Towels,507,833.5
+Home & Kitchen,1807,Bath Towels,507,998.67
+Home & Kitchen,1257,Bath Towels,557,102.4
+Home & Kitchen,1557,Bath Towels,557,425.32
+Home & Kitchen,1657,Bath Towels,557,430.7
+Home & Kitchen,1157,Bath Towels,557,579.74
+Home & Kitchen,1457,Bath Towels,557,580.17
+Home & Kitchen,1357,Bath Towels,557,594.01
+Home & Kitchen,1957,Bath Towels,557,644.1
+Home & Kitchen,1857,Bath Towels,557,766.67
+Home & Kitchen,1757,Bath Towels,557,843.85
+Home & Kitchen,1057,Bath Towels,557,888.91
+Home & Kitchen,1202,Coffee Maker,502,58.23
+Home & Kitchen,1902,Coffee Maker,502,87.78
+Home & Kitchen,1702,Coffee Maker,502,113.8
+Home & Kitchen,1402,Coffee Maker,502,393.95
+Home & Kitchen,1002,Coffee Maker,502,409.26
+Home & Kitchen,1502,Coffee Maker,502,468.67
+Home & Kitchen,1602,Coffee Maker,502,589.1
+Home & Kitchen,1302,Coffee Maker,502,636.56
+Home & Kitchen,1802,Coffee Maker,502,751.56
+Home & Kitchen,1102,Coffee Maker,502,957.86
+Home & Kitchen,1252,Coffee Maker,552,114.5
+Home & Kitchen,1052,Coffee Maker,552,159.9
+Home & Kitchen,1752,Coffee Maker,552,363.7
+Home & Kitchen,1152,Coffee Maker,552,469.44
+Home & Kitchen,1552,Coffee Maker,552,521.39
+Home & Kitchen,1452,Coffee Maker,552,706.59
+Home & Kitchen,1652,Coffee Maker,552,729.35
+Home & Kitchen,1352,Coffee Maker,552,734.23
+Home & Kitchen,1952,Coffee Maker,552,774.92
+Home & Kitchen,1852,Coffee Maker,552,868.89
+Home & Kitchen,1045,Desk Lamp,545,86.25
+Home & Kitchen,1245,Desk Lamp,545,102.08
+Home & Kitchen,1945,Desk Lamp,545,142.06
+Home & Kitchen,1445,Desk Lamp,545,336.04
+Home & Kitchen,1745,Desk Lamp,545,352.55
+Home & Kitchen,1145,Desk Lamp,545,523.51
+Home & Kitchen,1645,Desk Lamp,545,739.75
+Home & Kitchen,1545,Desk Lamp,545,742.85
+Home & Kitchen,1845,Desk Lamp,545,913.07
+Home & Kitchen,1345,Desk Lamp,545,994.41
+Home & Kitchen,1895,Desk Lamp,595,131.87
+Home & Kitchen,1795,Desk Lamp,595,165.67
+Home & Kitchen,1095,Desk Lamp,595,338.72
+Home & Kitchen,1395,Desk Lamp,595,440.6
+Home & Kitchen,1495,Desk Lamp,595,672.61
+Home & Kitchen,1195,Desk Lamp,595,686.64
+Home & Kitchen,1295,Desk Lamp,595,750.76
+Home & Kitchen,1995,Desk Lamp,595,880.9
+Home & Kitchen,1695,Desk Lamp,595,940.82
+Home & Kitchen,1595,Desk Lamp,595,996.7
+Home & Kitchen,1042,Electric Kettle,542,154.16
+Home & Kitchen,1142,Electric Kettle,542,203.15
+Home & Kitchen,1942,Electric Kettle,542,244.58
+Home & Kitchen,1742,Electric Kettle,542,278.08
+Home & Kitchen,1242,Electric Kettle,542,444.69
+Home & Kitchen,1642,Electric Kettle,542,625.4
+Home & Kitchen,1442,Electric Kettle,542,645.05
+Home & Kitchen,1342,Electric Kettle,542,658.13
+Home & Kitchen,1842,Electric Kettle,542,714.38
+Home & Kitchen,1542,Electric Kettle,542,911.73
+Home & Kitchen,1992,Electric Kettle,592,42.98
+Home & Kitchen,1192,Electric Kettle,592,147.69
+Home & Kitchen,1692,Electric Kettle,592,174.28
+Home & Kitchen,1292,Electric Kettle,592,347.31
+Home & Kitchen,1092,Electric Kettle,592,359.63
+Home & Kitchen,1892,Electric Kettle,592,580.79
+Home & Kitchen,1392,Electric Kettle,592,662.85
+Home & Kitchen,1492,Electric Kettle,592,669.66
+Home & Kitchen,1792,Electric Kettle,592,829.03
+Home & Kitchen,1592,Electric Kettle,592,988.04
+Home & Kitchen,1917,Food Processor,517,143.47
+Home & Kitchen,1817,Food Processor,517,167.9
+Home & Kitchen,1117,Food Processor,517,171.93
+Home & Kitchen,1317,Food Processor,517,462.14
+Home & Kitchen,1517,Food Processor,517,615.49
+Home & Kitchen,1617,Food Processor,517,638.64
+Home & Kitchen,1417,Food Processor,517,820.13
+Home & Kitchen,1017,Food Processor,517,855.76
+Home & Kitchen,1217,Food Processor,517,855.78
+Home & Kitchen,1717,Food Processor,517,992.5
+Home & Kitchen,1867,Food Processor,567,136.67
+Home & Kitchen,1667,Food Processor,567,172.24
+Home & Kitchen,1967,Food Processor,567,260
+Home & Kitchen,1167,Food Processor,567,419.49
+Home & Kitchen,1267,Food Processor,567,535.1
+Home & Kitchen,1767,Food Processor,567,554.81
+Home & Kitchen,1067,Food Processor,567,564.21
+Home & Kitchen,1567,Food Processor,567,644.55
+Home & Kitchen,1367,Food Processor,567,726.93
+Home & Kitchen,1467,Food Processor,567,777.2
+Home & Kitchen,1830,Kitchen Blender,530,127.14
+Home & Kitchen,1430,Kitchen Blender,530,129.82
+Home & Kitchen,1230,Kitchen Blender,530,136.81
+Home & Kitchen,1530,Kitchen Blender,530,237.68
+Home & Kitchen,1130,Kitchen Blender,530,270.63
+Home & Kitchen,1730,Kitchen Blender,530,347.25
+Home & Kitchen,1630,Kitchen Blender,530,412.27
+Home & Kitchen,1030,Kitchen Blender,530,651.91
+Home & Kitchen,1330,Kitchen Blender,530,659.03
+Home & Kitchen,1930,Kitchen Blender,530,880.17
+Home & Kitchen,1380,Kitchen Blender,580,122.48
+Home & Kitchen,1180,Kitchen Blender,580,128.02
+Home & Kitchen,1680,Kitchen Blender,580,146.79
+Home & Kitchen,1080,Kitchen Blender,580,224.35
+Home & Kitchen,1580,Kitchen Blender,580,375.75
+Home & Kitchen,1280,Kitchen Blender,580,843.91
+Home & Kitchen,1480,Kitchen Blender,580,853.68
+Home & Kitchen,1880,Kitchen Blender,580,856.78
+Home & Kitchen,1780,Kitchen Blender,580,887.56
+Home & Kitchen,1980,Kitchen Blender,580,964.36
+Home & Kitchen,1012,Rice Cooker,512,36
+Home & Kitchen,1612,Rice Cooker,512,218.22
+Home & Kitchen,1712,Rice Cooker,512,550.09
+Home & Kitchen,1112,Rice Cooker,512,699.58
+Home & Kitchen,1212,Rice Cooker,512,765.86
+Home & Kitchen,1412,Rice Cooker,512,787.76
+Home & Kitchen,1812,Rice Cooker,512,842.29
+Home & Kitchen,1512,Rice Cooker,512,884.16
+Home & Kitchen,1312,Rice Cooker,512,912.16
+Home & Kitchen,1912,Rice Cooker,512,934.88
+Home & Kitchen,1862,Rice Cooker,562,190.19
+Home & Kitchen,1362,Rice Cooker,562,191.26
+Home & Kitchen,1262,Rice Cooker,562,241.37
+Home & Kitchen,1162,Rice Cooker,562,318.41
+Home & Kitchen,1962,Rice Cooker,562,542.94
+Home & Kitchen,1462,Rice Cooker,562,590.44
+Home & Kitchen,1562,Rice Cooker,562,617.7
+Home & Kitchen,1662,Rice Cooker,562,747.4
+Home & Kitchen,1062,Rice Cooker,562,765.28
+Home & Kitchen,1762,Rice Cooker,562,824.89
+Home & Kitchen,1529,Storage Containers,529,90.12
+Home & Kitchen,1029,Storage Containers,529,346.65
+Home & Kitchen,1629,Storage Containers,529,398.63
+Home & Kitchen,1929,Storage Containers,529,598.49
+Home & Kitchen,1129,Storage Containers,529,691.53
+Home & Kitchen,1229,Storage Containers,529,734.99
+Home & Kitchen,1329,Storage Containers,529,759.26
+Home & Kitchen,1829,Storage Containers,529,833.36
+Home & Kitchen,1729,Storage Containers,529,869.27
+Home & Kitchen,1429,Storage Containers,529,977.03
+Home & Kitchen,1779,Storage Containers,579,11.63
+Home & Kitchen,1579,Storage Containers,579,217.58
+Home & Kitchen,1879,Storage Containers,579,313.23
+Home & Kitchen,1479,Storage Containers,579,482.98
+Home & Kitchen,1179,Storage Containers,579,644.19
+Home & Kitchen,1279,Storage Containers,579,746.09
+Home & Kitchen,1379,Storage Containers,579,774.84
+Home & Kitchen,1079,Storage Containers,579,821.21
+Home & Kitchen,1679,Storage Containers,579,857.01
+Home & Kitchen,1979,Storage Containers,579,983.99
+Home & Kitchen,1737,Throw Pillows,537,37.49
+Home & Kitchen,1837,Throw Pillows,537,169.66
+Home & Kitchen,1437,Throw Pillows,537,204.4
+Home & Kitchen,1037,Throw Pillows,537,216.2
+Home & Kitchen,1137,Throw Pillows,537,290.75
+Home & Kitchen,1237,Throw Pillows,537,319.18
+Home & Kitchen,1537,Throw Pillows,537,328.92
+Home & Kitchen,1337,Throw Pillows,537,576.63
+Home & Kitchen,1937,Throw Pillows,537,755.95
+Home & Kitchen,1637,Throw Pillows,537,840.41
+Home & Kitchen,1687,Throw Pillows,587,13.68
+Home & Kitchen,1387,Throw Pillows,587,125.63
+Home & Kitchen,1287,Throw Pillows,587,189.06
+Home & Kitchen,1987,Throw Pillows,587,205.19
+Home & Kitchen,1487,Throw Pillows,587,386.76
+Home & Kitchen,1587,Throw Pillows,587,655.06
+Home & Kitchen,1787,Throw Pillows,587,703.85
+Home & Kitchen,1187,Throw Pillows,587,740.73
+Home & Kitchen,1087,Throw Pillows,587,889.82
+Home & Kitchen,1887,Throw Pillows,587,906.41
+Home & Kitchen,1714,Toaster Oven,514,72.73
+Home & Kitchen,1414,Toaster Oven,514,73.74
+Home & Kitchen,1314,Toaster Oven,514,92.56
+Home & Kitchen,1014,Toaster Oven,514,289.76
+Home & Kitchen,1514,Toaster Oven,514,305.17
+Home & Kitchen,1914,Toaster Oven,514,448.27
+Home & Kitchen,1814,Toaster Oven,514,586.95
+Home & Kitchen,1114,Toaster Oven,514,781.27
+Home & Kitchen,1214,Toaster Oven,514,828.46
+Home & Kitchen,1614,Toaster Oven,514,888.91
+Home & Kitchen,1764,Toaster Oven,564,14.19
+Home & Kitchen,1664,Toaster Oven,564,17.06
+Home & Kitchen,1864,Toaster Oven,564,205.31
+Home & Kitchen,1964,Toaster Oven,564,243.79
+Home & Kitchen,1364,Toaster Oven,564,525.95
+Home & Kitchen,1064,Toaster Oven,564,630.68
+Home & Kitchen,1564,Toaster Oven,564,694.44
+Home & Kitchen,1264,Toaster Oven,564,742.44
+Home & Kitchen,1164,Toaster Oven,564,789.37
+Home & Kitchen,1464,Toaster Oven,564,916.45
+Home & Kitchen,1831,Wall Clock,531,198.49
+Home & Kitchen,1131,Wall Clock,531,385.74
+Home & Kitchen,1031,Wall Clock,531,459.99
+Home & Kitchen,1431,Wall Clock,531,500.98
+Home & Kitchen,1631,Wall Clock,531,525.97
+Home & Kitchen,1531,Wall Clock,531,588.87
+Home & Kitchen,1331,Wall Clock,531,670.63
+Home & Kitchen,1731,Wall Clock,531,671.19
+Home & Kitchen,1231,Wall Clock,531,677.45
+Home & Kitchen,1931,Wall Clock,531,731.03
+Home & Kitchen,1581,Wall Clock,581,6.34
+Home & Kitchen,1481,Wall Clock,581,115.52
+Home & Kitchen,1981,Wall Clock,581,130.38
+Home & Kitchen,1181,Wall Clock,581,138.84
+Home & Kitchen,1881,Wall Clock,581,341.45
+Home & Kitchen,1681,Wall Clock,581,359.69
+Home & Kitchen,1081,Wall Clock,581,363.94
+Home & Kitchen,1781,Wall Clock,581,633.94
+Home & Kitchen,1281,Wall Clock,581,866.06
+Home & Kitchen,1381,Wall Clock,581,909.54
+Home & Kitchen,1247,Water Bottle,547,257.78
+Home & Kitchen,1847,Water Bottle,547,374.56
+Home & Kitchen,1047,Water Bottle,547,498.9
+Home & Kitchen,1547,Water Bottle,547,558.15
+Home & Kitchen,1147,Water Bottle,547,647.05
+Home & Kitchen,1947,Water Bottle,547,682.26
+Home & Kitchen,1747,Water Bottle,547,703.94
+Home & Kitchen,1447,Water Bottle,547,799.48
+Home & Kitchen,1347,Water Bottle,547,832.02
+Home & Kitchen,1647,Water Bottle,547,897.73
+Home & Kitchen,1097,Water Bottle,597,40.51
+Home & Kitchen,1897,Water Bottle,597,196.98
+Home & Kitchen,1597,Water Bottle,597,276.32
+Home & Kitchen,1697,Water Bottle,597,315.03
+Home & Kitchen,1997,Water Bottle,597,430.14
+Home & Kitchen,1397,Water Bottle,597,485.79
+Home & Kitchen,1197,Water Bottle,597,574.88
+Home & Kitchen,1797,Water Bottle,597,777.47
+Home & Kitchen,1497,Water Bottle,597,822.76
+Home & Kitchen,1297,Water Bottle,597,955.03

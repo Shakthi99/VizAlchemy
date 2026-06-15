@@ -1,0 +1,299 @@
+{
+  "compatibilityLevel": 1567,
+  "model": {
+    "culture": "en-US",
+    "dataAccessOptions": {
+      "fastCombine": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "tables": [
+      {
+        "name": "_Measures",
+        "isHidden": true,
+        "columns": [
+          {
+            "name": "Placeholder",
+            "dataType": "string",
+            "isHidden": true
+          }
+        ],
+        "partitions": [
+          {
+            "name": "_Measures",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    t = #table({\"x\"}, {{{\"\"}}})",
+                "in",
+                "    t"
+              ]
+            }
+          }
+        ],
+        "measures": [
+          {
+            "name": "Profit Ratio",
+            "expression": "SUM(Orders[Profit])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": "SUM([Profit])/SUM([Sales])"
+              },
+              {
+                "name": "Confidence",
+                "value": "0.95"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "Sales per Customer",
+            "expression": "SUM(Orders[Sales])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": "SUM([Sales])/COUNTD([Customer ID])"
+              },
+              {
+                "name": "Confidence",
+                "value": "0.95"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "Days to Ship",
+            "expression": "DATEDIFF(Orders[Order Date], Orders[Ship Date], DAY)",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": "DATEDIFF('day',[Order Date],[Ship Date])"
+              },
+              {
+                "name": "Confidence",
+                "value": "0.8"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "Above Average Sales",
+            "expression": "SUM(Orders[Sales])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": "SUM([Sales]) > {FIXED [Region] : AVG(SUM([Sales]))}"
+              },
+              {
+                "name": "Confidence",
+                "value": "0.95"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "Profit Band",
+            "expression": "IF([Profit] > 500, \"High\" ELSEIF [Profit] > 0 THEN \"Medium\", \"Loss\")",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": "IF [Profit] > 500 THEN \"High\" ELSEIF [Profit] > 0 THEN \"Medium\" ELSE \"Loss\" END"
+              },
+              {
+                "name": "Confidence",
+                "value": "0.8"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "YTD Sales",
+            "expression": "SUM(Orders[Sales])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": "RUNNING_SUM(SUM([Sales]))"
+              },
+              {
+                "name": "Confidence",
+                "value": "0.95"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "Customer Upper",
+            "expression": "UPPER(Orders[Customer Name])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": "UPPER([Customer Name])"
+              },
+              {
+                "name": "Confidence",
+                "value": "0.95"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "SUM of Sales",
+            "expression": "SUM(orders_ds[Sales])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": ""
+              },
+              {
+                "name": "Confidence",
+                "value": "0.9"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "SUM of Profit",
+            "expression": "SUM(orders_ds[Profit])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": ""
+              },
+              {
+                "name": "Confidence",
+                "value": "0.9"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "YEAR of Order Date",
+            "expression": "YEAR(orders_ds[Order Date])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": ""
+              },
+              {
+                "name": "Confidence",
+                "value": "0.9"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "MONTH of Order Date",
+            "expression": "MONTH(orders_ds[Order Date])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": ""
+              },
+              {
+                "name": "Confidence",
+                "value": "0.9"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          },
+          {
+            "name": "SUM of Quantity",
+            "expression": "SUM(orders_ds[Quantity])",
+            "formatString": "#,0.00",
+            "annotations": [
+              {
+                "name": "SourceFormula",
+                "value": ""
+              },
+              {
+                "name": "Confidence",
+                "value": "0.9"
+              },
+              {
+                "name": "NeedsReview",
+                "value": "False"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Orders",
+        "partitions": [
+          {
+            "name": "Orders",
+            "mode": "directQuery",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    Source = Sql.Database(\"sql-prod.company.com\", \"SalesDB\"),",
+                "    Table = Source{[Schema=\"dbo\", Item=\"Orders\"]}[Data]",
+                "in",
+                "    Table"
+              ]
+            }
+          }
+        ],
+        "columns": []
+      }
+    ],
+    "relationships": [],
+    "annotations": [
+      {
+        "name": "PBIDesktopVersion",
+        "value": "auto-generated"
+      },
+      {
+        "name": "GeneratedBy",
+        "value": "Tableau\u2192PBI Accelerator"
+      }
+    ]
+  }
+}

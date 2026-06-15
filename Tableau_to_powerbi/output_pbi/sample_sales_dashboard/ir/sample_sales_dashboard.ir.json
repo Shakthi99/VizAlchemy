@@ -1,0 +1,488 @@
+{
+  "workbook_name": "sample_sales_dashboard",
+  "source_file": "tableau_to_pbi/input_twb/sample_sales_dashboard.twb",
+  "datasources": [
+    {
+      "name": "orders_ds",
+      "caption": "Orders",
+      "connection_type": "sqlserver",
+      "server": "sql-prod.company.com",
+      "database": "SalesDB",
+      "schema_name": "dbo",
+      "table": "Orders",
+      "custom_sql": "",
+      "columns": [
+        {
+          "name": "Order ID",
+          "caption": "Order ID",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Order Date",
+          "caption": "Order Date",
+          "datatype": "date",
+          "role": "dimension",
+          "type": "temporal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Ship Date",
+          "caption": "Ship Date",
+          "datatype": "date",
+          "role": "dimension",
+          "type": "temporal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Customer ID",
+          "caption": "Customer ID",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Customer Name",
+          "caption": "Customer Name",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Segment",
+          "caption": "Segment",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Region",
+          "caption": "Region",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Category",
+          "caption": "Category",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Sub-Category",
+          "caption": "Sub-Category",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Product Name",
+          "caption": "Product Name",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Sales",
+          "caption": "Sales",
+          "datatype": "real",
+          "role": "measure",
+          "type": "quantitative",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Quantity",
+          "caption": "Quantity",
+          "datatype": "integer",
+          "role": "measure",
+          "type": "quantitative",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Discount",
+          "caption": "Discount",
+          "datatype": "real",
+          "role": "measure",
+          "type": "quantitative",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Profit",
+          "caption": "Profit",
+          "datatype": "real",
+          "role": "measure",
+          "type": "quantitative",
+          "formula": "",
+          "is_calculated": false,
+          "hidden": false
+        },
+        {
+          "name": "Profit Ratio",
+          "caption": "Profit Ratio",
+          "datatype": "real",
+          "role": "measure",
+          "type": "quantitative",
+          "formula": "SUM([Profit])/SUM([Sales])",
+          "is_calculated": true,
+          "hidden": false
+        },
+        {
+          "name": "Sales per Customer",
+          "caption": "Sales per Customer",
+          "datatype": "real",
+          "role": "measure",
+          "type": "quantitative",
+          "formula": "SUM([Sales])/COUNTD([Customer ID])",
+          "is_calculated": true,
+          "hidden": false
+        },
+        {
+          "name": "Days to Ship",
+          "caption": "Days to Ship",
+          "datatype": "integer",
+          "role": "measure",
+          "type": "quantitative",
+          "formula": "DATEDIFF('day',[Order Date],[Ship Date])",
+          "is_calculated": true,
+          "hidden": false
+        },
+        {
+          "name": "Above Average Sales",
+          "caption": "Above Average Sales",
+          "datatype": "boolean",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "SUM([Sales]) > {FIXED [Region] : AVG(SUM([Sales]))}",
+          "is_calculated": true,
+          "hidden": false
+        },
+        {
+          "name": "Profit Band",
+          "caption": "Profit Band",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "IF [Profit] > 500 THEN \"High\" ELSEIF [Profit] > 0 THEN \"Medium\" ELSE \"Loss\" END",
+          "is_calculated": true,
+          "hidden": false
+        },
+        {
+          "name": "YTD Sales",
+          "caption": "YTD Sales",
+          "datatype": "real",
+          "role": "measure",
+          "type": "quantitative",
+          "formula": "RUNNING_SUM(SUM([Sales]))",
+          "is_calculated": true,
+          "hidden": false
+        },
+        {
+          "name": "Customer Upper",
+          "caption": "Customer Upper",
+          "datatype": "string",
+          "role": "dimension",
+          "type": "nominal",
+          "formula": "UPPER([Customer Name])",
+          "is_calculated": true,
+          "hidden": false
+        }
+      ],
+      "joins": [],
+      "parameters": []
+    }
+  ],
+  "worksheets": [
+    {
+      "name": "Sales by Region",
+      "datasource": "orders_ds",
+      "mark_type": "bar",
+      "encodings": [
+        {
+          "shelf": "rows",
+          "field": "Sales",
+          "aggregation": "SUM",
+          "alias": ""
+        },
+        {
+          "shelf": "cols",
+          "field": "Region",
+          "aggregation": "NONE",
+          "alias": ""
+        }
+      ],
+      "filters": [
+        {
+          "field": "Segment",
+          "filter_type": "categorical",
+          "values": [],
+          "min_value": null,
+          "max_value": null,
+          "include_nulls": false,
+          "datasource": "orders_ds"
+        }
+      ],
+      "title": "",
+      "rows": [
+        "Sales"
+      ],
+      "cols": [
+        "Region"
+      ]
+    },
+    {
+      "name": "Profit by Category",
+      "datasource": "orders_ds",
+      "mark_type": "bar",
+      "encodings": [
+        {
+          "shelf": "rows",
+          "field": "Profit",
+          "aggregation": "SUM",
+          "alias": ""
+        },
+        {
+          "shelf": "cols",
+          "field": "Category",
+          "aggregation": "NONE",
+          "alias": ""
+        },
+        {
+          "shelf": "cols",
+          "field": "Sub-Category",
+          "aggregation": "NONE",
+          "alias": ""
+        }
+      ],
+      "filters": [],
+      "title": "",
+      "rows": [
+        "Profit"
+      ],
+      "cols": [
+        "Category",
+        "Sub-Category"
+      ]
+    },
+    {
+      "name": "Sales Trend",
+      "datasource": "orders_ds",
+      "mark_type": "line",
+      "encodings": [
+        {
+          "shelf": "rows",
+          "field": "Sales",
+          "aggregation": "SUM",
+          "alias": ""
+        },
+        {
+          "shelf": "rows",
+          "field": "Profit",
+          "aggregation": "SUM",
+          "alias": ""
+        },
+        {
+          "shelf": "cols",
+          "field": "Order Date",
+          "aggregation": "YEAR",
+          "alias": ""
+        },
+        {
+          "shelf": "cols",
+          "field": "Order Date",
+          "aggregation": "MONTH",
+          "alias": ""
+        }
+      ],
+      "filters": [],
+      "title": "",
+      "rows": [
+        "Sales",
+        "Profit"
+      ],
+      "cols": [
+        "Order Date",
+        "Order Date"
+      ]
+    },
+    {
+      "name": "Customer Scatter",
+      "datasource": "orders_ds",
+      "mark_type": "circle",
+      "encodings": [
+        {
+          "shelf": "rows",
+          "field": "Profit",
+          "aggregation": "SUM",
+          "alias": ""
+        },
+        {
+          "shelf": "cols",
+          "field": "Sales",
+          "aggregation": "SUM",
+          "alias": ""
+        }
+      ],
+      "filters": [],
+      "title": "",
+      "rows": [
+        "Profit"
+      ],
+      "cols": [
+        "Sales"
+      ]
+    },
+    {
+      "name": "Sales Map",
+      "datasource": "orders_ds",
+      "mark_type": "filled_map",
+      "encodings": [],
+      "filters": [],
+      "title": "",
+      "rows": [],
+      "cols": []
+    },
+    {
+      "name": "KPI Summary",
+      "datasource": "orders_ds",
+      "mark_type": "text",
+      "encodings": [
+        {
+          "shelf": "rows",
+          "field": "Sales",
+          "aggregation": "SUM",
+          "alias": ""
+        },
+        {
+          "shelf": "rows",
+          "field": "Profit",
+          "aggregation": "SUM",
+          "alias": ""
+        },
+        {
+          "shelf": "rows",
+          "field": "Quantity",
+          "aggregation": "SUM",
+          "alias": ""
+        }
+      ],
+      "filters": [],
+      "title": "",
+      "rows": [
+        "Sales",
+        "Profit",
+        "Quantity"
+      ],
+      "cols": []
+    }
+  ],
+  "dashboards": [
+    {
+      "name": "Executive Dashboard",
+      "width": 1366.0,
+      "height": 768.0,
+      "objects": [
+        {
+          "object_type": "worksheet",
+          "name": "Sales by Region",
+          "x": 0.0,
+          "y": 0.0,
+          "w": 683.0,
+          "h": 384.0
+        },
+        {
+          "object_type": "worksheet",
+          "name": "Profit by Category",
+          "x": 683.0,
+          "y": 0.0,
+          "w": 683.0,
+          "h": 384.0
+        },
+        {
+          "object_type": "worksheet",
+          "name": "Sales Trend",
+          "x": 0.0,
+          "y": 384.0,
+          "w": 683.0,
+          "h": 384.0
+        },
+        {
+          "object_type": "worksheet",
+          "name": "KPI Summary",
+          "x": 683.0,
+          "y": 384.0,
+          "w": 683.0,
+          "h": 384.0
+        }
+      ],
+      "actions": [
+        {
+          "name": "Filter Region",
+          "type": "filter",
+          "source": "Sales by Region",
+          "target": "Profit by Category"
+        }
+      ]
+    },
+    {
+      "name": "Customer Analysis",
+      "width": 1366.0,
+      "height": 768.0,
+      "objects": [
+        {
+          "object_type": "worksheet",
+          "name": "Customer Scatter",
+          "x": 0.0,
+          "y": 0.0,
+          "w": 910.0,
+          "h": 768.0
+        },
+        {
+          "object_type": "worksheet",
+          "name": "Sales Map",
+          "x": 910.0,
+          "y": 0.0,
+          "w": 456.0,
+          "h": 768.0
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "parameters": []
+}
